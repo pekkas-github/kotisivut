@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Helmikuu 2008">
+	<metatiedot>
+		<vuosi>2008</vuosi>
+		<kuukausi>Helmikuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Samin juttuja">
+			<kappale>
+				<kuva tiedosto="albumi/elokuva.jpg" muoto="vaaka" kuvaus="Samin elokuvaesitys" />
+				<teksti>
+				Samin koulussa käytiin jokavuotiset oppilaan vanhempien, oppilaan ja opettjan keskinäiset 
+				kehityskeskustelut. Opettajan kanssa totesimme, että Samin koulunkäynti on sujunut oikein 
+				hyvin, eikä siinä ole mitään huomautettavaa. Toimenpiteinä päätettiin, että jatketaan samaan 
+				malliin eteenpäin. Sami oli silminnähden tyytväinen kuunnellessaan positiivista palautetta.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Koulussa on opeteltu kertotaulu ja nyt on aloitettu jakolasku ja murtoluvut. Sami on 
+				myös suorittanut lukudiplomin eli lukenut tietyn määrän kirjoja ja tehnyt niihin liittyviä tehtäviä. 
+				Koulussa on kirjoitettu jopa runoja! En muista, että olisin sellaista joutunut tekemään koskaan 
+				omana kouluaikanani.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Luovuutta on koulussa harjoitettu myös atk:n yhteydessä (Sami kerran kyseli, mitä se atk 
+				tarkoittaa. "Automaattinen tietojenkäsittely". Kuulen historian siipien havinaa). Paintbrushin 
+				käyttöä on opiskeltu ja kuvia on piirretty. Kotona Sami yllätti meidät omalla 
+				animaatioelokuvallaan. Hän oli tehnyt oikein pääsyliputkin. Kokoonnuimme Samin huoneeseen 
+				katsomaan talvista mäenlaskuleffaa. Kuvat vaihtuivat automaattisesti ja siinä oli lopputekstit ja 
+				kaikki.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Tietokoneen ja internetin kanssa yksi villitys tällä hetkellä on Habbo Hotel. Siellä Sami touhuaa 
+				kaverinsa Samirin kanssa ties mitä. Käsittääkseni Habbo Hotel on kohtalaisen turvallinen 
+				yhteisö pienemmille koululaisillekin toimia. Samir yleensä soittaa lauantaiaamuna kello 				
+				kymmenen, kun me olemme tuskin heränneet, ja kohta pian ilmestyy oven taakse. Sitten pojat 
+				puuhastelevat koneen ääressä iltapäivään asti.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Niin sanottua hiihtolomaa">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_11.jpg" muoto="vaaka" kuvaus="Kotilampi kimmeltää aamun auringossa" />
+				<teksti>
+				Vietimme talvi- eli hiihtoloman tänä vuonna poissa kotoa. Olimme vuokranneet mökin 
+				Karjalohjalta siinä toivossa, että Sami ja Mirja pääsisivät hiihtämään. Pääsimme kyllä pois 
+				arkipäivän rutiineista, mutta sukset jätettiin suosiolla kotiin, koska maa oli lumeton ja sää kuin 
+				kevättä parhaimmillaan.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Siitä huolimatta, ja ehkä myös siitä syystä, loma oli tavattoman rentouttava. Olimme aivan 
+				omassa rauhassamme keskellä maaseutua, ei naapureita, ei liikenteen melua, ei aikatauluja, ei 
+				mitään pakollista tekemistä. Syötiin, saunottiin, nukuttiin, tehtiin palapeliä ja ristisanatehtäviä, 
+				luettiin ja ulkoiltiin. Koko viikon aikana emme lähiympäristössä nähneet kuin pari ihmistä. TV:n 
+				katseluakin yritettiin rajoittaa..
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Yhden iltapäivän vietimme laavulla, jonne oli parin kilometrin kävelymatka. Sami oli tohkeissaan 
+				nuotiosta ja makkaranpaistosta. Aurinko paistoi niin kirkkaasti, että piti oikein käyttää 
+				aurinkolaseja. Yksinkertainenkin evät maistuu mahdottoman hyvältä ulkona leirinuotion äärellä.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+				Hiljaisuus ja luonnonrauha ovat harvinaista herkkua, josta kaupungissa ja kotiympypyröissä ei 
+				käytännössä pääse osalliseksi. Ne ovat asioita, joita usin haikailen ja siksipä nautinkin suuresti 
+				siitä hiljaisuudesta ja kiireettömyydestä, josta saimme viikon ajan nauttia. Ja vaikka meillä ei 
+				mitään ihmeellistä tekemistä niin suuresti ollutkaan, niin tuntui että Samikin viihtyi, koska hän 
+				ehdotteli, että voisimme joskus toistekin vuokrata saman mökin.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/lumikellot.jpg" kuvaus="Lumikellot pihavaahteran alla"/>
+			<kuvaus>
+				Alkukuusta lämpö pysytteli plussalla. Lumet sulivat, mustarastas lauloi, lumikellot alkoivat kukkia, 
+				ensimmäiset siitepölyvaroitukset annettiin. Talviloma vietettiin suorastaan keväisen sään vallitessa 
+				ja Luukissa kuulemma pelattiin golfia.
+			</kuvaus>
+		</saa>
+		<ajatus>
+			<kuva tiedosto="albumi/kuva_23.jpg" />
+			<sitaatti>Muista, että maailma nauraa kanssasi, mutta itkeä saat yksin.</sitaatti>
+			<lahde>Harald Hirmuinen</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/virta.jpg" />
+			<kuvateksti>Jäätävä virta </kuvateksti>
+		</valokuva>
+	</vakiojutut>
+	<napit>
+		<nappi teksti="Kuvia helmikuulta" />
+	</napit>
+</uutissivu>
