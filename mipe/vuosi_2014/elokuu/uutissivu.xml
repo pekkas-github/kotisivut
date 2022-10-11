@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v3.0.xsl"?>
+
+<uutissivu otsikko="Elokuu 2014">
+	<metatiedot>
+		<vuosi>2014</vuosi>
+		<kuukausi>Elokuu</kuukausi>	
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Loma ja helteet päättyivät">
+			<kuva osoite="loma_sauna.jpg" muoto="pysty" kuvaus="Viimeiset helteet" />
+			<teksti>
+				Pitkä hellejakso kesti loman loppuun asti. Peräkkäisiä hellepäiviä oli peräti 38. Se sivuaa 
+				kaikkien aikojen tilastoitua ennätystä vuodelta 1973. Mutta sitten alkoivat työt, koulut ja
+				sateet. Lämmintä toki oli, mutta vettä tuli aika ajoin rajuina ukkoskuuroina. 
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Elisan kesäjuhlat Lintisllä">
+			<kuva osoite="lintsi_vuoristorata.jpg" muoto="vaaka" kuvaus="Jonotusta Vuoristorataan" />
+			<teksti>
+				Elisa järjesti perinteiset kesäjuhlat Linnanmäellä. Lintsi oli lauantaiaamupäivän muutaman tunnin ajan
+				vain elisalaisten käytössä. Kaikki laitteet olivat ilmaiseksi käytettävissä ja lisäksi saatiin
+				lounaskuponkeja ruokailua varten. Porukkaa tuntui kuitenkin olevan vähemmän kuin viime vuonna.
+			</teksti>
+			<teksti>
+				Mirja ja Samin kävivät useammassakin härvelissä (Mustekala ym.), mutta koko porukalla oltiin
+				Vuoristoradassa ja Rinkelissä. Sää oli melko aurinkoinen , mutta tietysti Rinkelikierroksella 
+				tihutteli se ainoa sadekuuro koko päivän aikana. 
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<albumi>
+		<kuvat otsikko="Lomatunnelmia">
+			<kuva osoite="loma_saalis.jpg" muoto="" kuvaus="Runsaasti mustikoita ja jokunen kanttarelli" />
+			<teksti>Mustikoita löytyi miltei takapihalta niin paljon kuin jaksoi kerätä. Löytyi muutama kanttarellikin sienikastikkeen aineksiksi.</teksti>
+			<kuva osoite="loma_joutsenet.jpg" muoto="" kuvaus="Joutsenet" />
+			<teksti>Joutsenpari vieraili järvellämme. Kuikkaperheelle se oli vakituinen asuinpaikka.</teksti>
+			<kuva osoite="antik_anna.jpg" />
+			<teksti>Elimäellä juotiin kahvit Antik-Annassa.</teksti>
+		</kuvat>
+		<kuvat otsikko="Kingi">
+			<kuva osoite="lintsi_kingi.jpg" kuvaus="Kingi" />
+			<teksti>Yhdet lensivät katapultilla ylös, toiset tulivat vapaalla pudotuksella alas. Aika hulluja molemmat.</teksti>
+		</kuvat>
+	</albumi>
+
+</uutissivu>
