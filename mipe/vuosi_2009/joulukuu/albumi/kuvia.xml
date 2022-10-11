@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../../muunnokset/kuvasivu_v2.xsl"?>
+
+<kuvaesitys otsikko="Joulukuun kuvia">
+	<kuva osoite="kuva1.jpg">Kiirettä piparipajalla</kuva>
+	<kuva osoite="kuva2.jpg">Aamuauringon kajastusta...</kuva>
+	<kuva osoite="kuva3.jpg">...puiden latvoissa.</kuva>
+	<kuva osoite="kuva5.jpg">-</kuva>
+	<kuva osoite="kuva6.jpg">Pihaterassi lumivyöryn jälkeen</kuva>
+	<kuva osoite="kuva4.jpg">Iltahämärä laskeutuu pihapiiriin</kuva>
+	<kuva osoite="kuva7.jpg">Pirkko oli kanssamme joulua viettämässä</kuva>
+	<kuva osoite="kuva9.jpg">Mummi ja mummin langat</kuva>
+	<kuva osoite="kuva10.jpg">Kärsivällinen kuuntelija</kuva>
+	<kuva osoite="kuva8.jpg">Rauhallista joulua</kuva>
+	<kuva osoite="kuva11.jpg">Malmin hautausmaa jouluyönä</kuva>
+	<kuva osoite="kuva13.jpg">Ohjeita on sivukaupalla...</kuva>
+	<kuva osoite="kuva14.jpg">...ja työ tarkkuutta vaatiivaa...</kuva>
+	<kuva osoite="kuva15.jpg">...mutta onneksi on hyvät välineet.</kuva>
+	<kuva osoite="kuva16.jpg">Luminen luonto on valoisa ja pehmeä...</kuva>
+	<kuva osoite="kuva17.jpg">...ja vaimentaa mukavasti ääniä.</kuva>
+	<kuva osoite="kuva18.jpg">Markus perehtyy Mirjan kännykän saloihin.</kuva>
+	<kuva osoite="kuva12.jpg">Ja aurinko laskee taas länteen.</kuva>
+</kuvaesitys>
+
