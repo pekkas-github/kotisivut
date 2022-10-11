@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Maaliskuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Maaliskuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Kymmenen vuotta kotisivuja">
+			<kuva osoite="sivu.jpg" muoto="vaaka" kuvaus="" />
+			<teksti>
+				Tänä keväänä "Salosten sähkösanomat" täyttää kymmenen vuotta. Virallinen julkaiseminen alkoi
+				maaliskuussa vuonna 2000. Siitä lähtien joka kuukausi on ilmestynyt uusi sivu, joka lyhyesti kertoo, 
+				mitä	meille kuuluu. Aina julkaisu ei tapahdu ihan "ajallaan", mutta ajantasaisuus ei olekaan se tärkein 
+				asia.	Tärkeintä on historiatiedon tallettaminen. Myöhemmin on mukava palata ajassa taakse päin ja 
+				palautella	mieliin vanhoja tapahtumia. Moni arvuuttelu jonkin tapahtuman ajankohdasta on ratkennut
+				kotisivuja tutkimalla.
+			</teksti>
+			<teksti>
+				Päiväkirjaosiossa on lisää tarinaa kotisivujen historiasta ja niiden kehittelystä.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Myöhästyneet itsenäisyyspäiväjuhlat">
+			<kuva osoite="tanssit.jpg" muoto="vaaka" kuvaus="" />
+			<teksti>
+				Helsingin ylipormestarin järjestämät perinteiset neljäsluokkalaisten koululaisten itsenäisyyspäiväjuhlat
+				siirrettiin sikainfluenssavaaran vuoksi maaliskuuhun. Koululaiset pääsivät kuin pääsivätkin odotettuun
+				juhlaansa kättelemään ylipormestaria, nauttimaan juhlien tarjoiluista ja tanssimaan koko syksyn
+				ajan opeteltuja tansseja.
+			</teksti>
+			<teksti>
+				Illalla koululla järjestettiin juhlatilaisuus vanhemmille ja sukulaisille. Oppilaat esittelivtä tanssitaitojaan
+				ja hienoja asujaan. Hyvin oli tanssit ja etiketti harjoiteltu. Pienet gentlemannit kumarsivat ja leidit niiasivat.
+				Suosikkitanssit taisivat kuitenkin olla uudempaa vuosikertaa. Rock, tiputanssi ja letkis näyttivät sujuvan
+				kaikkein rennoimmalla otteella.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Lunta, lunta ja lunta">
+			<kuva osoite="ranni.jpg" muoto="vaaka" kuvaus="" />
+			<teksti>
+				Lumen määrä ei maaliskuussa vähentynyt. Päinvastoin sitä sateli vielä lisää.Kaupungin lumiaurat kävivät
+				höyläämässä katujen pintaan pakkautuneen ja jäätyneen lumikerroksen pois, jolloin jäljelle jäin vain kapea
+				ränni, jota reunustivat korkeat jäälohkareiden muodostamat kinokset. Autot joutuivat väistelemään
+				talojen pihoille, jotta olisivat mahtuneet ohittamaan toisensa.
+			</teksti>
+			<teksti>
+				Loppukuusta sää hiukan lauhtui. Pihoihin pakkautunut lumi alkoi murentua ja muuttua lumiseksi pöperöksi.
+				Käveleminen muuttui hoiperteluksi ja autollakin meinasi juuttua lumipuuroon kiinni. Tämä talvi on ollut
+				lumisin miesmuistiin. Noinkohan lunta on vielä juhannuksenakin maassa.
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="valli.jpg" kuvaus="" />
+			<teksti>
+				Lunta sateli entisten lisäksi vielä lisääkin. Lämpö pysytteli pakksella, joten lumet eivät sulamalla
+				vähentyneet. Loppukuusta alkoi sää vähän lauhtua.
+			</teksti>
+		</saa>
+		<ajatus>
+			<sitaatti>Ei ole loppua - on vain seuraava askel</sitaatti>
+			<lahde>Garr Reynolds kirjassa "Esityksen suunnittelu"</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="piha.jpg" />
+			<teksti></teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

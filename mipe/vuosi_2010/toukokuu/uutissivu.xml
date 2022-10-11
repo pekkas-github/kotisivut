@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Toukokuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Toukokuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Sukutapaaminen Mummolassa">
+			<kuva osoite="mummola.jpg" muoto="vaaka" kuvaus="Mummolassa oli tunnelmaa" />
+			<teksti>
+				Keväisen sateen saattelemana järjestettiin Häkkisten suvun
+				sukutapaaminen. Paikalla olivat kaikki kotimaassa olleet Verner ja
+				Tyyni Häkkisen jälkeläiset perheenjäsenineen. Tapaamispaikkana
+				oli tapahtuman henkeen hyvin sopiva kodikas ravintola Mummola.
+				Ruokailtiin, seurusteltiin ja kisailtiin. Mukavaa on kokoontua koko 
+				suvun kesken rennon epävirallisissa merkeissä, eikä pelkästään 
+				häissä ja hautajaisissa.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Mirjan työpaikka">
+			<teksti>
+				Mirja on viimeisen vuoden ollut määräaikaisissa työsuhteissa Elisassa.
+				Määräajan päättyessä oli riski tulla irtisanotuksi, ellei sopivaa uutta
+				määräaikaisuutta olisi löytynyt.
+			</teksti>
+			<teksti>
+				Nyt Mirja on onnistun saamaan vaikinaisen paikan. Jokseenkin samat
+				hommat jatkuvat, mutta vakinaisessa työsuhteessa.
+				Palkasta joutuu vähän tinkimään, mutta toisaalta ei koko ajan tarvitse
+				ajatella, löytyykö jatkoa, kun määräaika umpeutuu.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Terveellistä eksotiikkaa">
+			<kuva osoite="superfood.jpg" muoto="vaaka" />
+			<teksti>
+				Mirja on perhtynyt terveisiin elämäntapoihin ja ruokavalioomme on
+				ilmestynyt eksoottisia "superfoodiksi" kutsuttuja elementtejä. Mirja on
+				tehnyt maustettuja levitteitä luomuvoista ja rypsiöljystä. Yhdessä Samin
+				kanssa he valmistivat omatekoista suklaata kaakaosta, kaakaovoista,
+				goji-marjoista ja jostakin "nipseistä". Suklaasta tulikin paitsi hyvää niin
+				myös terveellstä.
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="nurtsi.jpg" kuvaus="Ruoho kasvoi silmissä." />
+			<teksti>
+				Lämpöaalto kiihdytti kevään huimaan vauhtiin. Luonto muuttui
+				vihreäksi viikossa. Käenkin kuultiin kukkuvan aivan lähimetsässä.
+			</teksti>
+		</saa>
+		<ajatus>
+			<sitaatti>Laatu säilyy vielä kauan sen jälkeen, kun hinta on jo unohtunut</sitaatti>
+			<lahde>Sir Henry Royce</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="neitoperho.jpg" />
+			<teksti>Neitoperhonen</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

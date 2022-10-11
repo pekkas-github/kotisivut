@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Helmikuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Helmikuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Luminen talvi">
+			<kuva osoite="lumet.JPG" muoto="vaaka" kuvaus="Lunta oli katoilla jopa metrin paksuudelta" />
+			<teksti>
+				Helmikuu oli sekä kylmä että luminen. Kadut kapenivat entisestään ja liikenteellä
+				niin kaduilla kuin kiskoilla oli vaikeuksia. Junat myöhästelivät ja olivat ruuhkaisia.
+				Lunta kertyi katoille paksuiksi kerroksiksi. Monissa vanhoissa kerrostaloissa
+				jäätyneet rännit ja sulava lumi aiheuttivat vesivahinkoja. Joidenkin hallien kattoja
+				romahti ja muutamia kauppoja evakuoitiin romahdusvaaran pelossa.
+			</teksti>
+			<teksti>
+				TV:ssä kehotettiin tarkkailemaan myös omakotitalojen lumikuormia. Asiantuntija
+				suositteli lumien pudottamista, jos sitä alkaa olla 80 sentin kerros. Ihmiset
+				ryntäsivät katoille ja seuraksena oli muutamia kuolemantapauksia ja kymmenittäin
+				leikkaushoitoa vaatineita loukkaantumisia.
+			</teksti>
+			<teksti>
+				Omalla katollamme oli myös huomattavan paksu lumipatja. Tilannetta hiukan 
+				helpotti loppukuussa kohonnut lämpötila, jonka seurauksena pihan puoleinen
+				lape tyhjeni lumesta kertarysäyksellä. Lunta tuli varmasti tonnikaupalla. Ikkunan
+				alle ilmestyi lähes kaksimetrinen kinos, kun lumi kasaantui kymmenien neliöiden
+				alalta yhteen läjään.
+			</teksti>
+			<nappi teksti="Lumikuvia takapihalta" osoite="albumi/lumikuvat.xml" />
+		</tapahtuma>
+		<tapahtuma otsikko="Talviloma">
+			<kuva osoite="mokki.JPG" muoto="vaaka" kuvaus="Lomamökkimme Hauholla" />
+			<teksti>
+				Talvilomaa vietimme Hauholta vuokraamassamme mökissä. Asuimme viikon
+				lumen ja pakkasen keskellä. Mirja ja Sami kävivät hiihtämässä ja luistelemassa,
+				mutta kahdessakymmenessä pysytellyt pakkanen piti meidät useana päivänä
+				enimmäkseen sisällä.
+			</teksti>
+			<teksti>
+				Mökki oli järven rannalla ja aivan maantien vieressä. Ajomatkan kannalta aivan
+				ihanteellisella paikalla. Tosin risteys oli niin huomaamaton ja lumikinosten piilottama,
+				että ilman etukäteistutustumista Google uusien "street view" kuvien avulla
+				maamerkkeihin, olisimme ajaneet varmasti ohitse. 
+			</teksti>
+			<nappi teksti="Lomakuvia Hauholta" osoite="albumi/lomakuvat.xml" />
+
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="mittari.JPG" kuvaus="Pakkasta oli kireästi" />
+			<teksti>
+				Helmilkuu taisi olla pariinkymmeneen vuoteen kylmin ja lumisin. Ainakin lumisin.
+			</teksti>
+		</saa>
+		<ajatus>
+			<kuva osoite="enkeli.JPG" />
+			<sitaatti>Kaikki ajavat onnea takaa, mutta eivät huomaa, että se onkin heidän kintereillään.</sitaatti>
+			<lahde>Bertolt Brecht</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="kaisla.JPG" />
+			<teksti>Luminen kaisla</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

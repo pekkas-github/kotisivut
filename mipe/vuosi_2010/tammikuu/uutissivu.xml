@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Tammikuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Tammikuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Liikennekaaosta">
+			<kuva osoite="vr_kuulutus.jpg" muoto="pysty" kuvaus="VR:llä eivät hyytyneet vain junat. vaan myös kuulutus." />
+			<teksti>
+				Vuosi alkoi rytinällä. Helsingin ratapihalla tyhjän matkustajajunan viimeiset kaksikerrosvaunut
+				irtosivat veturista ja pääsivät karkuun. Alamäen vuoksi vaunut vyöryivät rautatieasemalle
+				ja matka päättyi hotellin seinään, tai itse asiassa useita metrejä rakennuksen sisään.
+				Ripeän toiminnan ansiosta henkilövahingoilta onneksi vältyttiin, eikä rakennuksessakaan todettu
+				romahdusvaaraa.
+			</teksti>
+			<teksti>
+				Onnettomuudesta ja sen raivauksesta seurasi kuitenkin rautatieliikenteen kaaos, jota edesauttoi 
+				pakkanen ja lumipyry.	Raivaustyöt kestivät vain muutamia päiviä, mutta huonot ajokelit jatkuivat 
+				pitkään ja VR:n kalustoa oli jatkuvasti huollossa ja sulatettavana. Lyhennetyillä junilla, harvennetuilla 
+				aikatauluilla ja usein myöhästellen ajettiin koko tammikuu. Matkustajien kärsivällisyys oli usein 
+				koetuksella ja pinnat kiristyivät kilvan pakkasen kanssa.
+			</teksti>
+			<teksti>
+				Lunta satoi tammikuussa niin paljon, että viimeksi sitä on ollut yhtä paljon 1980-luvun alkupuolella.
+				Lumi oli kevyttä pakkaslunta, joten se oli kevyttä, mutta sitä paksumpaa. Paikat, joihin luodut lumet
+				saattoi kasata, alkoivat loppua. Jalkakäytävät katosivat ja kadut kapenivat. Jalankulkijoilla ja autoilla
+				oli yhteinen lumivallien reunustama väylä. Kaupungin aurauskalusto ei kerinnyt joka paikkaan. 
+				Pelastuslaitos vetosi kansalaisiin, että he talkoo voimin pitäisivät pelastustiet avoinna. Ja lisää lunta
+				oli tiedossa.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Lunta ja pakkasta">
+			<kuva osoite="koivu.jpg" muoto="pysty" kuvaus="Puut kuurassa" />
+			<teksti>
+				Jos tammikuu oli poikkeuksellisen luminen, niin oli se myös poikkeuksellisen kaunis. Samalla, kun 
+				pakkanen oli lähellä kahtakymmentä, oli myös erittäin kosteata. Välillä oli täysin sumuista ja välillä
+				kirkasta auringon paistetta.	Alijäähtynyt sumu tiivistyi puiden oksille ja rungoille ja muutti ne 
+				sadunomaisiksi taideteoksiksi. Parin viikon ajan saatiin ihastella kautta koko maan kaunista
+				talvimaisemaa.
+			</teksti>
+			<teksti>
+				Runsas lumi mahdollisti myös talvilajien harrastamisen. Mirja ja Sami kävivät hiihtämässä ja sitä
+				teki moni muukin. Talviurheiluvälineet loppuivat useimmista urheiluvälineliikkeistä, kun moni pitkästä
+				aikaa innostui verestämään hiihto- tai luisteluharrastustaan.
+			</teksti>
+			<nappi teksti="Talvisia kuvia" osoite="albumi/kuvat.xml" />
+
+		</tapahtuma>
+		<tapahtuma otsikko="Picasso">
+			<teksti>
+				Pablo Picasso teki elämänsä aikana lähes 50 000 teosta. Parisen sataa niistä oli saatu Suomeen
+				Ateneumin taidenäyttelyyn. Pekka ja Sami kävivät tutustumassa mestarin hengentuotteisiin viimeisenä
+				näyttelypäivänä.
+			</teksti>
+			<teksti>
+				Näyttely oli Ateneumin kaikkien aikojen suosituin, ja vielä viimeisenä päivänäkin jouduttiin jonottamaan
+				sisäänpääsyä. Ihmisvirta kulki kuitenkin varsin hyvin tilojen läpi, eikä pahempia ruuhkia päässyt 
+				syntymään missään vaiheessa.
+			</teksti>
+			<teksti>
+				Sami oli varsin kiinnostunut oudonkin näköisistä teoksista. Nimien perusteella yritettiin hahmottaa ja
+				analysoida, mitä ne milloinkin mahtoivat esittää. Oli joukossa toki ihan tavallisenkin näköistä taidetta.
+				Picasso oli loppujen lopuksi erittäin monipuolinen ja kaikki tekniikat hallitseva taiteilija ja kubismi,
+				johon hänet yleensä liitetään, oli vain yksi vaihe hänen uransa alkuvaiheessa. 
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="piha.jpg" kuvaus="Pakkasaamun sinerrystä" />
+			<teksti>
+				Tammikuussa oli tasaisen kylmää (lähes -20 asetta) ja lumista. Lunta sateli hiljaisen huomaamattomasti
+				ja lopulta sitä oli kertynyt noin puoli metriä. Sää vaihteli sopivasti pilvisen ja aurinkoisen välillä.
+			</teksti>
+		</saa>
+		<ajatus>
+			<sitaatti>Juuri lapsi tajuaa, miten tarpeeton on tähdellistä</sitaatti>
+			<lahde>Hannu Väisänen - Vanikan palat</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="huurre.jpg" />
+			<teksti>Huurretta oksilla</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>
