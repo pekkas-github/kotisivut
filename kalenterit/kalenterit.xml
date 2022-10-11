@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../muunnokset/kalenterit.xsl"?>
+
+<Kalenterit>
+	<Vuosi vuosi="1999">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>18.1.1999</Pvm>
+				<Nimi>Hirvo 70 v</Nimi>
+				<Kuvaus>Vietettiin Hirvon 70-vuotispäiviä Vuosaaressa</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>14.2.1999</Pvm>
+				<Nimi>Olli 70 v</Nimi>
+				<Kuvaus>Vietettiin Ollin 70-vuotispäiviä Malmilla</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>15.2.1999</Pvm>
+				<Nimi>Mirjan äitiysloma</Nimi>
+				<Kuvaus>Mirjan äitiysloma alkoi (ja kesti runsaat kolme vuotta)</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.2.1999</Pvm>
+				<Nimi>HPY:n vuosijuhla</Nimi>
+				<Kuvaus>Vuosijuhlaa vietettiin kansallisoopperassa, kappaleena Les
+				 Miserables. "Elmeri" säpsähteli Mirjan vatsassa kovimpien äänien 
+				 kohdalla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>25.3.1999</Pvm>
+				<Nimi>ELMERI</Nimi>
+				<Kuvaus>Terve poika otettiin maailmaan klo 21.16. Pituus 50,5 cm ja 
+				paino 3830 g. Vietimme Kätilöopiston Haikaranpesässä neljä päivää 
+				koko perhe.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.-22.4.1999</Pvm>
+				<Nimi> Isyysloma</Nimi>
+				<Kuvaus>Isyysloma meni suurimmalta osaltaan käsittämättömässä 
+				"sumussa". Ei tullut kuuloonkaan, että olisin pystynyt keskittymään 
+				niihin työasioihin, joita kuvittelin tekeväni isyysloman aikana. 
+				Visa-korttikin pääsi menemään vanhaksi ja se tuli ilmi vasta kaupan
+				 kassalla, juuri pääsiäispyhien alla. </Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>3.4.1999</Pvm>
+				<Nimi> Mirja 40 v</Nimi>
+				<Kuvaus>Mirjan 40 vuotissynttäreitä vietettiin rauhallisesti kotosalla. 
+				Sattuneesta syystä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.4.1999</Pvm>
+				<Nimi>Elmeri 1kk</Nimi>
+				<Kuvaus>Näkee kasvot läheltä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>25.5.1999</Pvm>
+				<Nimi>Elmeri 2kk</Nimi>
+				<Kuvaus>On kiinnostunut (äänekkäistä) leluista. Hymyilee aktiivisesti.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>29.5.1999</Pvm>
+				<Nimi>Ristiäiset</Nimi>
+				<Kuvaus>"Elmeri" sai nimeksi Sami Aleksi. Ristiäiset pidettiin Malmin 
+				kirkossa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>5.6.1999</Pvm>
+				<Nimi>Petri ylioppilaaksi</Nimi>
+				<Kuvaus>Petrin ylioppilasjuhlia vietettiin Pukinmäessä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>18.6.-6.7.1999</Pvm>
+				<Nimi>Tiina ja Alexa</Nimi>
+				<Kuvaus>Tiina ja Alexa olivat tulleet Ameriikoista Suomeen tapaamaan 
+				sukulaisia.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.6.1999</Pvm>
+				<Nimi>Sami 3kk</Nimi>
+				<Kuvaus>Imee peukkua ja käsiään. Jokeltelee. Viihtyy jo vähän 
+				yksinäänkin.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>5.7.-30.7.1999</Pvm>
+				<Nimi>Kesäloma</Nimi>
+				<Kuvaus>Pekan kesäloma. Golfia ei pelattu lainkaan. Heinäkuu oli 
+				tavattoman lämmin ja kaunis.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>5.7.1999</Pvm>
+				<Nimi>ISDN</Nimi>
+				<Kuvaus>Kotiin asennettiin ISDN-liittymä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>8.8.1999</Pvm>
+				<Nimi>Uudet sängyt</Nimi>
+				<Kuvaus>Luovuimme vesisängystä ja vaihdoimme uusiin 
+				joustinpatjoihin. Totuttelu vei aika kauan. Sängyt ovat ainakin 20 cm
+				korkeammat kuin entinen.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.8.1999</Pvm>
+				<Nimi>Beach Volley</Nimi>
+				<Kuvaus>Kävimme pelailemassa TIK:n porukalla beach volleytä 
+				Keimolan Kaiun majalla.</Kuvaus>
+			</Tapahtuma>
+				<Tapahtuma>
+				<Pvm>28.8.1999</Pvm>
+				<Nimi>TIK-TIF</Nimi>
+				<Kuvaus>Ottelut pelattiin Myyrmäen ammattikoululla. Jatkot oli 
+				järjestetty Lahnuksen majalla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>11.9.1999</Pvm>
+				<Nimi>Maila 70 v</Nimi>
+				<Kuvaus>Mailan 70-vuotispäiviä vietettiin Malmilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.-17.9.1999</Pvm>
+				<Nimi>Katinkulta</Nimi>
+				<Kuvaus>Koko perhe oli Mummin ja Vaarin vieraina Katinkullassa
+				</Kuvaus>
+			</Tapahtuma>
+	</Kuukausi>
+	<Kuukausi kk="Lokakuu">
+	</Kuukausi>
+	<Kuukausi kk="Marraskuu">
+			<Tapahtuma>
+				<Pvm>28.11.1999</Pvm>
+				<Nimi>Suvun pikkujoulut</Nimi>
+				<Kuvaus>Pikkujoulut vietettiin Heikinlaaksossa. Eilakin oli päässyt
+				paikalle.</Kuvaus>
+			</Tapahtuma>
+	</Kuukausi>
+	<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>24.12.1999</Pvm>
+				<Nimi>Samin eka joulu</Nimi>
+				<Kuvaus>Joulua vietettiin mummin ja vaarin luona Vuosaaressa.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>31.12.1999</Pvm>
+				<Nimi>Uusi vuosi</Nimi>
+				<Kuvaus>Rakettien ammuskelua käytiin ensin katselemassa Tikkurilan
+				 takana ja vielä puolilta öin Puistolan puoleisella pellolla. Pauke oli 
+				 armoton ja ilma oli täynnä ruudinsavua, mutta Samin unta se ei 
+				 tuntunut häiritsevän tippaakaan. </Kuvaus>
+			</Tapahtuma>
+	</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2000">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>1.1.2000</Pvm>
+				<Nimi>Uuden vuosituhannen alku</Nimi>
+				<Kuvaus>Vuosituhat vaihtui ilman pelättyä tietojärjestelmien sekoilua.
+				Olikohan turhan aikaista hössötystä koko touhu? Ehkä ei kuitenkaan.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.1.2000</Pvm>
+				<Nimi>Konsernin vuosijuhlat</Nimi>
+				<Kuvaus>Elisa Communications -konsernin yhteiset vuosijuhlat pidettiin
+				Länsi-Auto Areenalla Espoossa. Mirja oli juhlimassa, Pekka oli kotona 
+				Samia hoitamassa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>11.2.2000</Pvm>
+				<Nimi>TIK - YLE</Nimi>
+				<Kuvaus>TIK-YLE kymmenottelun 20-vuotisjuhlia vietettiin YLEn Isossa 
+				pajassa. Puheita pidettiin ja syötiin ja juotiin.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.2.2000</Pvm>
+				<Nimi>Kajn 50-vuotisjuhlat</Nimi>
+				<Kuvaus>Juhlittiin Malminiityssä sukulaisten kesken. Sami oli vähän 
+				ihmeissään</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>22.3.2000</Pvm>
+				<Nimi>Samin 1-vuotisneuvola</Nimi>
+				<Kuvaus>Pituus 75 cm ja paino n. 10 kg</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.-26.3.2000</Pvm>
+				<Nimi>Samin 1-vuotisynttärit</Nimi>
+				<Kuvaus>Kaikki vieraat eivät mahtuneet samalle päivälle, joten äidin 
+				sukulaiset kävivät ensimmäisenä päivänä (mummi ja ukki lähtivät 
+				seuraavana päivänä Budapestiin) ja iskän sukulaiset tulivat toisena 
+				päivänä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>4.4.2000</Pvm>
+				<Nimi>Ladyt lavalla</Nimi>
+				<Kuvaus>Mirja kävi ladyjen konsertissa Länsi-Auto Areenalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>8.-9.4.2000</Pvm>
+				<Nimi>Finnet-lentopallo</Nimi>
+				<Kuvaus>Turnaus pelattiin Tampereella. Pekka edusti Datatien 
+				joukkuetta sekasarjassa, Mirja oli Samin kanssa kotona. Sijoitus oli 
+				seitsemäs. HPY:n miehet ja naiset voittivat omat sarjansa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>9.4.2000</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>Pääsisäisbrunssia nautittiin mummin ja vaarin luona vähän
+				 etuajassa, koska pääsiäisenä mummi ja vaari olivat Tanskassa lomalla.
+				 </Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>16.-28.4.2000</Pvm>
+				<Nimi>Talviloma Tanskassa</Nimi>
+				<Kuvaus>Olimme koko perhe isomman porukan mukana Jyllannissa 
+				pelaamassa golfia.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>3.5.2000</Pvm>
+				<Nimi>Tom Jones</Nimi>
+				<Kuvaus>Mirja kävi Tom Jonesin konsertissa Hartwall Arenalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.5.2000</Pvm>
+				<Nimi>UIT</Nimi>
+				<Kuvaus>Mirja ja Pekka olivat Peacockissa katsomassa UIT:n esitystä 
+				"OHO sano Iimeili!"</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>23.-25.6.2000</Pvm>
+				<Nimi>Juhannus</Nimi>
+				<Kuvaus>Kaunista ilmaa juhannuksena. Kyläiltiin Ristinummella Anjan 
+				ja Markuksen mökillä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28.6.2000</Pvm>
+				<Nimi>Muutto Malmille</Nimi>
+				<Kuvaus>Pekan työpiste muutti Pasilasta Malmille. Pasilassa tulikin oltua
+				 alun toistakymmentä vuotta.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>10.-28.7.2000</Pvm>
+				<Nimi>Kesäloma</Nimi>
+				<Kuvaus>Golfia, terassikierrosta, mökkeilyä Tupluurissa. Sää oli vähän 
+				epävakainen.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.-20.7.2000</Pvm>
+				<Nimi>Tupluuri</Nimi>
+				<Kuvaus>Vietettiin lomaa vuokramökissä Tupluurissa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>11.-13.8.2000</Pvm>
+				<Nimi>Juankoski</Nimi>
+				<Kuvaus>Olimme Mirjan kummipojan Tomin häissä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>9.-16.9.2000</Pvm>
+				<Nimi>Katinkulta</Nimi>
+				<Kuvaus>Koko perhe oli Mummin ja Vaarin vieraina Katinkullassa
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>8.10.2000</Pvm>
+				<Nimi>Aili 100v</Nimi>
+				<Kuvaus>Vietimme Mummin ja Vaarin luona Pekan isoäidin 100 
+				vuotisjuhlia</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.10.2000</Pvm>
+				<Nimi>Golf-kausi</Nimi>
+				<Kuvaus>Pekan kauden viimeinen kierros Nurmijärvellä</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>4.11.2000</Pvm>
+				<Nimi>Rikun synttärit</Nimi>
+				<Kuvaus>Vietimme Korsossa Tuulan ja Kaitsun luona Rikun 3-
+				vuotissynttäreitä</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>10.11.2000</Pvm>
+				<Nimi>TIK 75</Nimi>
+				<Kuvaus>Olimme Mirjan kanssa TIK:n 75-vuotisjuhlissa Pasilan
+				 ruokalassa</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.11.2000</Pvm>
+				<Nimi>Piian synttärit</Nimi>
+				<Kuvaus>Vietettiin Askistossa Piian 8-vuotissynttäreitä</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.11.2000</Pvm>
+				<Nimi>Tuparit</Nimi>
+				<Kuvaus>Pekan työkavereiden tupaantuliaiset Leppävaarassa, 
+				avec.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.11.2000</Pvm>
+				<Nimi>Joulukonsertti</Nimi>
+				<Kuvaus>LM Ericssonin joulukonsertti Vanhassa kirkossa 
+				(Candomino)</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>2.12.2000</Pvm>
+				<Nimi>Suvun pikkujoulu</Nimi>
+				<Kuvaus>Vietettiin pikkujoulua Vuosaaressa Mummin ja Vaarin luona
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.12.2000</Pvm>
+				<Nimi>Siemensin pikkujoulu</Nimi>
+				<Kuvaus>Mirja Siemensin pikkujouluissa Perkkaalla</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.12.2000</Pvm>
+				<Nimi>Jouluaatto</Nimi>
+				<Kuvaus>Vietimme Joulua Malmilla Mummin, Ukin ja Wegujen 
+				kanssa</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.12.2000</Pvm>
+				<Nimi>Pesosilla</Nimi>
+				<Kuvaus>Käytiin joulukahvilla Pesosilla Askistossa</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.12.2000</Pvm>
+				<Nimi>Joulupäivällinen</Nimi>
+				<Kuvaus>Mummi ja Vaari olivat joulupäivällisellä. </Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2001">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>1.1.2001</Pvm>
+				<Nimi>Uusi vuosi</Nimi>
+				<Kuvaus>	Kaksi vuosituhatta ajanlaskumme alusta tuli täyteen. </Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>15.1.2001</Pvm>
+				<Nimi>Asuntolaina</Nimi>
+				<Kuvaus>Asuntolainan viimeinen erä meni maksuun.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.1.2001</Pvm>
+				<Nimi>ONSin 1-vuotispippalot</Nimi>
+				<Kuvaus>Mirja oli juhlimassa oman liiketoimintayksikkönsä (ONS) 
+				1-vuotissynttäreitä Kaivohuoneella. Tänä vuonna ei konsernin 
+				vuosijuhlia järjestetty.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.1.2001</Pvm>
+				<Nimi>Lentopalloa Jyväskylässä</Nimi>
+				<Kuvaus>Mirja oli pelaamassa Jyväskylässä perinteistä puhelinyhtiöiden 
+				Helsinki-Tampere-Jyväskylä turnausta. Voitto tuli kotiin.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>2.2.2001</Pvm>
+				<Nimi>Pakkasta</Nimi>
+				<Kuvaus>	Muutamien päivien ajan oli yli 20 asteen pakkasia.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>17.2.2001</Pvm>
+				<Nimi>Liisan synttärit</Nimi>
+				<Kuvaus>Mirja oli Salon Liisan 50-vuotissynttäreillä</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.2.2001</Pvm>
+				<Nimi>Naisten ilta</Nimi>
+				<Kuvaus>Mirja perinteisellä naisten illallisella</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>10.3.2001</Pvm>
+				<Nimi>Teatteri</Nimi>
+				<Kuvaus>Moliere: Luulosairas
+				Malmin työvaen näyttämö, Malmin työväentalolla</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>17.3.2001</Pvm>
+				<Nimi>Eila ja Jouko</Nimi>
+				<Kuvaus>Sukutapaaminen Pesosilla Askistossa. Eila ja Jouko matkalla
+				 Amerikkoihin.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.3.2001</Pvm>
+				<Nimi>Revontulia</Nimi>
+				<Kuvaus>Himmeitä, mutta selviä revontulia bongattiin pihaltamme.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.3.2001</Pvm>
+				<Nimi>Sami 2v -synttärit</Nimi>
+				<Kuvaus>Synttärikutsut osa 1: mummi ja ukki, Wegut, Hartmanit, 
+				Lehmusvuoret ja Sirkka-täti, Petri ja Merja</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>1.4.2001</Pvm>
+				<Nimi>Sami 2v -synttärit</Nimi>
+				<Kuvaus>	Synttärikutsut osa 2: mummi ja vaari, Isakssonit, Pesoset
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>7.-8.4.2001</Pvm>
+				<Nimi>Puhelinyhtiöiden SM-lentopallo, Jyväskylä</Nimi>
+				<Kuvaus>Mirja oli voittamassa Elisan naisille hopeaa. Pekka ja Sami 
+				olivat kotona.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>9.-26.4.2001</Pvm>
+				<Nimi>Pekan talviloma</Nimi>
+				<Kuvaus>Talvilomaa vietettiin kotioloissa pääsiäisen molemmin puolin.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.4.2001</Pvm>
+				<Nimi>Konsertti</Nimi>
+				<Kuvaus>Mirja oli Mailan kanssa Anneli Saariston konsertissa 
+				Malmitalolla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.4.2001</Pvm>
+				<Nimi>80-vuotissynttärit</Nimi>
+				<Kuvaus>Vietettiin Paulan ja Juhan yhteisiä 40-vuotissyntymäpäiviä.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>15.4.2001</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>Pääsiäisen perinteistä aamupalaa nautittiin Vuosaaressa.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>1.5.2001</Pvm>
+				<Nimi>Vappu</Nimi>
+				<Kuvaus>Lämmin vappusää	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>9.5.2001</Pvm>
+				<Nimi>UIT Linnanmäki</Nimi>
+				<Kuvaus>Mirja ja Pekka olivat katsomassa Elisan insinöörien mukana 
+				UIT:n esitystä "Eurojen talolla tanssittiin". Sami oli mummin ja ukin 
+				hoidossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.5.2001</Pvm>
+				<Nimi>Taijan ja Jukan häät</Nimi>
+				<Kuvaus>Mirjan serkku Taija vihittiin Vanhassa kirkossa. Jatkot vietettiin
+				 Suomalaisella klubilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.-26.5.2001</Pvm>
+				<Nimi>Punkaharju</Nimi>
+				<Kuvaus>Vietimme lomaa Punkaharjulla Kulennoisjärven rannalla.
+				 Mummit ja vaari ja ukki olivat mukana.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>21.5.2001</Pvm>
+				<Nimi>Golfkauden alku</Nimi>
+				<Kuvaus>Mirjan ja Pekan kauden ensimmäinen golf-kierros Kerimäen 
+				kentällä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>10.6.2001</Pvm>
+				<Nimi>Korkeasaari</Nimi>
+				<Kuvaus>	Elisan insinöörien (PI) järjestämä koko perheen retki 
+				Korkeasaareen.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>22.6.2001</Pvm>
+				<Nimi>Ristinummi</Nimi>
+				<Kuvaus>Vietimme juhannusta Ristinummella Markuksen ja Anjan 
+				mökillä yhdessä Mummin ja Ukin kanssa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>15.7.2001</Pvm>
+				<Nimi>Tatu Ripille</Nimi>
+				<Kuvaus>	Tatun konfirmaatiotilaisuus Pyhän Laurin kirkossa Vantaalla.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.7.2001</Pvm>
+				<Nimi>Sähkökatkos</Nimi>
+				<Kuvaus>Juhannuksena alkanut hellejakso päättyi lyhyeen 
+				ukkosmyrskyyn. Koko Helsinki oli ilman sähköjä 25 minuuttia.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>20.-31.8.2001</Pvm>
+				<Nimi>Katinkulta</Nimi>
+				<Kuvaus>Kesäloman kaksi ensimmäistä viikko Katinkullassa mummin ja
+				 vaarin kanssa	</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>1.-7.9.2001</Pvm>
+				<Nimi>Punkaharju</Nimi>
+				<Kuvaus>	Kesäloman kolmas viikko Punkaharjulla mummin ja vaarin 
+				kanssa</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.9.2001</Pvm>
+				<Nimi>Terroristihyökkäys</Nimi>
+				<Kuvaus>Terroristien isku New Yorkissa World Trade Centeriin ja 
+				Pentagoniin</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>1.10.2001</Pvm>
+				<Nimi>Elisa Networks</Nimi>
+				<Kuvaus>Verkkoyhtiön yhtiöittämisen jälkeen Mirjan työnantaja on 
+				nimeltään Elisa Networks Oy	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.10.2001</Pvm>
+				<Nimi>Muutto Pasilaan</Nimi>
+				<Kuvaus>Pekan työpiste siirtyi Malmilta takaisin Pasilaan.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.10.2001</Pvm>
+				<Nimi>Viini-ilta</Nimi>
+				<Kuvaus>Pekka ja Mirja viinikerhon "Cabernet Sauvignon maailmalla" 
+				viini-illassa Pasilan kerholla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>6.11.2001</Pvm>
+				<Nimi>Ensimmäiset lumet</Nimi>
+				<Kuvaus>	Talven ensimmäinen kunnollinen lumiräntäsade, josta maakin
+				 jäi vähäksi aikaa valkeaksi.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>16.11.2001</Pvm>
+				<Nimi>PI:n pikkujoulu</Nimi>
+				<Kuvaus>Elisan insinöörien pikkujoulut Suomenlinnan upseerikerholla.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.11.2001</Pvm>
+				<Nimi>Viinikerhon pikkujoulu</Nimi>
+				<Kuvaus>Pasilan kerholla vietimme Mirjan kanssa Elisan viinikerhon
+				 pikkujoulua saksalaisen illan merkeissä. </Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>1.12.2001</Pvm>
+				<Nimi>Suvun pikkujoulut</Nimi>
+				<Kuvaus>	Vietettiin pikkujoulua Pesosilla Askistossa. Mukana myös 
+				Eila ja Jouko.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>22.12.2001 - 2.1.2002</Pvm>
+				<Nimi>Joululomaa</Nimi>
+				<Kuvaus>Joulunpyhät, uusi vuosi ja lomarahavapaat. Kovia pakkasia
+				 (jopa 20 astetta) jo kohtalaisen paljon lunta</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.-26.12.2001</Pvm>
+				<Nimi>Joulupäivällisiä </Nimi>
+				<Kuvaus>Jouluaattona olimme Vuosaaressa ja joulupäivänä Malmilla.
+				Tapanina kaikki isovanhemmat oli kutsuttu Heikinlaaksoon.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>31.12.2001</Pvm>
+				<Nimi>Uuden vuoden aatto</Nimi>
+				<Kuvaus>Kävimme Isakssoneilla katsomassa illan ensimmäiset paukut.
+				Vuosi vaihtui kotona kolmisin.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2002">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>19.1.2002</Pvm>
+				<Nimi>Lentopalloturnaus Hki-Tre</Nimi>
+				<Kuvaus>	Mirja oli Martinlaaksossa pelaamassa. Pekka ja Sami tulivat
+				 syömään iltapalaa Pasilan kerholle.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.1.2002</Pvm>
+				<Nimi>Vaarin synttärit</Nimi>
+				<Kuvaus>Synttärilounas Vuosaaressa. Paikalla olivat lapset ja 
+				lapsenlapset perheineen.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>10.2.2002</Pvm>
+				<Nimi>Malmin työväen näyttämö</Nimi>
+				<Kuvaus>Käytiin Mirjan kanssa katsomassa Dario Fon "Arpajaiset"
+				 Malmin työväen näyttämön esittämänä Malmi työväentalolla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>21.2.2002</Pvm>
+				<Nimi>Sirkan 70v synttärit</Nimi>
+				<Kuvaus>Mirjan täti Sirkka vietti 70 vuotispäiviään.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>1.3.2002</Pvm>
+				<Nimi>Sami päiväkotiin</Nimi>
+				<Kuvaus>	Sami meni hoitoon Suurmetsän päiväkotiin Tiitiäisten 
+				ryhmään</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.3.2002</Pvm>
+				<Nimi>Viinimessut</Nimi>
+				<Kuvaus>Mummin ja vaarin kanssa ViiniExpossa Messukeskuksessa 
+				ja sen jälkeen syömässä Terra Novassa. Sami oli yöhoidossa mummin
+				 ja ukin luona.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.3.-11.4.2002</Pvm>
+				<Nimi>Pekan talviloma</Nimi>
+				<Kuvaus>Talvilomaa oli jäänyt rästiin kolmisen viikkoa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>31.3.2002</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>Pääsiäistä vietettiin Mummin ja Vaarin luona. Paikalla Saloset
+				 ja Isakssonit.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>12.4.2002</Pvm>
+				<Nimi>Auton vaihto</Nimi>
+				<Kuvaus>	Leasing-auto vaihtui uuteen. Peugeot vaihtui Citroën Xsara
+				 Farmariin.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>16.4.2002</Pvm>
+				<Nimi>Uusi PC</Nimi>
+				<Kuvaus>Hankittiin uusi Dell-merkkinen tietokone ja XP-
+				käyttöjärjestelmä</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.- 20.4.2002</Pvm>
+				<Nimi>Finnet-lentopallo</Nimi>
+				<Kuvaus>Puhelinyhtiöiden lentollon SM-turnaus pelattiin Kotkassa. 
+				Datatien joukkue voitti sekasarjassa kultaa. Elisan naisjoukkue tuli 
+				sarjassaan hopealle. Sami oli yöhoidossa mummin ja vaarin luna.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>12.5.2002</Pvm>
+				<Nimi>Äitienpäivä</Nimi>
+				<Kuvaus>	Helluntaina käytiin tervehtimässä Mirjan äitiä ja äitienpäivänä
+				 kutsuimme itsemme lounaalle Pekan äidin luokse.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.5.2002</Pvm>
+				<Nimi>UIT:n esitys</Nimi>
+				<Kuvaus>Elisan insinöörit järjesti avec tilaisuuden Linnanmäelle
+				 Peacokciin seuraamaan UIT:n esitystä "Magiaa mahan täydeltä"
+				 </Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.5.2002</Pvm>
+				<Nimi>Samin kevätjuhla</Nimi>
+				<Kuvaus>Olimme Mirjan kanssa Samin päiväkodissa Tiitiäisten 
+				kevätjuhlassa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>16.6.2002</Pvm>
+				<Nimi>Korkeasaari</Nimi>
+				<Kuvaus>	Elisan Insinöörien järjestämä koko perheen retki 
+				Korkeasaareen.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>17.6.-30.6.2002</Pvm>
+				<Nimi>Pekan kesäloma</Nimi>
+				<Kuvaus>Pekalla kaksi viikkoa kesälomaa. Mirja töissä ja Sami 
+				hoidossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>21.6.2002</Pvm>
+				<Nimi>Ristinummella</Nimi>
+				<Kuvaus>Juhannusaattoa vietettiin Ristinummella Markuksen ja Anjan 
+				mökillä. Pilvistä, vähän sateista ja tuulista.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.6.2002</Pvm>
+				<Nimi>Kiasma</Nimi>
+				<Kuvaus>Pekka kävi ihmettelemässä nykytaidetta Kiasmassa</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>22.7.2002</Pvm>
+				<Nimi>Kattoremontti</Nimi>
+				<Kuvaus>Katon uusiminen alkoi reilun kuukauden myöhässä alustavasti
+				 sovitusta aikataulusta. Pariviikkoiseksi aiottu työ kesti syyskuun 
+				 alkupuolelle asti.	</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>12.8.-30.8.2002</Pvm>
+				<Nimi>Kesäloma</Nimi>
+				<Kuvaus>Viikko vietettiin kotosalla ja sitten kaksi viikko Katinkullassa
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.8.2002</Pvm>
+				<Nimi>Kaupunkiretki</Nimi>
+				<Kuvaus>Käytiin iltatorilla Kauppatorilla ja Aurora-puistossa ihailemassa
+				 kukkaistutuksia.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>17.8.-31.8.2002</Pvm>
+				<Nimi>Katinkulta</Nimi>
+				<Kuvaus>Kesälomaa Katinkullassa. Lämmintä ja kaunista.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>8.9.2002</Pvm>
+				<Nimi>Mummi 70</Nimi>
+				<Kuvaus>Mummin synttärit Vuosaaressa. Paikalla Isakssonit, Saloset,
+				 Pesoset ja Eila	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.9.2002</Pvm>
+				<Nimi>Lentistä TIK-TIF-Sonera</Nimi>
+				<Kuvaus>Perinteinen lentopalloturnaus Lopella. Sami oli yöhoidossa
+				 mummilla ja ukilla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>2.10.2002</Pvm>
+				<Nimi>Vanhempainilta</Nimi>
+				<Kuvaus>Tutustuimme Samin päiväkodin toimintaan yleisesti ja 
+				ryhmittäin	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>18.10.2002</Pvm>
+				<Nimi>Kulinarismia</Nimi>
+				<Kuvaus>Kylässä Weckströmeillä. Ohjelmassa oli raclette-grillausta, 
+				juustoja ja juomia.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>6.11.2002</Pvm>
+				<Nimi>Viini-ilta</Nimi>
+				<Kuvaus>Viinikerhon viini-ilta "Merlot'n matkassa maailman ympäri". 
+				Maisteltiin Merlot-rypäleestä valmistettuja punaviinejä. Oppaana Risto
+				 Lahtinen Trimalkio Oy / Wine Academy	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>22.11.2002</Pvm>
+				<Nimi>Beaujolais Nouveau '02</Nimi>
+				<Kuvaus>Kotona vietimme juusto-punaviini-iltaa vasta myyntiin tulleen 
+				kauden Beaujolais Nouvea viinin kera.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>1.12.2002</Pvm>
+				<Nimi>Suvun pikkujoulut</Nimi>
+				<Kuvaus>	Suvun pikkujouluja vietettiin Heikinlaaksossa. Vieraina 
+				mummi ja vaari, Pesoset sekä Pirjo ja Kaj.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.12.2002</Pvm>
+				<Nimi>Viinikerhon pikkujoulu</Nimi>
+				<Kuvaus>Elisa WineClub järjesti ruoan ja juoman merkeissä pikkujoulut
+				 Tervasaaren Aitassa. Paikka oli intiimin viihtyisä ja ruoka oli hyvää.
+				 </Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.12.-7.1.</Pvm>
+				<Nimi>Talvilomaa</Nimi>
+				<Kuvaus>Lomarahavapailla sai mukavasti pari viikkoa joululomaa.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.12.2002</Pvm>
+				<Nimi>Jouluaatto</Nimi>
+				<Kuvaus>Jouluaattoa vietettiin mummin ja ukin luona Malmilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.12.2002</Pvm>
+				<Nimi>Tapanin päivällinen</Nimi>
+				<Kuvaus>Tarjosimme perinteisen jouluaterian vanhimmellemme.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2003">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>-6.1.2003</Pvm>
+				<Nimi>Talviloma</Nimi>
+				<Kuvaus>Pekalla joululomaa, johon käytettiin kesältä jääneet lomarahavapaat.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.1.2003</Pvm>
+				<Nimi>Muotokuvan paljastus</Nimi>
+				<Kuvaus>Samin muotokuvan paljastustilaisuus naapurissa Sainioilla.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	Helmikuu meni niin nopeasti, että mitään merkillepantavaa 
+				ei oikein tarttunut muistiin</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>23.3.2003</Pvm>
+				<Nimi>Samin synttärit 1</Nimi>
+				<Kuvaus>	Vietettiin Samin synttäreitä äidin sukulaisten kanssa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.3.2003</Pvm>
+				<Nimi>Samin synttärit 2</Nimi>
+				<Kuvaus>Vietettiin Samin synttäreitä isän sukulaisten kanssa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>14. - 25.4.2003</Pvm>
+				<Nimi>Pekan talviloma</Nimi>
+				<Kuvaus>	Talviloma, joka säiden puolesta muistutti aika ajoin 
+				enemmän kesälomaa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>18.4.2003</Pvm>
+				<Nimi>Wegut kylässä</Nimi>
+				<Kuvaus>Weckströmit kävivät istumassa iltaa ruoan ja juoman 
+				merkeissä. Syötiin lammasta.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.4.2003</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>Mummin ja Vaarin luona nautittiin pääsiäispöydän antimista.
+				 Paikalla olivat myös Isakssonit ja Pesoset	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>22.4.2003</Pvm>
+				<Nimi>Golf-kauden avaus</Nimi>
+				<Kuvaus>Kauden ensimmäinen kierros Luukissa kevään lämpimimpänä
+				 päivänä</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>20.5.2003</Pvm>
+				<Nimi>Samin kevätjuhlat</Nimi>
+				<Kuvaus>Meillä oli iltamenoa ja Pirjo toimi "sijaisvanhempana"	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.5.2003</Pvm>
+				<Nimi>UIT:n esitys</Nimi>
+				<Kuvaus>	Elisan insinöörit järjesti perinteisen avec-tilaisuuden 
+				Linnanmäen Peacockiin. Esitys oli UIT:n "Me olemme taas".</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>22.5.2003</Pvm>
+				<Nimi>Palkintoristeily</Nimi>
+				<Kuvaus>	Elisan mieslentopalloilijat saivat VikingCup -turnauksista 
+				palkinnoksi 20 tunnin risteilyn. Käytiin poikien kanssa pyörähtämässä 
+				Suomenlahdella.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>31.5.2003</Pvm>
+				<Nimi>Valmistujaisia</Nimi>
+				<Kuvaus>Petri valmistui datanomiksi ja Mirja kummityttö ylioppilaaksi.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>19.6.2003</Pvm>
+				<Nimi>Pirjon 50-vuotispäivät</Nimi>
+				<Kuvaus>	Viettiin synttäreitä Lakiston klubitalolla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.6.2003</Pvm>
+				<Nimi>Juhannus</Nimi>
+				<Kuvaus>Pideltiin juhannus sadetta Weckströmien mökillä. Sähkötkin
+				 katkesivat ukkosessa.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.-29.6.2003</Pvm>
+				<Nimi>Kesälomaa</Nimi>
+				<Kuvaus>	Pidimme yhden viikon lomaa juhannuksen jälkeen. Tutustuttiin
+				 uuteen IKEAan.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28.6.2003</Pvm>
+				<Nimi>Kultahäät</Nimi>
+				<Kuvaus>Juhlistimme mummin ja ukin 50-vuotishääpäivää.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>Heinäkuu kului työn merkeissä. Muutamia lomarahavapaita
+				 käytin golfista ja lämpimistä ilmoista nauttimiseen.Mummi kompuroi 
+				 ja mursi peukalonsa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>11.-29.8.2003</Pvm>
+				<Nimi>Kesäloma</Nimi>
+				<Kuvaus>	Viikko kotosalla ja sitten kaksi viikkoa Katinkullassa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.8.2003</Pvm>
+				<Nimi>Puuhamaa</Nimi>
+				<Kuvaus>Vietimme koko päivän Tervakoskella Puuhamaan 
+				huvipuistossa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>13.8.2003</Pvm>
+				<Nimi>Elisa - TIF -lentopallo</Nimi>
+				<Kuvaus>TIFin pelaajat olivat Helsingissä. Pelattiin kisahallissa ja 
+				käytiin Pasilassa saunomassa ja syömässä.	</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>25.10.2003</Pvm>
+				<Nimi>TKK / Alulmni</Nimi>
+				<Kuvaus>S-osaston järjestämään "lokajouluun" liittynyt vuotuinen 
+				esitelmätilaisuus. Aiheena mm. Suomen ensimmäisen ydinvoimalan 
+				hankinta- ja toteutusprojekti.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>3.11.2003</Pvm>
+				<Nimi>Lakko</Nimi>
+				<Kuvaus>	Elisan työntekijät olivat päivän lakossa mielenilmaisuna johdon
+				 esittämälle 900 henkilön vähennykselle. Pelattiin golfia Luukissa 
+				 sakeassa sumussa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.11.2003</Pvm>
+				<Nimi>Pikkujoulut</Nimi>
+				<Kuvaus>Suvun pikkujoulut vietettiin Heikinlaaksossa. Mummi ja vaari,
+				 Pesoset sekä Pirjo ja Kaj.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>5.12.2003</Pvm>
+				<Nimi>Hopeahäät</Nimi>
+				<Kuvaus>	Vietettiin Anjan ja Markuksen 25-vuotishääpäivää.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.12.2003</Pvm>
+				<Nimi>Jouluaatto</Nimi>
+				<Kuvaus>Jouluaattoa vietettiin mummin ja vaarin luona Isakssonien ja
+				 Pesosten kanssa. Joulupukkikin kävi vierailulla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2004">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>10.1.2004</Pvm>
+				<Nimi>Samille luistimet</Nimi>
+				<Kuvaus>Samille ostettiin divarista omat luistimet.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.1.2004</Pvm>
+				<Nimi>Elisan irtisanomiset</Nimi>
+				<Kuvaus>	Elisa vähensi kohua herättäneessä joukkoirtisanomisessa 
+				yli 900 työntekijää.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>18.1.2004</Pvm>
+				<Nimi>Vaari 75 vuotta</Nimi>
+				<Kuvaus>	Vaarin 75-vuotissynttärit Vuosaaressa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.1.2004</Pvm>
+				<Nimi>Samin puheterapia</Nimi>
+				<Kuvaus>	Samin käynnit puheterapiassa alkoivat. Aluksi L- ja K-kirjaimia
+				 ja jatkossa R-kirjainta.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>14.2.2004</Pvm>
+				<Nimi>Ukin 75-vuotispäivät</Nimi>
+				<Kuvaus>Ukki täytti 75 vuotta ja synttäreitä vietettiin Malmilla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>13.-20.3.2004</Pvm>
+				<Nimi>Loma Tunisiassa</Nimi>
+				<Kuvaus>	Olimme talvilomalla Wegujen kanssa Soussessa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.3.2004</Pvm>
+				<Nimi>Samin synttärit</Nimi>
+				<Kuvaus>Samin vietti 5-vuotissynttäreitä ensimmäistä kertaa kavereiden
+				 kanssa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.3.2004</Pvm>
+				<Nimi>Uusi Elisa</Nimi>
+				<Kuvaus>Suuren irtisanomisen jälkeen Elisaan jääneille järjestettiin 
+				juhlat Helsingin jäähallissa. Juontajana toimi Baba Lybeck ja 
+				"Uutisvuodon" veti Peter Nyman.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>11.4.2004</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>	Mummin ja Vaarin luona nautittiin pääsiäispöydän antimista.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.-25.4.2004</Pvm>
+				<Nimi>Puhelinväen SM-lentopalloa</Nimi>
+				<Kuvaus>	Lentopalloturnaus pelattiin Turussa. Pelasimme Mirjan kanssa
+				 sekajoukkueessa. Majoitus oli Caribian kylpylähotellissa. Sami oli 
+				 mukana ja nautti kylpylän palveluista.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>29.4.2004</Pvm>
+				<Nimi>Rintalan Matin synttärit</Nimi>
+				<Kuvaus>Mirja oli juhlimassa Matin 50-vuotissynttäreitä.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>17.5.2004</Pvm>
+				<Nimi>Ukin kuolema</Nimi>
+				<Kuvaus>	Ukki kuoli Malmin sairaalassa asbestin aiheuttaman syövän
+				 uuvuttamana.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>29.5.2004</Pvm>
+				<Nimi>Jarnon lakkiaiset</Nimi>
+				<Kuvaus>Jarno valmistui ylioppilaaksi.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>29.5-4.6.200</Pvm>
+				<Nimi>Vierumäki-golf</Nimi>
+				<Kuvaus>Pekka oli mummin ja vaarin vieraana Vierumäellä. 
+				Mirja ja Sami olivat kotona.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>5.6.2004</Pvm>
+				<Nimi>Ukin hautajaiset</Nimi>
+				<Kuvaus>	Ukki siunattiin Malmin kappelissa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>5.6.2004</Pvm>
+				<Nimi>Samin polkupyörä</Nimi>
+				<Kuvaus>	Sami oppi ajamaan polkupyörällä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.6.2004</Pvm>
+				<Nimi>Ukin uurnan lasku</Nimi>
+				<Kuvaus>	Ukin uurna laskettiin Malmin hautausmaan poveen. Maila ja 
+				lapset perheineen olivat saattamassa ukkia viimeisellä matkalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.6.2004</Pvm>
+				<Nimi>Rhodo-puisto</Nimi>
+				<Kuvaus>	Kävimme tutustumassa muutaman vuoden tauon jälkeen 
+				rhodo-puiston kukkaloistoon.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.6.2004</Pvm>
+				<Nimi>Juhannus</Nimi>
+				<Kuvaus>Juhannusta vietettiin perinteiseen tapaan Ristinummella.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>2.7.2004</Pvm>
+				<Nimi>Olympiatuli</Nimi>
+				<Kuvaus>	Ateenan olimpialaisten alla olympiatuli kiersi kaikki entiset
+				 olympiakaupungit.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.7.2004</Pvm>
+				<Nimi>Meilahden arboretum</Nimi>
+				<Kuvaus>Kävimme mummin kanssa tutustumassa Meilahden 
+				arboretumin lukuisiin kasveihin.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi>Uudet polkupyörät</Nimi>
+				<Kuvaus>Mirjalle ja Samille ostettiin uudet polkupyörät.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.7.2004</Pvm>
+				<Nimi>Ilmalaiva</Nimi>
+				<Kuvaus>Japanilainen ilmalaiva vieraili Helsingissä. Tuulien ja Venäjän
+				 viranomaisten takia visiitistä tuli aiottua pitempi.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>7.-9.8.2004</Pvm>
+				<Nimi>Tiirillä Saimaalla</Nimi>
+				<Kuvaus>Olimme Paulan ja Juhan perheen kanssa viikonvaihteen 
+				veneilemässä Satamasaaressa ja Ruhansaaressa.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>9.8.2004</Pvm>
+				<Nimi>Hiekkalinnoitus</Nimi>
+				<Kuvaus>	Tutustuimme Lappeenrannassa upeaan hiekkalinnoitukseen.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>10.8.2004</Pvm>
+				<Nimi>Puuhamaa</Nimi>
+				<Kuvaus>	Vietimme koko päivän Tervakoskella Puuhamaan 
+				huvipuistossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14.-28.2004</Pvm>
+				<Nimi>Katinkulta</Nimi>
+				<Kuvaus>	Vietettiin mummin ja vaarin kanssa kaksiviikkoinen 
+				Katinkullassa pääasiassa golfaten.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>5.9.2004</Pvm>
+				<Nimi>Mummien synttärit</Nimi>
+				<Kuvaus>Maila- ja Irma-mummi viettivät yhteiset syntymäpäivät Malmilla.
+				 Maila 75 ja Irma 72.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.9.2004</Pvm>
+				<Nimi>Tellus-projekti</Nimi>
+				<Kuvaus>	Elisan asiakashallinta- ja laskutusjärjestelmän uusimisprojekti
+				 käynnistyi virallisesti.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>23.9.2004</Pvm>
+				<Nimi>Puu-Posti</Nimi>
+				<Kuvaus>Käytiin Postitalolla tutustumassa puunäyttelyyn.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>10.10.2004</Pvm>
+				<Nimi>Papan 100-vuotisjuhla</Nimi>
+				<Kuvaus>	Papan syntymän 100-vuotisjuhlat Vuosaaressa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.-25.10.2004</Pvm>
+				<Nimi>Tallinnan risteily</Nimi>
+				<Kuvaus>Vietettiin pari päivää Wegujen ja mummin kanssa 
+				Tallinnassa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>9.11.2004</Pvm>
+				<Nimi>Lämminvesivaraaja</Nimi>
+				<Kuvaus>	Vanhat lämminvesivaraajat vaihdettiin ja uudet asennettiin
+				 saunan lauteiden alle.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.11.2004</Pvm>
+				<Nimi>Piian synttärit</Nimi>
+				<Kuvaus>	Käytiin Piian synttäreillä Pesosilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28.11.2004</Pvm>
+				<Nimi>Pikkujoulut</Nimi>
+				<Kuvaus>Suvun pikkujoulut vietettiin Heikinlaaksossa. Mummi ja vaari, 
+				Pesoset, Eila ja Jouko sekä Pirjo ja Kaj.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>5.12.2004</Pvm>
+				<Nimi>Wegut glögillä</Nimi>
+				<Kuvaus>Tarjottiin Weguille jouluglögit.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.12.2004</Pvm>
+				<Nimi>YLE-lentopallo</Nimi>
+				<Kuvaus>Lentopallo-ottelu Kisahallissa, jonka seuraksena niskani olivat
+				 ilmeisesti niin jumissa, että seuraavat puolitoista vuotta en oikein tiennyt,
+				  onko minussa jotain vialla vai ei.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.12.2004</Pvm>
+				<Nimi>Jouluaatto</Nimi>
+				<Kuvaus>Jouluaattoa vietettiin Weguilla.	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>26.12.2004</Pvm>
+				<Nimi>Tsunami</Nimi>
+				<Kuvaus>Tapaninpäivänä Intian valtameressä tapahtunut maanjäristys 
+				synnytti tsunamin, joka surmasi 150 000 ihmistä Thaimaassa, Intiassa ja
+				 Afrikassa. Joukossa myös pari sataa suomalaista turistia.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+<!-- Näiden vuosien tiedot vielä puuttuvat 
+	<Vuosi vuosi="2005">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2006">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus>	</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm></Pvm>
+				<Nimi></Nimi>
+				<Kuvaus></Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+-->
+	<Vuosi vuosi="2009">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>9.1.2009</Pvm>
+				<Nimi>Matti "Flees" Viitanen 60 v.</Nimi>
+				<Kuvaus>Viitasen Matti, Ka-Ve:n pitkäaikainen huoltaja ja porukkaa vielä
+				vosienkin jälkeen yhdessä pitävä voima, täytti 60 vuotta. Synttäreitä vietettiin
+				legendaarisessa Ravintola Kultakaivoksessa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>18.1.2009</Pvm>
+				<Nimi>Vaari 80 v.</Nimi>
+				<Kuvaus>Vietimme vaarin 80-vuotispäiviä Vuosaaressa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>8.2.2009</Pvm>
+				<Nimi>Vesisadetta</Nimi>
+				<Kuvaus>	Vettä sataa sojona ja lämmintä on +2 astetta.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>14. - 21.2.2009</Pvm>
+				<Nimi>Lanzarote</Nimi>
+				<Kuvaus>Talviloma Lanzarotella Playa Blancalla</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>7.3.2009</Pvm>
+				<Nimi>Viipuri-ilta</Nimi>
+				<Kuvaus>Katseltiin vaarin tekemiä multimediaesityksiä Vuosaaressa
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>3.4.2009</Pvm>
+				<Nimi>Mirja 50 v.</Nimi>
+				<Kuvaus>Mirjan 50-vuotispäiviä juhlittiin kotosalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>11.4.2009</Pvm>
+				<Nimi>Kevättä ilmassa</Nimi>
+				<Kuvaus>Lämmintä +9 astetta. Bongattiin sitruunaperhonen, neitoperhonen ja punarinta.
+				</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.4.2009</Pvm>
+				<Nimi>Pääsiäisbrunssi</Nimi>
+				<Kuvaus>Perinteinen pääsiäisbrunssi mummilla ja vaarilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>21. - 30.4.2009</Pvm>
+				<Nimi>Lämmin jakso</Nimi>
+				<Kuvaus>Lämmin sääjakso. Keski-Suomessa lämmintä jopa +20 astetta.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>8.5.2009</Pvm>
+				<Nimi>Ford Focus</Nimi>
+				<Kuvaus>Autoa vaihdettiin Peugeotista Fordiin.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28. ja 30.5.2009</Pvm>
+				<Nimi>Leffapuktki</Nimi>
+				<Kuvaus>Käytettiin alennusliput katsomall "Yö museossa 2" ja "Möröt vastaan muukaiaiset".</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Kesäkuu">
+			<Tapahtuma>
+				<Pvm>1.6.2009</Pvm>
+				<Nimi>Muutoksen suunnittelu</Nimi>
+				<Kuvaus>	Mirja jäi ns. sijoittumattomaksi työntekijäksi. Työt ovat jatkossa määräaikaisia.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>6. - 13.6.2009</Pvm>
+				<Nimi>Vierumäki</Nimi>
+				<Kuvaus>	Golfia Vierumäen Cooke-kentällä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>10.6.2009</Pvm>
+				<Nimi>Anjan kuolema</Nimi>
+				<Kuvaus>Anja kuoli Malmin sairaalassa syöpäsairauteen.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.6.2009</Pvm>
+				<Nimi>Juhannus</Nimi>
+				<Kuvaus>Juhannusta vietettiin Markuksen ja Maila-mummin kanssa Heikinlaksossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.6.2009</Pvm>
+				<Nimi>Anjan hautajaiset</Nimi>
+				<Kuvaus>Siunaustilaisuus Malmin kappelissa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28.6.2009</Pvm>
+				<Nimi>Lounas mummin kanssa</Nimi>
+				<Kuvaus>Mummin kanssa lounaalla ravintola Kaarnassa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.6.2009</Pvm>
+				<Nimi>Risteily</Nimi>
+				<Kuvaus>Mirja, Sami ja mummi risteilyllä Helsingin edustalla.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Heinäkuu">
+			<Tapahtuma>
+				<Pvm>4.7.2009</Pvm>
+				<Nimi>Uurnan lasku</Nimi>
+				<Kuvaus>	Laskettiin Anjan uurna Malmin hautausmaalle.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>6.7 - 7.8.2009</Pvm>
+				<Nimi>Kesäloma </Nimi>
+				<Kuvaus>Pekalla lomaa viisi viikkoa. Mirja oli "sairauslomalla", kun ei mitään töitäkään ollut tarjolla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>9.7.2009</Pvm>
+				<Nimi>Luonnontieteellinen museo</Nimi>
+				<Kuvaus>	Sami  ja Pekka kävivät luonnontieteellisessä museossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>13.7.2009</Pvm>
+				<Nimi>Elokuvissa</Nimi>
+				<Kuvaus>	Sami ja Pekka kävivät katsomassa kolmiuloitteisen animaatioelokuvan "Ice Age 3".</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>16.7.2009</Pvm>
+				<Nimi>Suomenlinna</Nimi>
+				<Kuvaus>	Mummin kanssa käytiin tutustumassa Suomenlinnaan.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>17.7.2009</Pvm>
+				<Nimi>Brownit Suomessa</Nimi>
+				<Kuvaus>	Tavattiin Tiina, Dave ja Alexa mummin ja vaarin luona.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>19.7.2009</Pvm>
+				<Nimi>Golf Talma</Nimi>
+				<Kuvaus>	Käytiin pelaamassa muutama kierros Talman par-3 kentällä</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>21.7.2009</Pvm>
+				<Nimi>Ratikkamuseo</Nimi>
+				<Kuvaus>Sami ja Pekka kävivät tutustumassa Ratikkamuseoon.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24.7.2009</Pvm>
+				<Nimi>Kansallismuseo</Nimi>
+				<Kuvaus>Sami ja Pekka kävivät tutustumussa kansallisiin aarteisiin.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.7.2009</Pvm>
+				<Nimi>Tekniikan museo</Nimi>
+				<Kuvaus>Sami ja Pekka tutkivat ensin voimalaitosmuseon ja sitten jatkoivat Tekniikan museoon.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.7.2009</Pvm>
+				<Nimi>Tiinan luona Askistossa</Nimi>
+				<Kuvaus>Iltapäiväkahvilla ja mustikkapiirakalla Askistossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>29.7.2009</Pvm>
+				<Nimi>Rapuillallinen</Nimi>
+				<Kuvaus>	Mummi ja Markus nauttimassa rapuja Heikinlaaksossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>30.7.2009</Pvm>
+				<Nimi>Cygnaeuksen taidegalleria</Nimi>
+				<Kuvaus>Tutustuimme Fredrik Cygnaeuksen taidegallerian teoksiin Kaivopuistossa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Elokuu">
+			<Tapahtuma>
+				<Pvm>1. - 8.8.2009</Pvm>
+				<Nimi>Lomaa Virroilla</Nimi>
+				<Kuvaus>Vietimme lomaa vuokramökissä Viroilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>25.8.2009</Pvm>
+				<Nimi>TYKY-iltapäivä</Nimi>
+				<Kuvaus>Pekan osasto (kolme henkilöä) tutustui Kiasman nykytaiteeseen ja kävi  nauttimassa sushia ja tonnikalaa ravintola Tokyo 55:ssä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>27.8.2009</Pvm>
+				<Nimi>Elisan juhlat</Nimi>
+				<Kuvaus>Koko Elisa vietti kesäjuhlia. Pääkaupunkiseudulla kokoonnuttiin Kaapelitehtaalle.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Syyskuu">
+			<Tapahtuma>
+				<Pvm>2.9.2009</Pvm>
+				<Nimi>Samin partio</Nimi>
+				<Kuvaus>Sami aloitti partion "seikkailijoissa" Koudan lippukunnassa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>5.9.2009</Pvm>
+				<Nimi>Maijan hautajaiset</Nimi>
+				<Kuvaus>Kajn äiti siunattiin Munkkiniemen kirkossa.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>6.9.2009</Pvm>
+				<Nimi>Ukin mummi 80 v.</Nimi>
+				<Kuvaus>	Mummin syntymäpäiviä vietettiin Malmilla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>12.9.2009</Pvm>
+				<Nimi>Rapuja</Nimi>
+				<Kuvaus>Rapujen syöntiä jatkettiin Markuksen luona Pukinmäessä.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>20.9.2009</Pvm>
+				<Nimi>Elokuvissa</Nimi>
+				<Kuvaus>Sami ja Pekka kävivät katsomassa elokuva "Harry Potter ja puoliverinen prinssi"</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Lokakuu">
+			<Tapahtuma>
+				<Pvm>16.10.2009</Pvm>
+				<Nimi>Kylässä Sirkan luona</Nimi>
+				<Kuvaus>	Olimme ensivisiitillä Sirkan Vuosaaren asunnossa. Myös Mummi ja Markus olivat paikalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>24. - 25.10.2009</Pvm>
+				<Nimi>Samin riihitysleiri</Nimi>
+				<Kuvaus>Sami oli partion kanssa yöleirillä Nuuksion kansallispuistossa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maraskuu">
+			<Tapahtuma>
+				<Pvm>8.11.2009</Pvm>
+				<Nimi>Isänpäivä</Nimi>
+				<Kuvaus>Isänpäiväkahvilla mummin ja vaarin luona Vuosaaressa. Paikalla myös Pirjo, Eila ja Jouko.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Joulukuu">
+			<Tapahtuma>
+				<Pvm>24. - 26.12.2009</Pvm>
+				<Nimi>Joulunviettoa</Nimi>
+				<Kuvaus>Perinteistä joulunviettoa. Aattona Vuosaaressa mummin ja vaarin luona, paikalla myös Järvisen Pirkko. Joulupäivän kahvilla mummilla Malmilla ja tapanina tarjottiin lounasta vanhemmille.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>31.12.2009</Pvm>
+				<Nimi>Uuden vuoden aatto</Nimi>
+				<Kuvaus>Uutta vuotta vastaanotettiin Markuksen kanssa Heikinlaaksossa.</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+	<Vuosi vuosi="2010">
+		<Kuukausi kk="Tammikuu">
+			<Tapahtuma>
+				<Pvm>4.1.2010</Pvm>
+				<Nimi>Törmäilyä asemalla</Nimi>
+				<Kuvaus>Tyhjät junanvaunut rysähtivät hotellin kylkeen Helsingin rautatieasemalla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>7.1.2010</Pvm>
+				<Nimi>Mummin käsi siteessä</Nimi>
+				<Kuvaus>Ukin mummi liukastui ja olkapäähän tuli murtuma.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>28.1.2010</Pvm>
+				<Nimi>Picasso-näyttely</Nimi>
+				<Kuvaus>Sami ja Pekka tutustuivat viimeisenä näyttelypäivänä Ateneumin suosittuun Picasso-näyttelyyn</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Helmikuu">
+			<Tapahtuma>
+				<Pvm>19.2. - 26.2.2010</Pvm>
+				<Nimi>Talviloma Hauholla</Nimi>
+				<Kuvaus>Vietimme talvilomaa kireissä pakkasissa Hauholta vuokratussa mökissä</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Maaliskuu">
+			<Tapahtuma>
+				<Pvm>5.3.2010</Pvm>
+				<Nimi>Ylipormestarin vastaanotto koululaisille</Nimi>
+				<Kuvaus>Sami oli yhdessä muiden Helsingin neljäsluokkalaisten kanssa Finlandia-talolla 
+					ylipormestari Jussi Pajusen viivästetyllä "itsenäisyyspäivän" vastaanotolla.</Kuvaus>
+			</Tapahtuma>
+			<Tapahtuma>
+				<Pvm>03/2010</Pvm>
+				<Nimi>Jarno ja Lissu avioon</Nimi>
+				<Kuvaus>Jarno ja Lissu menivät kaikessa hiljaisuudessa naimisiin</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Huhtikuu">
+			<Tapahtuma>
+				<Pvm>5.4.2010</Pvm>
+				<Nimi>Kaj 60-vuotispäivät</Nimi>
+				<Kuvaus>Vietettiin Kajn myöhästyneitä 60-vuotispäiviä Malminiityssä</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+		<Kuukausi kk="Toukokuu">
+			<Tapahtuma>
+				<Pvm>8.5.2010</Pvm>
+				<Nimi>Sukukokous Mummolassa</Nimi>
+				<Kuvaus>Verner ja Tyyni Häkkisen jälkeläiset pitivät sukukokoontumisen ravintola
+					Mummolassa Tikkurilassa.
+				</Kuvaus>
+			</Tapahtuma>
+		</Kuukausi>
+	</Vuosi>
+</Kalenterit>

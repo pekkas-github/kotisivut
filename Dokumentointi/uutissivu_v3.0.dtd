@@ -1,0 +1,31 @@
+<!-- Uutissivun xml-dokumentin rakenteen kuvaus versio 3.0 / 2010-8 sivusta alkaen-->
+<!-- Muutokset versioon 2.1:
+		- tietorakennetta on pelkistetty
+		- kuukauden sää, ajatus ja kuva on korvattu pelkällä kuvajoukolla
+-->
+<!ELEMENT	uutissivu		(metatiedot, tapahtumat, albumi)>
+<!ATTLIST	uutissivu		otsikko CDATA #REQUIRED>
+
+<!ELEMENT 	metatiedot		(vuosi, kuukausi)>
+<!ELEMENT 	vuosi			(#PCDATA)>
+<!ELEMENT 	kuukausi		(#PCDATA)>
+
+<!ELEMENT 	tapahtumat		(tapahtuma+)>
+<!ELEMENT 	tapahtuma		(teksti+, kuva?, linkki*, nappi*)>
+<!ATTLIST 	tapahtuma		otsikko CDATA #REQUIRED>
+
+<!ELEMENT	albumi			(kuvat*)>
+
+<!ELEMENT	kuvat			(kuva*, teksti*, nappi*)>
+<!ATTLIST	kuvat			otsikko CDATA #REQUIRED>
+
+<!ELEMENT	teksti			(#PCDATA)>
+
+<!ELEMENT 	kuva			EMPTY>
+<!ATTLIST 	kuva			osoite NMTOKEN #REQUIRED, muoto (vaaka|pysty) #IMPLIED, kuvaus CDATA #IMPLIED>
+
+<ELEMENT	linkki			(#PCDATA)>
+<!ATTLIST	linkki			osoite CDATA #REQUIRED, kohde CDATA #IMPLIED>
+
+<!ELEMENT 	nappi			EMPTY>
+<!ATTLIST 	nappi			teksti CDATA #REQUIRED, osoite CDATA #REQUIRED>

@@ -1,0 +1,26 @@
+<!-- Uutissivun xml-dokumentin rakenteetn kuvaus versio 2.0 / 2008-8 sivusta alkaen-->
+<!ELEMENT		uutissivu			(metatiedot, tapahtumat, vakiojutut, napit)>
+<!ATTLIST		uutissivu			otsikko CDATA #REQUIRED>
+<!ELEMENT 	metatiedot		(vuosi, kuukausi)>
+<!ELEMENT 	vuosi				(#PCDATA)>
+<!ELEMENT 	kuukausi			(#PCDATA)>
+<!ELEMENT 	tapahtumat		(tapahtuma+)>
+<!ELEMENT 	tapahtuma		(kappale+)>
+<!ATTLIST 		tapahtuma		otsikko CDATA #REQUIRED>
+<!ELEMENT		kappale			(kuva*,teksti)>
+<!ELEMENT		teksti				(#PCDATA)>
+<!ELEMENT 	kuva					EMPTY>
+<!ATTLIST 		kuva					tiedosto NMTOKEN #REQUIRED
+													muoto (vaaka|pysty) #IMPLIED
+													kuvaus CDATA #IMPLIED>
+<!ELEMENT 	vakiojutut			(saa, ajatus, valokuva)>
+<!ELEMENT 	saa					(kuva?, kuvaus)>
+<!ELEMENT  	kuvaus				(#PCDATA)>
+<!ELEMENT 	ajatus				(kuva?, sitaatti, lahde)>
+<!ELEMENT 	sitaatti				(#PCDATA)>
+<!ELEMENT 	lahde				(#PCDATA)>
+<!ELEMENT 	valokuva			(kuva, kuvateksti)>
+<!ELEMENT 	kuvateksti			(#PCDATA)>
+<!ELEMENT 	napit					(nappi+)>
+<!ELEMENT 	nappi				EMPTY>
+<!ATTLIST 		nappi				teksti CDATA #REQUIRED>
