@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../muunnokset/diary_v1.0.xsl"?>
+
+<paivakirja vuosi="2009">
+	<juttu otsikko="Joko riittää?" pvm="23.9.2009" ankkuri="joriittaa">
+		<teksti>
+			Yleistä hyvinvointia on mitattu perinteisesti bruttokansantuotteen
+			määrällä ja kasvulla. Ajatusmalli on ollut yksioikoisen talouslähtöinen:
+			mitä enemmän vaurautta, sitä korkeampi elintaso ja hyvinvoivempi
+			kansa.</teksti>
+		<teksti>
+			Tilastokeskus on hiljattain mitannut
+			"vaurautta" myös toisin. On otettu huomioon kolikon kääntöpuoli eli
+			kansantuotteen kasvun vaikutukset ympäristöön, ihmisten 
+			hyvinvointiin ja onnellisuuteen. Selvitykset, niin Suomessa kuin
+			muuallakin maailmassa, osoittava, että taloudellinen 
+			vaurastuminen ei ole enää pariin vuosikymmeneen lisännyt
+			ihmisten hyvinvointia. Hyvinvointia kasvattava vaikutus on
+			saavuttanut kyllästymispisteensä jo kauan sitten ja se on pikemminkin
+			kääntynyt laskusuuntaan, kun vaurastumisen nurja puoli on
+			tullut yhä ilmeisemmäksi. Kiihtyvä markkinatalous on vienyt meidät
+			hyvinvointiyhteiskunnasta kilpailuyhteiskuntaan.
+		</teksti>
+		<teksti>
+			Länsimaissa lähes jokainen voi hankkia yllin kyllin kaikkea
+			mitä normaaliin elämään tarvitaan, ja sen lisäksi paljon paljon
+			muuta. Voisimme vallan hyvin tyytyä tähän ja jopa vähempäänkin,
+			mutta markkinoiden pitää kasvaa ja siksi meille luodaan jatkuvasti 
+			uusia, keinotekoisia tarpeita, joiden tyydyttämiseen meidän halutaan 
+			kuluttavan rahaa. Meihin on iskostettu jatkuva riittämättömyyden ja 
+			tyytymättömyyden tunne.
+		</teksti>
+		<teksti>
+			John Naish sanoo kirjassaan "Riittää jo", että evoluutio ei ole 
+			ehtinyt kehittää länsimaiselle ihmiselle riittävyyden tajua. 
+			Elämme kuin luolamiehet, jotka kahmivat itselleen kaiken saatavilla 
+			olevan hyvän mahdollisesti tulevan	puutteen varalle. Yltäkylläisessä
+			elämässämme ei sellaista puutetta kuitenkaan ole odotettavissa.
+			Haluaminen on vain jäänyt päälle ja markkinatalous ruokkii
+			sitä minkä kerkiää. Meistä puuttuu "Riittää jo" -nappi.</teksti>
+		<teksti>
+			Ihminen on hamsteri. Sen huomaa jokainen katsoesaan
+			omaa kellari- tai vinttikomeroaan. Kuinka paljon sieltä löytyykään
+			täysin joutavaa roinaa. Tuskailemme jatkuvan tilanpuutetteen kanssa,
+			mutta kuitenkaan emme raaski luopua mistään. Päinvastoin, 
+			varastomme vain jatkavat pikkuhiljaa karttumistaan. Tavaraa kertyy
+			kuin ylipainoa kehoomme ja siitä on aivan yhtä vaikeaa päästä eroon.
+		</teksti>
+		<teksti>
+			Seuraavan kerran, kun harkitset hankkivasi jotain, kysy itseltäsi:
+			"Tarvitsenko oikeasti tätä vai haluanko vain sitä?". </teksti>
+	</juttu>
+	
+	<juttu otsikko="Junan vessa" pvm="16.5.2009" ankkuri="junanvessa">
+		<teksti>
+			YLE Radio1:ssä pyörii ohjelma nimeltä "Aristoteleen kantapää".
+			Se on "alivaltiosihteeri" Pasi Heikuran huumorilla ja pilke 
+			silmäkulmassa toimittama ohjelma suomenkielen ihmeellisyydestä.
+			Kuuntelijat voivat ilmiantaa lehdissä tai muissa viestintävälineissä 
+			havaitsemiaan kielikukkasia tai suorastaan fraasirikoksia. Ohjelmien
+			teemat vaihtelevat laidasta laitaan, mutta ytimessä on aina rakas 
+			äidinkielemme.</teksti>
+		<teksti>
+			Erään lähetyksen teemana oli lipsahdukset sanonnoissa tyyliin 
+			"Kukaan ei ole seppä omalla maallaan" tai "Hän iski kirveensä 
+			naulan kantaan". Kummassakin tapauksessa kaksi sanontaa ovat 
+			menneet ristiin ja lausujan tarkoitus saattaa jäädä kuulijalle 
+			epäselväksi.</teksti>
+		<teksti>
+			Itse törmäsin tällaiseen hauskaan lipsahdukseen autokaupassa. 
+			Myyjä kehui auton vakaita ajo-ominaisuuksia seuraavasti: 
+			"Maantiellä tämä kulkee kuin junan vessa". Jotenkin vertaus ei 
+			kuulostanut kovin vakuuttavalta. Jos sinäkin mietit, miltä näyttää 
+			pyörille nostettu junan vessa, niin alla on siitä kuva.</teksti>
+		<kuva osoite="auto.jpg" kuvaus="Junan vessa?" />
+	</juttu>
+	
+	<juttu otsikko="Tähdet kertovat" pvm="16.4.2009" ankkuri="tahtikalenteri">
+		<teksti>
+			CSC - Tieteen tietotekniikan keskus Oy on julkaissut vuodelle 2009
+			graafisen tähtikalenterin, josta ilmenee auringon ja planeettojen 
+			nousu- ja	laskuajankohdat sekä kuun vaiheet vuoden varrella. 
+			Kalenterin on laatinut dosentti Hannu Karttunen Tuorlan 
+			observatoriosta. Innoistuin vähän jalostamaan sitä ja loin version, jossa 
+			pieni, vilkkuva punainen nuoli osoittaa joka hetki, missä kohdin 
+			kalenteria olemma menossa. Virittämäni kalenterin löydät oheisesta
+			linkistä.</teksti>
+		<linkki osoite="../../kalenteri/2009.html">
+			Graafinen tähtikalenteri osoittimella</linkki>
+	</juttu>
+</paivakirja>

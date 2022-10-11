@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../muunnokset/diary_lista.xsl"?>
+
+<paivakirjasivut>
+	<juttu pvm="8.6.2010" linkki="diary_2010.xml#meksikonlahti" otsikko="Mikä olikaan tärkeintä?" />
+	<juttu pvm="17.5.2010" linkki="diary_2010.xml#kalenteri_2010" otsikko="Tähtikalenteri 2010" />
+	<juttu pvm="31.3.2010" linkki="diary_2010.xml#kotisivut" otsikko="Salosten sähkösanomat - kymmennen vuotta kotisivuja" />
+   <juttu pvm="23.9.2009" linkki="diary_2009.xml#joriittaa" otsikko="Joko riittää?" />
+   <juttu pvm="16.5.2009" linkki="diary_2009.xml#junanvessa" otsikko="Junan vessa" />
+   <juttu pvm="16.4.2009" linkki="diary_2009.xml#tahtikalenteri" otsikko="Tähdet kertovat" />
+   <juttu pvm="16.11.2008" linkki="diary_2008.xml#tuottavuus" otsikko="Sanahelinää - tuottavuus" />
+   <juttu pvm="26.4.2008" linkki="diary_2008.xml#kultahiput" otsikko="Aarteita arjen keskellä" />
+   <juttu pvm="28.1.2008" linkki="diary_2008.xml#paastot" otsikko="Päästörajoituksia" />
+   <juttu pvm="17.1.2008" linkki="diary_2008.xml#vastaisku" otsikko="Imperiumn vastaisku" />
+   <juttu pvm="15.1.2008" linkki="diary_2008.xml#paperihesari" otsikko="Paperi Hesari - vanhassako vara parempi?" />
+   <juttu pvm="11.10.2007" linkki="diary_2007.xml#digilehti" otsikko="Paperi-Hesarista digiaikaan" />
+   <juttu pvm="10.7.2007" linkki="diary_2007.xml#podcast" otsikko="English in podcasts" />
+   <juttu pvm="9.7.2007" linkki="diary_2007.xml#piip" otsikko="Piippausmaniaa keittiössä" />
+   <juttu pvm="16.4.2007" linkki="diary_2007.xml#secondlife" otsikko="Second Life - sekunttielämää?" />
+   <juttu pvm="27.3.2007" linkki="diary_2007.xml#syklit" otsikko="Aallon harjalla" />
+   <juttu pvm="17.3.2007" linkki="diary_2007.xml#selitys" otsikko="Selityksen makua" />
+    <juttu pvm="12.3.2007" linkki="diary_2007.xml#apple" otsikko="Leirin vaihto - Ikkunat vaihtuivat Omppuun" />
+    <juttu pvm="25.2.2007" linkki="diary_2007.xml#laatuaika" otsikko="Laatuaikaa hiihtolomalla" />
+    <juttu pvm="18.2.2007" linkki="diary_2007.xml#sanani" otsikko="Minun sanani" />
+    <juttu pvm="11.2.2007" linkki="diary_2007.xml#kirjani" otsikko="Tärkeimmät kirjani" />
+    <juttu pvm="12.1.2007" linkki="diary_2007.xml#kuule" otsikko="Huolimatonta kuuntelua" />
+    <juttu pvm="11.1.2007" linkki="diary_2007.xml#slogan" otsikko="'Mitä välii' -sukupolvi" />
+    <juttu pvm="3.1.2007"   linkki="diary_2007.xml#ajattelu" otsikko="Ajattelun voima" />
+    <juttu pvm="14.11.2006" linkki="diary_2006.xml#reilua" otsikko="Reilu meininki" />
+    <juttu pvm="27.9.2006" linkki="diary_2006.xml#kirjoittaminen" otsikko="Lupa kirjoittaa huonosti" />
+    <juttu pvm="19.9.2006" linkki="diary_2006.xml#villasukat" otsikko="Matin villasukat" />
+    <juttu pvm="31.8.2006" linkki="diary_2006.xml#uutiskuvat" otsikko="Uutiskuvat" />
+    <juttu pvm="28.8.2006" linkki="diary_2006.xml#positiivista" otsikko="Positiiviset uutiset" />
+    <juttu pvm="15.8.2006" linkki="diary_2006.xml#ekaluokka" otsikko="Opintien alussa" />
+    <juttu pvm="1.8.2006" linkki="diary_2006.xml#kauppakeskus" otsikko="Havaintoja kauppakeskuksessa" />
+    <juttu pvm="12.7.2006" linkki="diary_2006.xml#apostoli" otsikko="Apostolin kyytiä" />
+    <juttu pvm="3.7.2006" linkki="diary_2006.xml#mobiilitoimisto" otsikko="Mobiilitoimisto" />
+    <juttu pvm="28.6.2006" linkki="diary_2006.xml#oscarit" otsikko="Jalkapallo-oscareita" />
+    <juttu pvm="1.6.2006" linkki="diary_2006.xml#yhteisvastuu" otsikko="Yhteisvastuu" />
+    <juttu pvm="21.5.2006" linkki="diary_2006.xml#lordi" otsikko="Lordi lauloi kilpailijat suohon" />
+    <juttu pvm="2.5.2006" linkki="diary_2006.xml#alastalo_2" otsikko="Alastalon salissa osa 2" />
+    <juttu pvm="1.5.2006" linkki="diary_2006.xml#vappu" otsikko="Vappu" />
+    <juttu pvm="13.4.2006" linkki="diary_2006.xml#luonnononnettomuus" otsikko="Luonnon- onnettomuuksista" />
+    <juttu pvm="6.4.2006" linkki="diary_2006.xml#alastalo_1" otsikko="Alastalon salissa osa 1" />
+    <juttu pvm="14.2.2004" linkki="402.htm" otsikko="Samin taidetta" />
+    <juttu pvm="1.2.2004" linkki="401.htm" otsikko="Lunta, lunta, lunta" />
+    <juttu pvm="12.1.2004" linkki="400.htm" otsikko="Luistelua" />
+    <juttu pvm="3.11.2003" linkki="312.htm" otsikko="Lakko" />
+    <juttu pvm="24.10.2003" linkki="311.htm" otsikko="Ensilumi" />
+    <juttu pvm="2.10.2003" linkki="310.htm" otsikko="Syksynväriloistoa" />
+    <juttu pvm="13.8.2003" linkki="309.htm" otsikko="Lomapäivä Puuhamaassa" />
+    <juttu pvm="2.8.2003" linkki="308.htm" otsikko="Kynttiläillallinen kahdelle" />
+    <juttu pvm="31.5.2003" linkki="307.htm" otsikko="Kummilasten valmistujaisia" />
+    <juttu pvm="20.4.2003" linkki="306.htm" otsikko="Pääsiäinen" />
+    <juttu pvm="5.4.2003" linkki="305.htm" otsikko="Kevättä ja takatalvea" />
+    <juttu pvm="2.3.2003" linkki="304.htm" otsikko="Laskiaismäessä" />
+    <juttu pvm="8.2.2003" linkki="303.htm" otsikko="Kevättä palokärjelläkin" />
+    <juttu pvm="3.2.2003" linkki="302.htm" otsikko="Talven selkä on taittunut" />
+    <juttu pvm="11.1.2003" linkki="301.htm" otsikko="Muotokuvan julkistus" />
+    <juttu pvm="5.12.2002" linkki="215.htm" otsikko="Samin joulujuhlat" />
+    <juttu pvm="5.10.2002" linkki="214.htm" otsikko="Ensimmäinen lumisade" />
+    <juttu pvm="4.9.2002" linkki="213.htm" otsikko="Malmille taas" />
+    <juttu pvm="22.7.2002" linkki="212.htm" otsikko="Mirjan silmälasit" />
+    <juttu pvm="22.7.2002" linkki="211.htm" otsikko="Kattoremontti" />
+    <juttu pvm="22.6.2002" linkki="210.htm" otsikko="Rhodopuistossa" />
+    <juttu pvm="16.6.2002" linkki="209.htm" otsikko="Korkeasaaressa" />
+    <juttu pvm="8.6.2002" linkki="208.htm" otsikko="Polkupyörä Samille" />
+    <juttu pvm="23.5.2002" linkki="207.htm" otsikko="Samin kevätjuhlat" />
+    <juttu pvm="12.4.2002" linkki="206.htm" otsikko="'Sitikka'" />
+    <juttu pvm="10.4.2002" linkki="205.htm" otsikko="Datatie on nyt Elisa Solutions" />
+    <juttu pvm="25.3.2002" linkki="204.htm" otsikko="Sami kolme vuotta" />
+    <juttu pvm="1.3.2002" linkki="203.htm" otsikko="Sami päiväkotiin" />
+    <juttu pvm="16.2.2002" linkki="202.htm" otsikko="Kaamos väistyy" />
+    <juttu pvm="13.1.2002" linkki="201.htm" otsikko="Suojakeli" />
+    <juttu pvm="31.12.2001" linkki="032.htm" otsikko="Sami parturissa" />
+    <juttu pvm="29.12.2001" linkki="031.htm" otsikko="Uuden vuoden iltapala" />
+    <juttu pvm=".12.2001" linkki="030.htm" otsikko="Mirjan hoitovapaa" />
+    <juttu pvm="1.11.2001" linkki="029.htm" otsikko="Samille uusi sänky" />
+    <juttu pvm="9.10.2001" linkki="028.htm" otsikko="Ruskan värejä" />
+    <juttu pvm="16.9.2001" linkki="027.htm" otsikko="Musta tiistai" />
+    <juttu pvm="17.8.2001" linkki="026.htm" otsikko="Kesäloma alkaa" />
+    <juttu pvm="15.8.2001" linkki="025.htm" otsikko="Vanhuus ei tule yksin" />
+    <juttu pvm="21.7.2001" linkki="024.htm" otsikko="Vadelmat alkavat kypsyä" />
+    <juttu pvm="18.6.2001" linkki="023.htm" otsikko="Samin golffamista" />
+    <juttu pvm="10.6.2001" linkki="022.htm" otsikko="Korkeasaaressa" />
+    <juttu pvm="29.5.2001" linkki="021.htm" otsikko="Kevätloma Punkaharjulla" />
+    <juttu pvm="9.5.2001" linkki="020.htm" otsikko="Sami potalla" />
+    <juttu pvm="7.5.2001" linkki="019.htm" otsikko="Kesäinen päivä" />
+    <juttu pvm="2.5.2001" linkki="018.htm" otsikko="Sami on 'Mami'" />
+    <juttu pvm="24.4.2001" linkki="017.htm" otsikko="Olutta terassilla" />
+    <juttu pvm="21.4.2001" linkki="016.htm" otsikko="Lumi puroina pakenee" />
+    <juttu pvm="9.4.2001" linkki="015.htm" otsikko="Peipposesta puolikuuta" />
+    <juttu pvm="8.4.2001" linkki="014.htm" otsikko="Viikonloppu miehissä kotona" />
+    <juttu pvm="6.4.2001" linkki="013.htm" otsikko="Talviloma"  />
+    <juttu pvm="1.4.2001" linkki="012.htm" otsikko="Samin synttärit - osa 2" />
+    <juttu pvm="29.3.2001" linkki="011.htm" otsikko="Päiväkahvit terassilla" />
+    <juttu pvm="25.3.2001" linkki="010.htm" otsikko="Samin synttärit - osa 1" />
+    <juttu pvm="19.3.2001" linkki="009.htm" otsikko="Revontulia Heikinlaaksossa" />
+    <juttu pvm="7.3.2001" linkki="008.htm" otsikko="Sami parturissa" />
+    <juttu pvm="3.3.2001" linkki="007.htm" otsikko="Muistisääntö kesäaikaan liittyen" />
+    <juttu pvm="21.2.2001" linkki="006.htm" otsikko="Pizzan syöntiä"  />
+    <juttu pvm="20.2.2001" linkki="005.htm" otsikko="Kauheat kaksivuotiaat" />
+    <juttu pvm="23.1.2001" linkki="004.htm" otsikko="Päiväpitenee" />
+    <juttu pvm="15.1.2001" linkki="003.htm" otsikko="Asuntolaina on maksettu" />
+    <juttu pvm="5.1.2001" linkki="002.htm" otsikko="Aku Ankka -lehti" />
+    <juttu pvm="27.12.2000" linkki="001.htm" otsikko="Ajankohtaisia juttuja"  />
+</paivakirjasivut>
