@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Kesäkuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Kesäkuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Kesävieraita">
+		<kuva osoite="juhannus.jpg" muoto="vaaka" />
+		<teksti>
+			Juhannusta on rauhallisinta viettää omassa kotipihassa, kun kaikki naapurit läheltä
+			ja kaukaa ovat lähteneet mökeilleen pois kaupungista. Ei kuulu liikenteen kohinaa,
+			eikä ihmisten ääniä. Vain tuuli humisee ja linnut laulavat.
+		</teksti>
+		<teksti>
+			Juhannusaaton sää oli pilvinen, mutta kuitenkin lämmin ja tyyni. Ruokaa ja juomaa
+			nautiskeltiin terassilla markiisin alla, eikä pienet sateen ropsauttelut haitanneet 
+			lainkaan.
+		</teksti>
+		<kuva osoite="pekanpaivat.jpg" muoto="vaaka" />
+		<teksti>
+			Pekanpäivä oli aurnkoinen ja suorastaan helteinen. Mummi, vaari ja Eila
+			tulivat kyläilemään. Syötiin Eilan tekemää tosca-kakkua juotiin kahvia. Lisäksi
+			tarjolla oli kesän mansikoita jäätelön kera.
+		</teksti>
+		</tapahtuma>
+		
+		<tapahtuma otsikko="Geokätköillä">
+			<kuva osoite="katko.jpg" muoto="vaaka" />
+			<teksti>
+				Geokätkö on jonkun henkilön maastoon piilottama astia tai säilö, johon on laitettu
+				lokikirja ja mahdollisesti jotain muutakin pikkutavaraa. Kätkijä julkaisee nettisivulla
+				kätkön koordinaatit ja kuvauksen paikasta ja kätkön vaativuudesta. Me muut yritämme
+				etsiä koordinaattien perusteella kätkön ja merktisemme löytöajankohdan lokikirjaan.
+			</teksti>
+			<teksti>
+				Sami tutkiskeli kätköjä netistä ja huomsimme, että aivan lähikallioillamme on useampikin
+				kätkö. Päätimme etsi niistä yhden puhelimen GPS-navigoinnin avulla. Se osoittautui
+				hankalammaksi kuin arvasimmekaan. Puhelimen navigointiohjelmat eivät soveltuneet
+				tällaiseen etsimiseen parhaalla mahdollisella tavalla tai sitten emme vain osanneet 
+				käyttää niitä sujuvasti. Myös satelliittien signaalit katosivat herkästi metsän keskellä.
+				Olisi varmaan tarvittu tehokkaampi antenni.
+			</teksti>
+			<teksti>
+				Tällä kerralla kätkö jäi löytymättä. Aivan lähellä pyörimme ja houkuttelevan
+				näköisiä kallion- ja kivenkoloja oli vaikka kuinka paljon. Useimmat olivat tosin täynnä
+				nuorison rikkomia olut- ja viinapulloja. Tavoitepiste tuntui jatkuvasti olevan 5-10 metrin
+				päässä milloin missäkin suunnassa. Lopulta palasimme kotiin laittamaan ruokaa, 
+				mutta vielä me jossakin vaiheessa jonkun kätkön löydämme.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Talviturkit narikkaan" pvm="30.6.2010">
+			<kuva osoite="kuusijarvi.jpg" muoto="vaaka" />
+			<teksti>	
+			Lämmin sää houkutteli Mirjan ja Samin iltauinnille Kuusijärvelle. Pekka oli 
+			mukana vain kuskina ja vaatteiden vahtina. Veden lämpötila oli 21-22 astetta.
+			Porukkaa oli vielä yllättävän paljon, vaikka kello lähenteli iltauutisten aikaa.
+			Mikäpä ettei, kun keskikesän aurinko paistaa ja ilma on tyyni ja lämmin.
+			</teksti>	
+		</tapahtuma>
+
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="kukka.JPG" kuvaus="" />
+			<teksti>
+				Normaalia alkukesän säätä. Lämmintä ja aurinkoista.
+			</teksti>
+		</saa>
+		<ajatus>
+			<kuva osoite="sami.JPG" />
+			<sitaatti>Muuta ajatuksiasi ja muutat maailman.</sitaatti>
+			<lahde>Norman Vincent Peale</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="rata.jpg" />
+			<teksti>Kiskot</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

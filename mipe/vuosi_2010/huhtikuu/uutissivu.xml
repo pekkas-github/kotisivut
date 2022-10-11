@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+
+<uutissivu otsikko="Huhtikuu 2010">
+	<metatiedot>
+		<vuosi>2010</vuosi>
+		<kuukausi>Huhtikuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Pääsiäistä perinteisesti">
+			<kuva osoite="sami.jpg" muoto="vaaka" kuvaus="Pääsiäismunasta on tullut yllätys" />
+			<teksti>
+				Pääsiäisbrunssi oli jälleen katettu mummin keittiöön. Oman perheemme lisäksi
+				herkkuja oli nauttimassa myös Järvisen Pirkko. Monen moista hyvää oli taas
+				tarjolla. Kaloja, lammasta, kananmunia, mämmiä ja vaikka mitä. 
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Kajn synttärit">
+			<kuva osoite="kaj.jpg" muoto="vaaka" kuvaus="Maestro!" />
+			<teksti>
+				Pyöreitä vuosia juhlittiin jo kolmatta vuotta peräkkäin. Tällä kertaa vietettiin Kajn 60-
+				vuotispäiviä. Väkeä oli tupa täynnä - kaksi- ja nelijalkaisia.
+			</teksti>
+			<teksti>
+				Porukalla olimme keränneet potin lahjaa varten, joka komeilikin jo päivänsankarin
+				sylissä. Merkeistä en tiedä, mutta punainen sähkökitara kiilteli ja soi maestron 
+				käsissä.
+			</teksti>			
+		</tapahtuma>
+		<tapahtuma otsikko="Koutien lippukunta 30 vuotta">
+			<kuva osoite="koudat.jpg" muoto="vaaka" kuvaus="Seikkalijat ovat vannoneet valan" />
+			<teksti>
+				Sami on ollu partiossa kohta vuoden. Samin lippukunta - Koudat - juhli myöskin
+				pyöreitä vuosia. Kolmekymmentä vuotta toimintaa on takana. Ohjemassa oli
+				laulua, näytelmiä, puheita ja video Koutien kuluneen vuoden tapahtumista.
+			</teksti>
+			<teksti>
+				Oli hauskaa huomata, että partiotoiminta on voimissaan ja voi hyvin. On ilo nähdä,
+				että tänä päivänä löytyy sellaisiakin nuoria, jotka ovat kiinnostuneet tällaisesta 
+				reilusta ja puhdashenkisestä ja vapaaehtoisesta toiminnasta.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Vihdoinkin kevät">
+			<kuva osoite="vappu.jpg" muoto="vaaka" kuvaus="Sacher-kakkua ja kahvia" />
+			<teksti>
+				Uskomattoman lumisen talven jälkeen kevät saapui kuitenkin. Lumilkellot nousivat
+				jo hangen läpi ja niin vain talven selkä taittui nopeaan tahtiin. Mummi, Markus ja Pirjo
+				olivat viettämässä vappuaattoa ja Markus todisti, kuinka viimeinen luminokare 
+				pihaterassilta haihtui höyrynä ilmaan ja kevät oli vienyt lopullisen voiton talvesta.
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="lumi.jpg" kuvaus="Viimeisiä lumikasoja viedään" />
+			<teksti>Auringon lämmittävä voima on uskomaton. Maaliskuussa näytti siltä, että lumet
+				eivät sula juhannukseksikaan, mutta niin vain ennen huhtikuun loppua oli viimeinenkin
+				lumilämpäre hävinnyt pihasta ja kevään kukat kukkivat täyttä päätä. 
+			</teksti>
+		</saa>
+		<ajatus>
+			<sitaatti>Nykyisin asioiden arvo määräytyy usein sen mukaan, kuinka paljon muut sitä haluavat</sitaatti>
+			<lahde>Toni Brantberg - Kirkko ja kaupunki -lehti</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="kukka.jpg" />
+			<teksti>Yksinäinen</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>
