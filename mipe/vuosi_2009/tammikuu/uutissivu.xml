@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+
+<uutissivu otsikko="Tammikuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Tammikuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Vaarin merkkipäivä">
+			<kappale>
+				<kuva tiedosto="vaari1.jpg" muoto="vaaka" kuvaus="Mediataiteilija mietteisään" />
+				<teksti>
+					Vaarilla oli synttärit. Vaari täytti pyöreät 80 vuotta. Harvoin näkee yhtä hyväkuntoista
+					"vanhusta". Tosiaankin vanhusta lainausmerkeissä. Lieneekö nuorekkuuden salaisuutena 
+					sosiaalinen mielenlaatu ja hyvät harrastukset vai tietotekniikan antamat älylliset
+					(ja usein älyttömätkin) haasteet. Viimeisin kädenvääntö onkin ollut Viipurinmatkan 
+					multimediaesitys. Siitä on nähty joitakin työversioita - mummi ihan kyllästymiseenkin
+					asti - ja oikein hyvältä näyttää. Sitä kelpaa sitten katsella uudesta taulu-TV:stä.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Talviurheilua">
+			<kappale>
+				<kuva tiedosto="hiihtaja.jpg" muoto="pysty" kuvaus="Hyvä on hiihtäjän hiihdellä..." />
+				<teksti>
+					Kun lopultakin saatiin lunta, päästiin koulussakin hiihtämään ja luistelemaan.
+					Sami on tänä talvena päässyt hiihtämisen makuun ja sitä on harrastettu myös
+					vapaa-ajalla. Mirja, joka muutenkin esimerkillisesti hoitaa kuntoaan, on ottanut
+					hiihdon ohjelmaansa jo muutama vuosi sitten. Minua eivät ole ainakaan vielä saaneet
+					innostumaan asiasta. Katsotaan nyt ensi vuonna, josko tulee luntakaan.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="talvi.jpg" kuvaus="Lunta lopultakin" />
+			<kuvaus>
+				Runsaampi lumentulo on viimevuosina ajoittunut selvästi vuoden vaihteen jälkeiseen
+				aikaan. Niin nytkin. Lunta ei kuitenkaan ole ollut mitenkään runsaasti. 
+			</kuvaus>
+		</saa>
+		<ajatus>
+			<kuva tiedosto="albumi/kuva_6.jpg" />
+			<sitaatti>
+				Elämäsi ei muodostu päivista, jotka ovat menneet, vaan päivistä, jotka muistat.
+			</sitaatti>
+			<lahde>Pavlenko</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="polku.jpg" />
+			<kuvateksti>Riistapolku</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+
+	<napit>
+		<nappi teksti="Tammikuun kuvia" />
+	</napit>
+
+</uutissivu>

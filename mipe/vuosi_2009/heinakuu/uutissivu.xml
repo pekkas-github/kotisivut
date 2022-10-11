@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Heinäkuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Heinäkuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Museo- ja ratikkakierroksia">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_17.jpg" muoto="pysty" kuvaus="Kansallismuseo" />
+				<teksti>
+					Yhteistä loma-aikaamme varten Sami oli tehnyt pitkän listan paikoista, joissa
+					pitäisi käydä. Lista koostui pääasiassa erilaisista museoista. Lisäksi tärkeää oli
+					että kohteisiin kuljetaan julkisilla kulkuvälineillä, erityisesti ratikoilla. 
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Mielenkiintoisia kohteita kierrettiinkin useita seuraavasti: luonnontieteellinen
+					museo, ratikkamuseo, kansallilsmuseo, voimalaitosmuseo ja tekniikan museo.
+					Lisäksi vietettiin yksi päivä mummin kanssa Suomenlinnassa ja iskän toivomuksesta
+					vierailtii Fredrik Cygnaeuksen taidegalleriassa Kaivopuistossa.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Golfia käytiin pelaamassa jonkin verran. Sami oli mukana muutamana maanantaina,
+					kun Luukkiin pääsee ilman green cardia. Lisäksi kävimme kerran kiertämässä Talman par-3
+					kenttää. Muuten meni mukavasti, mutta Samin mieliala nousi ja laski kuin vuoristoradassa
+					aina	sen mukaan, miten lyönnit sattuvat onnistumaan.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Brownit lomalla Suomessa">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_25.jpg" muoto="vaaka" kuvaus="Karjalasta kajahtaa" />
+				<teksti>
+					Brownit viettivät kesää Suomessa. Tiina ja Alexa tulivat jo kesäkuun alkupuolella.
+					Alexa tuli suorittamaan suomen kielen kielikurssia ja oikein hienosti ääntäminen ja
+					puhuminen sujuivatkin. Tiina ja Alexa asuivat kesän Eilan asunnossa Varistossa. Kävimme
+					visiitillä kahvilla ja piirakalla. 
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Dave tuli myös pariksi viikoksi heinäkuussa. Häntä näimme mummin ja vaarin luona.
+					 Siellä Browneille tarjottiin pala Suomen lähihistoriaa runsaan puolen vuosisadan takaa.
+				</teksti>
+			</kappale>	
+		</tapahtuma>
+		<tapahtuma otsikko="Rapuillallinen">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_30.jpg" muoto="vaaka" kuvaus="Viva Espanja!" />
+				<teksti>
+					Rapuiltaa vietettiin Heikinlaaksossa. Saksiniekkoja oli sekä Espanjasta että Suomesta.
+					Vertailussa kotimaiset voittivat maussa, mutta kovin ne olivat kooltaan vaatimattomia.
+					Espanjalaisissa sentään oli enemmän syötävää ja ihan kelvollisilta nekin maistuivat.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/kuva_saa.jpg" kuvaus="Munkkikahvit Tikkurilan torilla" />
+			<kuvaus>Heinäkuu ei ollut mikään hellekuukausi. Oli kyllä auringonpaistetta
+			ihan mukavasti, mutta lämpötila pysytteli vaivoin parissakymmenessä.
+			Aamukahvi terassilla piti nauttia lämpimästi pukeutuneena.</kuvaus>
+		</saa>
+		<ajatus>
+			<sitaatti>Epäonnistumisen pelkoa pahempaa on vain katumus.</sitaatti>
+			<lahde>Elokuvasta Kuumalinja kuuhun</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/kuva_001.jpg" />
+			<kuvateksti>Tiedon portaat</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+
+	<napit>
+		<nappi teksti="Katso kuvia!" />
+	</napit>
+
+</uutissivu>

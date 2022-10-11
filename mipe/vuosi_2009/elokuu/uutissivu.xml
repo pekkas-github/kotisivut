@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Elokuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Elokuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Lomaviikko Järvi-Suomessa">
+				<kuva osoite="laituri.jpg" muoto="vaaka" kuvaus="Iltapäiväkahvit" />
+				<teksti>
+					Viiden viikon mittainen lomajakso huipentui Virroilla vietettyyn mökkilomaan kaukana
+					kaupungin sykkeestä ja vilinästä. Olimme taas vuokranneet kesämökin viikoksi
+					Lomarenkaan mökkivälityksen kautta ja tällä kerralla paikaksi valikoitui Virrat.
+				</teksti>
+				<teksti>
+					Mökki oli vain pari vuotta vanha ja erittäin siisti. Pihapiirissä oli erillinen puilla
+					lämitettävä sauna, jota lämmitimmekin joka ilta. Ranta oli parinkymmenen 
+					metrin päässä ja sijaitsi suojaisan lahden perukassa. Viikko oli vähätuulinen
+					ja järven pinta oli enimmäkseen peilityyni. Ilmojen puolesta se oli yksi kesän 
+					parhaista viikoista.
+				</teksti>
+				<teksti>
+					Sen lisäksi, että nautimme luonnon rauhasta ja auringon lämmöstä, niin poimimme
+					myös mustikoita ja muutamia sieniä, kävimme mato-ongella ja paistoimme saamamme
+					ahvenet, heitimme tikkaa ja teimme pari pientä veneretkeä. Syömisen ja grillaamisen
+					ohella saunominen tietysti kuului päivän ohjelmaan. Sami kävi innokkaasti uimassa 
+					ja luulenpa että Sami löysi uimataidon idean.
+				</teksti>
+				<teksti> 
+					Nautimme suunnattomasti lomastamme. Vähän haikein mielin palasimme kotiin, 
+					mutta muistoissa ovat leppoisat iltapäiväkahvit laiturinnokassa tyyntä järvenpintaa
+					katsellessa ja auringon lämmöstä nauttiessa.
+				</teksti>
+				<nappi teksti="Lomakuvia" osoite="albumi/loma.xml" />
+			</tapahtuma>
+		<tapahtuma otsikko="Rentoutumista työn puitteissa">
+				<teksti>
+					Pitkän loman jälkeen alkoi taas arki ja työt. Kolmen hengen yksikkömme loivensi 
+					lomaltapaluuta TYKY-iltapäivän merkeissä. Ohjelmaan kuului vierailu Kiasmaan.
+					Meillä oli myös opas kertomassa joistakin teoksista ja taiteilijoista. Vaikka en olekaan
+					mikään nykytaiteen suuri ystävä, niin kyllä taustojen ja taiteilijan ajatusten avaaminen 
+					ja toisen katsojan ajatusten kuuleminen sai näkemään teokset uudenlaisessa valossa.  
+				</teksti>
+				<teksti>
+					Kiasma-kierroksen jälkeen menimme Töölön-torin laidassa sijaitsevaan japanilaiseen
+					ravinto Tokyo 55:een. Söimme alkupaloiksi tietysti kattavan valikoiman sushia ja
+					pääruuaksi tonnikalaa. Olen pari kertaa yrittänyt tehdä kotonakin sushia, joten oli erittäin
+					mielenkiintoista nähdä, minkälaista sen oikeasti pitäisi olla. Samoin tonnikala oli kiintoisa
+					elämys, koska se oli valmistettu juuri niinkuin pitää: ei läpikypsäksi. Ja kyllä oli hyvää ja
+				 	suussa sulavaa. Ei lainkaan sellaista kuivaa lankkua, jollaista olen kotioloissa saanut
+				 	aikaisksi, kun en ole uskaltanut jättää kalaa sisältä punertavaksi.
+				 </teksti>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva osoite="saa.jpg" kuvaus="Alkavia syksyn merkkejä" />
+			<teksti>Elokuu ei ollut sen alkupuolta lukuunottamatta mitenkään kovin erikoinen. Ei huono, 
+			muttei mitään helteitäkään. Loppukuusta alkoi jo näkyä syksyn merkkejä.</teksti>
+			<nappi teksti="Pari kuvaa syksystä" osoite="albumi/syksy.xml" />
+		</saa>
+		<ajatus>
+			<kuva osoite="ajatus.jpg" />
+			<sitaatti>Toimittajan tehtävä ei ole kertoa vain, mitä on tapahtunut, vaan myös miksi on
+			tapahtunut ja mitä siitä seuraa.</sitaatti>
+			<lahde>Erkki Toivanen YLE-Uutisten 50-vuotisjuhlissa</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="kkuva.jpg" />
+			<teksti>Heijastuksia</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

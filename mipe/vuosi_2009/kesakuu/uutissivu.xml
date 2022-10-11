@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Kesäkuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Kesäkuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Anja on poissa">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_n2.jpg" muoto="vaaka" kuvaus="" />
+				<teksti>
+					Anja nukkui pois juhannuksen alla. Vaikea sairaus mursi heikon ruumiin. 
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Tieto sairaudesta tuli runsas vuosi sitten yllätyksenä. Mielet täytti pelon ja 
+					epätietoisuuden tuska. Kun väistämätön oli edessä, tuli lopun odotuksen tuska.
+					Kun kaikki oli ohi, jäi  kaipauksen tuska, yksinäisyys ja suru.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Olemme tähtien lapsia. Suuresta maailmankaikkeudesta ovat koko maailman ja
+					meidänkin rakennusaineet kotoisin. Ruumiimme on kuitenkin vain lainatavaraa.
+					Se on henkemme tilapäinen synnyn ja kasvun asuinsija. Kuolemassa se palaa 
+					takaisin luonnon suureen kiertokulkuun. Mutta henkemme jää elämään. Se elää 
+					niiden ihmisten mielissä ja sydämissä, jotka meitä muistavat ja jotka meitä rakastavat.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Vierumäki Golf">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_n16.jpg" muoto="vaaka" kuvaus="Sukkien ja kenkien kuivattelua Cookella." />
+				<teksti>
+					Onnistuimme saamaan peruutusviikon Vierumäelle kesäkuun alkuun. Lähdimme 
+					mummin ja vaarin kanssa nauttimaan alkukesä golfista. Meitä
+					onnisti sikäli, että saimme käyttöömme neljä pelioikeutta Cooke-kentälle, joka meistä
+					vanhaa kenttää miellyttävämpi sekä huomattavasti vähemmän ruuhkainen.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Säät suosivat meitä, näin voisi sanoa. Alkuviikosta oli tosin erittäinkin koleaa.
+					Mutta kun huomioi, että sääennusteet povasivat jatkuvasti sadetta ja sää pysyikin
+					poutaisena ja pääosin aurinkoisena, niin olimme erittäin tyytyväisiä. Tyytyväisyys,
+					niinkuin onnellisuuskin, on usein hyvin suhteellista.
+				</teksti>
+			</kappale>	
+		</tapahtuma>
+		<tapahtuma otsikko="Lomia odotellessa">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_n17.jpg" muoto="vaaka" kuvaus="Lounaalla ravintola Kaarnassa" />
+				<teksti>
+					Työpaikalla Mirjan tiimissä tehtiin uudelleenjärjestelyjä, jonka seurauksena neljä 
+					henkilöä ei sijoittunut uuteen organisaatioon. Näitä henkilöitä ei irtisanottu, mutta
+					ei heille ole myöskään osoittaa uutta työtä. Heitä tuetaan uudelleen sijoittumisessa
+					joko Elisan sisällä tai ulkopuolella. Emme tiedä, kuinka kauan tätä epämääräistä
+					"roikkumista" jatkuu, jos uutta paikkaa ei löydy. Mirja on ollut nyt sairaslomalla, jota
+					jatkuu varsinaisen vuosiloman alkuun asti.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Olemmekin käyneet ahkerasti golfaamassa. Elisan golf-kisoihin osallistuimme
+					Kullo Golfissa. Mirja oli naisten sarjassa kolmas ja minä miehissä sijalla 12. 
+					Maanantaisin olemme käyneet Samin kanssa pelaamassa Luukin "villinä päivänä",
+					jolloin kentälle pääsee kuka tahansa ilman green cardia. Peli sujuisi muuten ihan
+					mallikkaasti, mutta pinnan pitäisi kasvaa kovasti pituutta.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Mummin kanssa kävimme lounaalla keskustassa. Paikaksi valikoitui ravintola
+					Kaarna Forumissa. Se oli mukava pieni ja valoisa ravintola, jonka ikkunoista 
+					avautui näkymä Mannerheimintielle. Ruokakin oli erinomaisen maukasta. Aterian
+					jälkeen jaloittelimme Kauppatorille ja Tähtitorninmäelle.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/kuva_n14.jpg" />
+			<kuvaus>Muutamia päiviä lukuunottamatta kesäkuu on ollut viileähkö. Aurinko on 
+			enimmäkseen paistellut ja sadetta on tullut niukasti, mutta lämpötilat ovat pysytelleet 
+			pääasiassa kahdenkymmenen alapuolella, aamuisin jopa kymmenen pinnassa.</kuvaus>
+		</saa>
+		<ajatus>
+			<kuva tiedosto="albumi/kuva_n15.jpg" />
+			<sitaatti>Koskaan emme tiedä, mitä elämä tuo tullessaan. Saamme olla kiitollisia jokaisesta
+			 uudesta päivästä ja mahdollisuudesta. Emme voi kontrolloida kaikkea ympärillämme tapahtuvaa.
+			 Elämä tuo aina mukanaan yllätyksiä - joskus kipeitä ja pelottavia. Meillä ei ole kaikkia
+			 vastauksia.</sitaatti>
+			<lahde>Irene Erkko - Pohjois-Teksasin suomalainen seurakunta</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/kuva_n13.jpg" />
+			<kuvateksti>...saaressa pikkuinen torppa...</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+<!--
+	<napit>
+		<nappi teksti="Katso kuvia!" />
+	</napit>
+-->
+</uutissivu>
