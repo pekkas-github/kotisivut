@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Syyskuu 2008">
+	<metatiedot>
+		<vuosi>2008</vuosi>
+		<kuukausi>Syyskuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Ilotulitusta Töölönlahdella">
+			<kappale>
+				<kuva tiedosto="albumi/ilotulitus.jpg" muoto="pysty" kuvaus="Pauketta Töölönlahdella." />
+				<teksti>
+					Ilotulituksen Suomenmestaruuskilpailut järjestettiin jälleen Helsingin keskustassa. Katselijoita 
+					odotettiin saapuvan sankoin joukoin  Töölönlahden ympäristöön. Mekin olimme paikalle tulossa
+					ja jo junassa näki, että tapahtuma houkutteli väkeä ihasteleman arvatenkin upeita värejä ja 
+					kovaa pauketta.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Tuhansien muiden tavoin asetuimme odottamaan tapahtuman alkua Sanomatalon taakse.
+					Eduskuntatalon portailla oli ilmeisesti myös otollinen näköalapaikka, kansaa oli siellä sakeana.
+					Esitykset, joita oli viisi kappaletta, olivat upeita. Niihin liittyi myös musiikki, mutta se ei kantanut
+					meille asti. Esityksissä oli räiskyvämpiä osioita ja hiljaisempia hetkiä, mutta kaikki ne huipentuivat
+					mahtavaan jyskeen, värien ja valon kliimaksiin, niin että yleisö puhkesi spontaaneihin aplodeihin.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Muuten Helsingin keskusta ei perjantai-iltaisin ole lainkaan viihtyisä ja houkutteleva paikka.
+					Nuoret - tai oikeasti lapset - sanan mukaisesti maleksivat ihmisten jaloissa, vetävät kaljaa 
+					tai siideriä, mölyävät ja käyttäytäyvät kuin omistaisivat koko paikan. On jotenkin merkillistä,
+					että ensin väen vängällä hakeudutaan paikkaan, jossa kaikki muutkin ovat ja sitten nostetaan
+					meteli, jos joku tuppaa liian lähelle.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Lounaalla Villa Solvikissa">
+			<kappale>
+				<kuva tiedosto="albumi/villa_solvik.jpg" muoto="vaaka" kuvaus="Ravintola Villa Solvik Vuosaaressa" />
+				<teksti>
+					Päätimme tarjota mummille ja vaarille lounaan kiitokseksi Samin hoitelemisesta kesällä
+					golflentällä. Vuosaaresta löytyi pieni mukava lounasravintola, Villa Solvik, joka olikin mummille
+					 ja vaarille entuudestaan tuttu. Ravintola oli mukava, vanha huvila pienessä puistikossa lähes 
+					 keskellä kerrostaloja. 
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Villa Solvikin erikoisuus on kalapöytä. Siinä olikin monenlaista kylmää alkupalaa: mätejä, sillejä,
+					terrinejä, graavikalaa, savukalaa ja lisäksi salaatteja. Pääruokana oli silakkapihvejä. Jälkkäriksi oli
+					mm. uuniomenaa ja jäätelöä. Mirja ja vaari ottivat irish coffeet. Ruoka oli erinomisen hyvää ja 
+					interiööri oli valoisa ja rauhallinen.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Syksyinen sunnuntaipäivä oli mitä kaunein. Aurinko paistoi ja oli varsin lämmintä. Lounaan 
+					jälkeen kävelimme mummin ja vaarin kotiterassille juomaan iltapäiväkahvit.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Syksyn väriloistoa">
+			<kappale>
+				<kuva tiedosto="albumi/ruska.jpg" muoto="pysty" kuvaus="Ruska kultaa puut" />
+				<teksti>
+					Ei tullut intiaanikesää enää syyskuussa, vaikka sellaista viileähkön kesän jälkeen toiveissani
+					elättelin. Puut kellastuivat varsin nopeasti ja lehtiä alkoi putoilla tiiviiseen tahtiin. Aluksi näytti
+					siltä, että ruskasta tulisi hyvinkin värikäs, mutta lopulta se jäi varsin keskinkertaiseksi. Loppukuun
+					aurinkoiset päivät saivat kuitenkin hetkittäin kauniisti punertuneet ja kellastuneet puut hehkumaan
+					ja tuomaan silmäniloa viileneviin ja pimentyviin syksyn päiviin.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/omena.jpg" kuvaus="Syksyn makea hedelmä" />
+			<kuvaus>
+				Syyskuu oli varsinkin kuun lopulla vähäsateinen ja aurinkoinen.
+				Lämpötila laski kerran tai pari pakkaselle ja muutenkin oli aika viileitä aamuja.
+			</kuvaus>
+		</saa>
+		<ajatus>
+			<sitaatti>Kiireessä on se paha puoli, että se vie paljon aikaa.</sitaatti>
+			<lahde>G. K. Chesterton</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/kuukauden_kuva.jpg" />
+			<kuvateksti>Syksy loistaa väreissä</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+<!--
+	<napit>
+		<nappi teksti="Kuvia elokuulta" />
+	</napit>
+-->
+</uutissivu>

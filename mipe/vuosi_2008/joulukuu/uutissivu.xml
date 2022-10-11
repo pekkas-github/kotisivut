@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Joulukuu 2008">
+	<metatiedot>
+		<vuosi>2008</vuosi>
+		<kuukausi>Joulukuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Niitä näitä joulukuussa">
+			<kappale>
+				<kuva tiedosto="pukki.jpg" muoto="pysty" kuvaus="Aikuisille ei lahjoja hankittu, vai miten se oli?" />
+				<teksti>
+					Joulukuu, vuoden pimein aika, taisi mennä jotenkin unessa. Mitään kovin mainittavaa ei
+					tapahtunut. Enimmäkseen muistikuva ovat harmaita, eikä luntakaan ollut oikein edes
+					nimeksi. Puolivillaista joulun odotusta, vähän glögin maistelua ja pipareiden ja kinkun
+					paistamista.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Samin koululla järjestettiin perinteiset itsenäisyyspäivän juhlat. Nautittiin vanhempain-
+					toimikunnan buffeesta, isänmaallisesta ohjelmasta ja oppilaiden tanssiesityksistä. Ilta
+					huipentui neljäsluokkalaisten hienoissa juhlapuvuissa esittämiin vanhoihin tansseihin,
+					joita oli harjoiteltu ylipormestarin järjestämää itsenäisyyspäivän vastaanottoa varten.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Jouluaattoa vietettiin mummin ja vaarin luona. Jouko-pukki oli saapunut jakamaan
+					joululahjoja pienille ja vähän isommillekin lapsille. Vaikka aikuisille ei ollut tarkoitus 
+					lahjoja hankkia, niin pukki oli meitä silti pikkuisen muistanut.
+				</teksti>
+			</kappale>
+			<kappale>
+				<kuva tiedosto="joulupoyta.jpg" muoto="vaaka" kuvaus="Jouluruokaa tarjos' kunnon väki" />
+				<teksti>
+					Jouluun kuuluu makoisat jouluruoat. Niitä käytiin maistelemassa vuoroin kunkin 
+					isäntäväen luona. Hyviltä maistuivat joka torpassa. Ja vielä pitkän matkaa pyhien
+					jälkeenkin niitä riitti. Pidimme Mirja kanssa lomaa aina loppiaiseen asti, joten 
+					hyvää aikaa oli meillä nautiskelulle.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="metsa.jpg" kuvaus="Vaaleaa harsoa vain nimeksi" />
+			<kuvaus>
+			Lieneekö kasvihuonepäästöistä johtuvaa, mutta kovin vähälumisia ja leutoja
+			ovat joulukuun seudut viime vuosina olleet.
+			</kuvaus>
+		</saa>
+		<ajatus>
+			<sitaatti>Ellei yritä koko ajan kiirehtiä eteenpäin, on saattanut älytä pysähtyä ajoissa.
+			</sitaatti>
+			<lahde>Jarmo Somppi</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="sunset.jpg" />
+			<kuvateksti>Ja jälleen aurinko laskee mailleen.</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+<!--
+	<napit>
+		<nappi teksti="Kuvia elokuulta" />
+	</napit>
+-->
+</uutissivu>
