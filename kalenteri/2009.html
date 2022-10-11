@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- Tässä kalenteriversiossa osoittimen sijainti näytetään suhteessa kuvan sisältävään elementtiin,
+jolloin kuva kuva voi liikkua ikkunan koosta riippuen, mutta osoitin osoittaa jatkuvasti oikeaan paikkaan.  
+-->
+  
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<title></title>
+<style type="text/css">
+body {
+	background-color:#FDEBCF;
+	}
+h1 {
+	text-align:center;
+	}
+div#screen {
+	position:relative;
+	width:975px;
+	margin:auto;
+	}
+img#kalenteri {
+	z-index:1;
+	border-style:solid;
+	border-width:1px;
+	border-color:grey;
+	}	
+img#pointer {
+	visibility:hidden;
+	position:relative;
+	z-index:2;
+		}
+</style>
+<script type="text/javascript">
+
+/* -- Määritellään globaalit muuttuja ja niiden arvot */
+var LeftBorder=132;		// Osoitinalueen etäisyys kuvan vasemmasta reunasta
+var TopBorder=175;	// Osoitinalueen etäisyys kuvan yläreunasta
+var ImgWidth=683;		// Osoitinalueen leveys
+var ImgHeight=890;		// Osoitinalueen korkeus
+
+var RefTime=new Date(2009,0,1);						// Kalenterin alkuhetki (laskennan referenssipiste)
+var SummerTimeStart=new Date(2009,2,29);		// Kesäajan alkamispäivä
+var SummerTimeEnd=new Date(2009,9,25);		// Kesäajan päättymispäivä
+var YearEnd=new Date(2009,11,31);					// Kalenterin voimassaolo päättyy (ei näytetä enää pointteria)
+var CompTime=new Date();								// Asetetaan nykyhetki
+
+var Year=8760; 				// Vuosi tunteina
+var Day=1440;					// Vuorokausi minuutteina
+var Pointer;						// pointer-elementtiin viittaavan globaalin muuttujan määritys
+var PointerStatus="off"; 	// Pointer on alussa näkymätön
+
+
+/*  -- Käynnistetään pointterin näyttö vasta, kun sivu on kokonaan latautunut */
+
+window.onload=initPointer;
+
+function initPointer() {
+	if (CompTime >= RefTime && CompTime<=YearEnd) {
+		Pointer=document.getElementById("pointer"); // Luetaan elementti muuttujaan
+		setPointer();
+		}
+}
+function setPointer()
+{
+	/* -- Tehdään tarvittaessa kesäaikakorjaus */
+    CompTime=new Date();		// Luetaan nykyhetken arvo vertailuajaksi (ms)
+	SolarTime=new Date();		// Luodaan objekti todelliselle aurinkoajalle (ms)
+	if (CompTime>=SummerTimeStart && CompTime<SummerTimeEnd)
+		{
+			SolarTime.setHours(CompTime.getHours()-1)	//Kesäaika -> aurinkoaika tulee tunnin perässä
+		}
+
+	/* -- Lasketaan pointterin pystysijainti vuosiakselilla */
+	ElapsedHours=(SolarTime-RefTime)/(1000*60*60);
+	y=TopBorder+Math.round(ElapsedHours/Year*ImgHeight);
+	y=y+"px";
+	/* -- Lasketaan pointterin vaakasijainti vuorokausiakselilla */
+	ElapsedMinutes=60*SolarTime.getHours()+SolarTime.getMinutes();
+	x=Math.round(ElapsedMinutes/Day*ImgWidth);
+	if (ElapsedMinutes<Day/2)
+		{
+		x=LeftBorder+ImgWidth/2+x;	// Ennen puoltapäivää
+		}
+	else
+		{
+		x=LeftBorder+x-ImgWidth/2;	// Puolenpäivän jälkeen
+		}
+	x=x+"px";
+	
+	/* -- Sijoitetaan pointteri ja vilkutetaan sitä */
+		Pointer.style.top=y;
+		Pointer.style.left=x;
+	if (PointerStatus=="on")
+		{
+		Pointer.style.visibility="hidden";
+		PointerStatus="off";
+		}
+	else
+		{
+		Pointer.style.visibility="visible";
+		PointerStatus="on"
+		}
+	t=setTimeout("setPointer()", 1000);
+}
+</script>
+</head>
+<body>
+<h1>Aurinko, kuu ja planeetat taivaalla 2009</h1>
+<div id="screen">
+<!-- Alla olevat img-elementit pitää olla samalla rivillä, muuten Safari ja vanhemmat IE:t lisäävät 4 pikselin "alamarginaalin" pointteriin ja se näkyy saman verran liian korkealla. Tämä johtuu siitä, että jotkin selaimet tulkitsevat virheellisesti lopputägiä edeltävän rivinvaihdon välilyönniksi, vaikka se pitäisi standardin mukaan jättää huomioimatta. -->
+<img name="pointer" id="pointer" src="pointer_pun.gif" /><img name="kalenteri" id="kalenteri" src="tahtikalenteri_2009.png" />
+</div>
+</body>
+</html>

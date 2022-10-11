@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<title></title>
+<script type="text/javascript">
+function Aseta() {
+	document.pointer.style.top=document.koord.dtop.value + "px";
+	document.pointer.style.left=document.koord.dleft.value + "px";
+}
+function decTop() {
+	z=document.koord.dtop.value--;
+	Aseta();
+}
+function incTop() {
+	z=document.koord.dtop.value++;
+	Aseta();
+}
+function decLeft() {
+	z=document.koord.dleft.value--;
+	Aseta();
+}
+function incLeft() {
+	z=document.koord.dleft.value++;
+	Aseta();
+}
+</script>
+</head>
+<body>
+<img name="kalenteri" id="kalenteri" src="tahtikalenteri_2010.png" />
+<img name="pointer" id="pointer" src="pointer_pun.gif" />
+<form name="koord">
+	 Top coordinate (px)
+   <input name="dtop" type="text" size="5" value="0" />
+   <input type="button" value="-" onclick="decTop()" />
+   <input type="button" value="+" onclick="incTop()" />
+   <br />
+   Left coordinate (px) 
+   <input name="dleft" type="text" size="5" value="0" /> 
+   <input type="button" value="-" onclick="decLeft()" />
+   <input type="button" value="+" onclick="incLeft()" /><br/>
+   <input type="button" value="Set pointer" onclick="Aseta()" />
+</form>
+<script>
+	document.kalenteri.style.position="absolute";
+	document.kalenteri.style.top="0";
+	document.kalenteri.style.left="0";
+	document.koord.style.position="fixed";
+	document.koord.style.top="10px";
+	document.koord.style.left="1000px";
+	document.pointer.style.position="absolute";
+	document.pointer.style.top="0px";
+	document.pointer.style.left="0px";
+</script>
+</body>
+</html>

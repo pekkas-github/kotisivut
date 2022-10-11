@@ -1,0 +1,10 @@
+img {
+	border-style:solid;
+	border-width:1px;
+	}
+img#no1 {
+	margin-right:0px;
+	}
+#no2 {
+	margin-left:0px;
+	}
