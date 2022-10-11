@@ -1,0 +1,20 @@
+/* Yl‰tunnisteen tyylim‰‰ritykset 28.5.2009 */
+
+@import "yleiset.css";
+
+
+#linkkilista {
+	width:800px;
+	margin-top:2px;
+	margin-left:10px;
+	padding-left:0px;
+}
+.linkki {
+ 	display:inline; 
+	margin-right:60px;
+}
+#cookie {
+	position:absolute;
+	top:3px;
+	left:10px;
+}

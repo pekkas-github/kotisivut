@@ -1,0 +1,52 @@
+/* Kuvaesitysten tyylisivu */
+body {
+/* Kaikki taustav‰rit muutettu mustaksi 25.8.08 */
+	background-color: #222222;
+	color:white;
+	text-align:center;
+}
+table {
+/*	width:550px; leveys muutettu prosenteiksi 25.8.08*/
+	width:100%;
+	margin:0px;
+}
+td {
+	text-align:center;
+}
+div.top {
+	background-color:#222222;
+}
+td.middle {
+	height:535px;
+	background-color:#222222;
+	border-color:#888888;
+	border-width:1px;
+	border-top-style:solid;
+}
+div.bottom {
+	background-color:#222222;
+	height:55px;
+	padding-top:0px;
+}
+div#tekstinPaikka {
+	margin-bottom:5px;
+	background-color:#555555;
+}
+h1 {
+	font-size:120%;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+/* T‰m‰ ei ole en‰‰ relevantti, kun yl‰lomake on poistettu 24.9.08 */
+form.top {
+	text-align: left;
+	font-size:10px;
+	margin:0px;
+	padding:opx;
+}
+/* T‰m‰ ei ole en‰‰ relevantti, kun yl‰lomake on poistettu 24.9.08 */
+input.top {
+	font-size:10px;
+	padding:0px;
+}

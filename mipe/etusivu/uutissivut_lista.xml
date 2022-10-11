@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../muunnokset/arkisto_lst.xsl"?>
+
+<uutisarkisto>
+	<vuosi vuosi="2014">
+<!--		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+-->		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+<!--		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="xml" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="xml" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="xml" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="xml" />
+-->	</vuosi>
+<!--
+	<vuosi vuosi="2012">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="xml" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="xml" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="xml" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="xml" />
+	</vuosi>
+	
+	<vuosi vuosi="2011">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="xml" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="xml" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="xml" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="xml" />
+	</vuosi>
+-->	
+	<vuosi vuosi="2010">
+<!--		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+-->		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="xml" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="xml" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="xml" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="xml" />
+	</vuosi>
+	
+	<vuosi vuosi="2009">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="xml" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="xml" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="xml" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="xml" />
+	</vuosi>
+	
+	<vuosi vuosi="2008">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="xml" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="xml" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="xml" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="xml" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="xml" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="xml" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="xml" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="html" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="html" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="html" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="xml" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="html" />
+	</vuosi>
+	<vuosi vuosi="2007">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="html" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="html" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="html" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="html" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="html" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="html" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="html" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="html" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="html" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="html" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	
+	<vuosi vuosi="2006">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	
+	<vuosi vuosi="2005">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	
+	<vuosi vuosi="2004">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	
+	<vuosi vuosi="2003">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	
+	<vuosi vuosi="2002">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	<vuosi vuosi="2001">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Elokuu" nimi="elokuu" tyyppi="htm" />
+		<sivu kuukausi="Heinäkuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+		<sivu kuukausi="Helmikuu" nimi="helmikuu" tyyppi="htm" />
+		<sivu kuukausi="Tammikuu" nimi="tammikuu" tyyppi="htm" />
+	</vuosi>
+	<vuosi vuosi="2000">
+		<sivu kuukausi="Joulukuu" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Marraskuu" nimi="marraskuu" tyyppi="htm" />
+		<sivu kuukausi="Lokakuu" nimi="lokakuu" tyyppi="htm" />
+		<sivu kuukausi="Syyskuu" nimi="syyskuu" tyyppi="htm" />
+		<sivu kuukausi="Heinä-elokuu" nimi="heinakuu" tyyppi="htm" />
+		<sivu kuukausi="Kesäkuu" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Toukokuu" nimi="toukokuu" tyyppi="htm" />
+		<sivu kuukausi="Huhtikuu" nimi="huhtikuu" tyyppi="htm" />
+		<sivu kuukausi="Maaliskuu" nimi="maaliskuu" tyyppi="htm" />
+	</vuosi>
+	<vuosi vuosi="1999">
+		<sivu kuukausi="Pikkujoulua" nimi="joulukuu" tyyppi="htm" />
+		<sivu kuukausi="Kesää" nimi="kesakuu" tyyppi="htm" />
+		<sivu kuukausi="Kevättä" nimi="maaliskuu" tyyppi="htm" />
+	</vuosi>
+</uutisarkisto>

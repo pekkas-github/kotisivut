@@ -1,0 +1,287 @@
+/*	SIVUSTON YHTEISET TYYLIMƒƒRITYKSET
+	31.5.2009*/
+
+/*	Taustav‰rien m‰‰ritykset
+	====================
+*/
+.bodyTop {
+	background-color:#2525A0;
+	margin:0px;
+	padding:0px;
+	}
+.bodySide {
+	background-color:#EAE6FF;
+	margin:0px;
+	padding:0px;
+	}
+.bodyMain {
+	font-family:arial, sans-serif;
+	background-color:#FFFFFF;
+	margin:0px;	/* Sis‰ltˆ kiert‰‰ tarkasti ikkunan reunoja */
+	padding:0px	; /* T‰m‰ puree Opera-selaimeen */
+}
+/*	Otsikkotekstien m‰‰ritykset
+	======================
+*/
+.hdTop {
+	color:white;
+	font-family:times, serif;
+	font-size:170%;
+	font-weight:bold;
+	text-align:center;
+	margin-top:3px;
+}
+.hdSide {
+	background-color:#DAD6EF;
+	color:#2525A0;
+	font-family:arial, sans-serif;
+	font-size:100%;
+	font-style:italic;
+	font-weight:bold;
+	padding-top:5px;
+	padding-left:5px;
+	width:100%;
+	position:fixed;
+	top:0px;
+	left:0px;
+	height:30px;
+	z-index:1;
+}
+.subhdSide {
+	color:black;
+	font-family:times, serif;
+	font-size:100%;
+	font-weight:bold;
+	margin-top:10px;
+}
+.hdMain {
+	padding:5px;
+	height:25px;
+	position:fixed;  /* Kiinnitet‰‰n otsikkokentt‰ ikkunaan */
+	left:0px;
+	right:0px;
+	background-color:#ffffff;
+	z-index:3;			/* Nostetaan otsikkokentt‰ p‰‰llimm‰iseksi */
+	font-weight:bold;
+	font-style:italic;
+	border-bottom:1px dotted #888888;
+	color:#4040A0;
+}
+.hdMain_v3 {
+	padding:5px;
+	height:25px;
+	width:911px;
+	position:fixed;  /* Kiinnitet‰‰n otsikkokentt‰ ikkunaan */
+	left:0px;
+	right:0px;
+	background-color:#ffffff;
+	z-index:3;			/* Nostetaan otsikkokentt‰ p‰‰llimm‰iseksi */
+	font-weight:bold;
+	font-style:italic;
+	border-bottom:1px dotted #888888;
+	border-right:1px solid #888888;
+	color:#4040A0;
+	}
+/* Sivupalkin sis‰ltˆalueen m‰‰ritykset
+	================
+*/
+.contSide {
+	padding-left:5px;
+	position:absolute;
+	top:35px;
+	left:0px;
+	z-index:0;
+}
+/*	Tekstim‰‰ritykset
+	==============
+*/
+.txtTop {
+	color:white;
+	font-family:arial, sans-serif;
+	font-size:60%;
+	}
+
+.txtSide {
+	font-family:arial, sans-serif;
+	font-size:80%;
+}
+
+.txtMain {
+}
+/*	Linkkim‰‰ritykset
+	==============
+*/
+
+.bodyTop a {
+	font-family:arial, sans-serif;
+	font-size:85%;
+	font-weight:bold;
+}
+.bodyTop a:link {color:white;}
+.bodyTop a:visited {color:white;}
+.bodyTop a:hover {color:#FF6666;}
+
+.bodySide a {
+	font-family:arial, sans-serif;
+	font-size:80%;
+}
+.bodySide a:link {color:#2020FF;}
+.bodySide a:visited {color:#2020FF;}
+.bodySide a:hover {color:red;}
+
+	
+/* SIVUKOHTAISET MƒƒRITYKSET
+*/
+
+/*	Uutissivun sis‰ltˆalueen m‰‰ritykset 
+*/
+/*	Uuden yksinkertaisemman uutissivun tyylit */
+
+#contColumnLeft {
+	width:600px;
+	padding:5px;
+	background-color:#FFFFFF;
+	border-right:1px solid #888888;
+	border-bottom:1px dotted #888888;
+	position:absolute;
+	left:0px;
+	top:35px;
+	}
+#contColumnRight {
+	width:300px;
+	padding:5px;
+	background-color:#FFFFFF;
+	border-left:1px solid #888888;
+	border-bottom:1px dotted #888888;
+	border-right:1px solid #888888;
+	position:absolute;
+	top:35px;
+	left:610px;				/* Sijoitetaan oikea palsta vasemman viereen */	
+	}
+#contEtusivu {
+	width:500px;
+	padding: 5px 50px 0 10px;
+	border-bottom:1px dotted #888888;
+	position:absolute;
+	left:100px;
+	top:35px;
+	}	
+#contUutisetVasen {
+	padding:5px;
+	background-color:#FFFFFF;
+	border-right:1px solid #888888;
+	border-bottom:1px dotted #888888;
+	position:absolute;
+	top:35px;
+	right:310px;			/*Vasen palsta sijoitetaan oikean palstan verran irti oikeasta reunasta. Vasen palsta joustaa ikkunan koon mukana. */
+	}
+#contUutisetOikea {
+	width:300px;		/* Leveydelt‰‰n kiinte‰ oikea palsta */
+	padding:5px;
+	background-color:#FFFFFF;
+	border-left:1px solid #888888;
+	border-bottom:1px dotted #888888;
+	position:absolute;
+	top:35px;
+	right:0px;				/* Sijoitetaan oikea palsta oikeaan reunaan */	
+	}
+.contUutisetH1 {
+	font-family:times;
+	color:white;
+	font-size:130%;
+	margin-top:0px;
+	padding:2px;
+	background-color:#aabbcc;
+	clear:right;	/* Uusi otsikko tulee vasta edell‰ kelluvien kuvien alapuolelle */
+	}
+.contKuvatH1 {
+	font-family:times;
+	color:#222222;
+	font-size:100%;
+	margin-top:0px;
+	text-align:center;
+	background-color:#dddddd;
+	}
+p {
+	font-size:90%;
+	margin-top:0px;
+	margin-bottom:10px;	/* Kappaleiden v‰linen tila */
+	}
+#sitaatti {
+	font-style:italic;
+	}
+img {
+	width:298px; /*298px + 1px reunukset = 300px  oikea reuna t‰sm‰‰*/
+	border:1px solid #666666;
+	margin:0px 0px 5px 0px;
+	}
+img.vaaka {
+	width:50%;	/* Kuvan koko skaalautuu palstan leveyden mukaan */
+	margin:0px 0px 5px 5px;
+	float:right;
+	clear:right; /* Kuvat eiv‰t pakkaudu rinnakkain, vaan pysyv‰t allekkain */
+	}
+img.pysty {
+	width:35%;	/* Kuvan koko skaalautuu palstan leveyden mukaan */
+	margin:0px 0px 5px 5px;
+	float:right;
+	clear:right; /* Kuvat eiv‰t pakkaudu rinnakkain, vaan pysyv‰t allekkain */
+	}
+form {
+	text-align:center
+	}
+
+/* P‰iv‰kirjasivun sis‰ltˆalueen m‰‰ritykset
+*/
+.contDiaryJuttu {
+	padding-top:25px;
+	width:500px;
+	margin-left:100px;
+}
+.contDiaryH2 {
+	margin-bottom:1;
+	font-family:Times;
+	font-size:130%;
+}
+.contDiaryH3 {
+	margin-top:1;
+	font-weight:normal;
+	font-style:italic;
+	font-size:85%;
+	font-family:Arial;
+}
+.contDiaryImg {
+	width:500px;
+	border:1px solid #666666;
+}
+.contDiaryP {
+	font-size:92%;
+	font-family:Arial;
+}
+
+/* Kalenterien sis‰ltˆalueen m‰‰ritykset
+*/
+.hdCalYear {
+	background-color:#C0C0C0;
+	font-family:arial, sans-serif;
+}
+	
+.hdCalMonth {
+	font-size:12pt;
+	font-weight:bold;
+}
+table.tblCal {
+	width:100%;
+	background-color:#C0C0C0;
+}
+td {
+	background-color:white;
+}
+td.tdCalLeft {
+	vertical-align:top;
+	width:100;
+}
+td.tdCalMid {
+	vertical-align:top;
+	width:200;
+}
