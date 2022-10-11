@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Maaliskuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Maaliskuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Kevättä ilmassa">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_1.jpg" muoto="vaaka" kuvaus="" />
+				<teksti>
+					Talven pitkän harmauden jälkeen on maaliskuun aurinko piristänyt useina päivinä mieliämme.
+					Lumet sulivat ja päivä piteni silmissä. Kevätpäivän tasaus ohitettiin ja siirryttiin kesäaikaan.
+					Lintujen iloinen laulu antoi jo lupauksen keväästä. Kesää, kärpäsiä ja terassikauden alkamista
+					odotellaan. 
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					CSC-Tieteellinen laskenta on laatinut "tähtikalenterin", josta voi seurata auringon sekä planeettojen
+					Nousuja ja laskuja. Jalostin heidän tekemäänsä kuvaa lisäämällä siihen osoittimen, joka näyttää
+					reaaliaikaisesti, missä kohdin juuri juuri nyt ollaan menossa. Käy vilkaisemassa päiväkirjasivuilla.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Samin synttärit">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_5.jpg" muoto="pysty" kuvaus="Nintendo DS Lite ja keskittymistä." />
+				<teksti>
+					Sami ei kovin usein ole haluamassa itselleen mitään tavaraa. Nyt kuitenkin toiveena oli
+					hankkia Nintendo DS -laite ja siihen Pokemon-peli. Kaikilla kavereilla kun on sellainen.
+					Sami halusi kaiken lisäksi hankkia sen omilla rahoillaan.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Lähdimme sitä yhdessä hankkimaan. Sami laskeskeli tarkasti rahojaan ja sovittiin, että
+					Sami hankkii laitteen ja iskä antaa synttärilahjaksi pelin. Näin tehtiin ja uusi peli otettiin
+					heti ahkeraan käyttöön.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Pieni yllätys oli, että laite ja peli puhuivat englantia ja peliohjeet olivat ruotsiksi. Lisäksi
+					kaikki oli niin pienellä präntillä, etteivät tavalliset lukulasit meinanneet riittää. Siinä sitten
+					yhteisvoimin tavattiin ja tulkattiin ohjeita. Minä käänsin tekstejä suomeksi ymmärtämättä
+					yhtään, mitä ne tarkoittivat, mutta Sami vaan totesi, että "Joo mä tiedänkin tän jutun".
+				</teksti>
+			</kappale>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/kuva_7.jpg" />
+			<kuvaus>Aamun sarastukseen on helppo herätä. </kuvaus>
+		</saa>
+		<ajatus>
+			<kuva tiedosto="albumi/kuva_2.jpg" />
+			<sitaatti>Parhaus vaatii aina ison joukon huonompia, joihin verrataan.</sitaatti>
+			<lahde>Heidi Hammarsten - Fakta-lehti</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/kuva_3.jpg" />
+			<kuvateksti>Virvon varvon tuoreeks' terveeks'</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+	<napit>
+		<nappi teksti="Kuvia maaliskuussa 2009" />
+	</napit>
+</uutissivu>

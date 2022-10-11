@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Huhtikuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Huhtikuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Mirjan merkkipäivä">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_2.jpg" muoto="pysty" kuvaus="Onnittelut!" />
+				<teksti>
+					Heti kuun alussa ja kevään jo nostaessa päätään, vietimme Mirjan suurta
+					juhlapäivää. Merkkipäivä sattui sopivasti perjantaiksi, joten vieraita saapui tasaisena
+					virtana; ensin eläkeläiset ja sitten työssä käyvät.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Juhlat olivat oikein onnistuneet. Vieraat tuntuivat viihtyvän ja päivänsankari oli
+					tyytyväinen ja onnellinen. Pippaloita olisi voinut jatkaa pitempäänkin. Isännällä 
+					piti kiirettä kuohuviinin kaatamisen ja valokuvaamisen välillä. Taisi siinä Sami ja
+					vieraatkin vähän osallistua kahvin keittoon ja muuhun pikku puuhaan.
+				</teksti>
+			</kappale>
+			<kappale>
+				<kuva tiedosto="albumi/kuva_14.jpg" muoto="vaaka" kuvaus="Reiskat" />
+				<teksti>
+					Lahjathan ovat yleensä niin kuin iän mukaan. Ei sentään tullut keinutuolia, mutta
+					jalat täytyy kuitenkin pitää lämpiminä. Meidän huushollissamme siihen onkin 
+					erityistä tarvetta. Niinpä Reiskat ovat olleet ahkerassa päivittäisessä käytössä.
+					Käy katsomassa kuvia synttäreistä ja vähän muustakin.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+		<tapahtuma otsikko="Pääsiäisbrunssi">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_18.jpg" muoto="vaaka" kuvaus="Kenellä onkaan pesämuna?" />
+				<teksti>
+					Mummi tarjosi perinteisen, maistuvan pääsiäisbrunssin. Paikalla oli nyt vain Salosten perhe.
+					Muu suku oli ollut edellisenä iltana saamassa "Viipuri-valistusta". Nautiskelimme herkuista
+					ja "litsailimme" munia. Suklaamunista löytyi merkillisiä esineitä. Kai niitä joku keksii ihan
+					työkseen?
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Sitruunaperhoset, muuttolinnut ja sinisinä kukkamerinä loistavat sinivuokot lupailivat
+					kesän tuloa. Kimalaiset ilmeistyivät ikkunan taakse, harakat esittivät soidintaan ja rusakko
+					söi krookukset.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+	</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuva tiedosto="albumi/kuva_21.jpg" />
+			<kuvaus>Alkukuusta oli vielä lunta maassa, mutta sitten tuli pitkä, aurinkoinen ja
+				lämmin jakso, jossa joillakin paikkakunnilla lämpötila nousi yli 20 asteen. Kevät
+				siis eteni jättiharppauksin, vaikka olikin ollut jonkin verran myöhässä.</kuvaus>
+		</saa>
+		<ajatus>
+			<kuva tiedosto="albumi/kuva_23.jpg" />
+			<sitaatti>Me emme ole saaneet maailmaa perinnöksi vanhemmiltamme, se on meillä lainassa
+			lapsiltamme</sitaatti>
+			<lahde>Tuntematon</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="albumi/kuva_24.jpg" />
+			<kuvateksti></kuvateksti>
+		</valokuva>
+	</vakiojutut>
+	<napit>
+		<nappi teksti="Katso kuvia!" />
+	</napit>
+</uutissivu>

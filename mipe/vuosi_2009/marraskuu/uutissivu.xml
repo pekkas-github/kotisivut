@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Marraskuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Marraskuu</kuukausi>
+	</metatiedot>
+
+	<tapahtumat>
+		<tapahtuma otsikko="Isänpäivä">
+			<kuva osoite="albumi/Iska.jpg" muoto="pysty" kuvaus="Isänpäivälahjat yllä" />
+			<teksti>
+				Nukkuessa ei saa olla kylmä ja siksi pidänkin lämpimästä yöpuvusta, jossa on pitkät
+				hihat ja pitkät lahkeet. Käytän myös yömyssyä ja villasukkia ja usein vielä lisäpeitettä.
+				Kuulostaa ehkä kovin "vaarimaiselta" tai sitten pidämme makuuhuonettamme varsin
+				viileänä.
+			</teksti>
+			<teksti>
+				Tämän vuotinen isänpäiväyöpuku tuli todella tarpeeseen. Olin siitä esittänyt toiveenkin,
+				sillä olen vastikään joutunut luopumaan kaksista yöasuista, koska olen sananmukaisesti
+				nukkunut ne halki. Ensin repesivät paidat selästä ja sitten ratkesivat housut haaroista. 
+				Kenties nukun jotenkin levottomasti. 
+			</teksti>
+			<teksti>
+				Lisäksi sain Samilta koulussa tehdyn solmion. Vaikka nykytrendi työpaikalla tuntuu olevan, 
+				että ollaan ihan rennosti ilman solmiota ja paidan kaulukset auki, niin joskus toki 
+				solmiotakin tarvitaan. Olisivatkohan leveät solmiot mallia "Kalvei Sorsa" tulossa taas muotiin?
+				Niitä saattaisi löytyä lisää vaatekomerostani jostain vuosikymmenien takaa.
+			</teksti>
+		</tapahtuma>
+		<tapahtuma otsikko="Talviurheiluvälineet">
+			<kuva osoite="albumi/Sturenkatu.jpg" muoto="vaaka" kuvaus="Syksyinen Sturenkatu" />
+			<teksti>
+				Talvista on tullut leutoja ja vähälumisia. Se on ongelmallista koulujen talviliikunnan kannalta.
+				Se on ongelmallista myös perheille, kun kasvaville nuorille pitää ostaa vuosittain uudet 
+				luistimet ja sukset muutamaa hassua käyttökertaa varten.
+			</teksti>
+			<teksti>
+				Onneksi on olemassa sporttidivari. Palautimme Samin pieniksi jääneet monot ja luistimet
+				ja tilalle saatiin sopivan kokoiset luistimet - ilman välirahaa. Ne eivät tietenkään olleet uudet, 
+				mutta täysin	asiansa ajavat ja viimeistään parin vuoden päästä jo pienet Samille.
+			</teksti>
+			<teksti>
+				Minä odottelin sillä aikaa autossa - Sturenkadun reunassa, Paavalin kirkon vieressä. Vossikka
+				mennä kopsutteli ohitseni ja kääntyi kirkolle päin. Kadun toisella puolella tyhjennettiin jostakin
+				liikkeestä tai asunnosta tavaraa jalkakäytävälle tuodulle jätelavalle. Liikennevalojen syke 
+				pumppasi tasaiseen tahtiin autojonoja ohitseni syvemmälle katuverkon suonistoon.
+				Ajatelin, että kaupunki on omassa karuudessaan ja harmaudessaan kuitenkin jollain tavalla 
+				aika kiehtova paikka.
+			</teksti>
+		</tapahtuma>
+	</tapahtumat>
+
+	<vakiojutut>
+		<saa>
+			<kuva osoite="albumi/Pasila.jpg" kuvaus="Näkymä Pasilanmäeltä" />
+			<teksti>
+				Marraskuu oli jokseenkin harmaa. Aurinko näyttäytyi yhtenä tai kahtena päivänä.
+				Lämpö oli jossain nollan tietämillä ja tilapäisesti ilmestyi vähän valkoista maahan.
+			</teksti>
+		</saa>
+		<ajatus>
+			<sitaatti>Homo expectensis - haluava ihminen - ei ajattele 'Haluan olla erilainen kuin sinä' vaan 
+			'Haluan olla samanlainen kuin sinä, mutta parempi'. </sitaatti>
+			<lahde>John Naish - Riittää jo!</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva osoite="albumi/Marjat.jpg" />
+			<teksti>Kastehelmiä</teksti>
+		</valokuva>
+	</vakiojutut>
+
+</uutissivu>

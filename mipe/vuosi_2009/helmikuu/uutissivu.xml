@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
+
+<uutissivu otsikko="Helmikuu 2009">
+	<metatiedot>
+		<vuosi>2009</vuosi>
+		<kuukausi>Helmikuu</kuukausi>
+	</metatiedot>
+	<tapahtumat>
+		<tapahtuma otsikko="Talvilomaa etelän lämmössä">
+			<kappale>
+				<kuva tiedosto="albumi/kuva_37.jpg" muoto="vaaka" kuvaus="Playa Blanca" />
+				<teksti>
+					Helmikuun harmauden kohokohta oli koulujen talviloma. Mirjan toivomuksesta
+					lähdeimme viettämään sitä Lanzarottelle Kanariansaarille. Tarkempi sijainti oli 
+					Playa Blancan rauhallinen pikkukaupunki aivan saaren eteläkärjessä.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Hotellihuoneemme isolta parvekkeelta oli upea näköala merelle. Taivaanrannassa
+					häämötti naapurisaaren, Fuerteventuran, silhuetti. Atlantin mainingit kohahtelivat
+					rantaan taukoamatta ja taivaalla purjehti harvakseltaa poutapilviä. Jokseenkin
+					täydellistä.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Ensimmäistä kertaa olimme ns. "all-inclusive" täyshoidossa. Ruoat ja juomat niin
+					ravintolassa kuin baareissakin sisältyivät hintaan. Se tarkoitti mm. kolmea täyttä 
+					ateriaa päivässä seisovasta pöydästä. Eikä vaihtoehtojen runsaudesta ollut todellakaan
+					puutetta. Ensimmäinen päivä meni kursaillessa, sitten alkoi ahneus nostaa päätään
+					ja viimeisinä päivinä yritettiin löytää kohtuuden tasapainon. Toki söimme paljon 
+					kasviksia (aiolin ja muiden herkullisten majoneesikastikkeiden kera), mutta silti
+					lopputulos näkyi kotivaa'an lukemissa.
+				</teksti>
+			</kappale>
+			<kappale>
+				<teksti>
+					Aamupalan jälkeen siirryimme Papagayo-baarin valtavalle terassille nauttimaan espressoa,
+					cappuccinoa ja limua. Sami oli tavattoman reipas lomalainen ja hoiteli omia tilauksiaan
+					sujuvasti englanninkielellä. Aamuauringon lempeä lämpö loi raukean joutilaisuuden 
+					tunnelman ja aika oli kuin pysähtynyt. Päivän aktiviteetteihin ryhtyminen oli yhtä vaikeaa
+					kuin unesta herääminen.
+				</teksti>
+			</kappale>
+			<kappale>
+				<kuva tiedosto="albumi/kuva_22.jpg" muoto="vaaka" kuvaus="Varpaat Atlantin aalloissa" />
+				<teksti>
+					Päivisin harrastimme liikuntaa. Kävelyaskeleita tuli varmasti aika runsaasti. Jo pelkästään
+					hotellilla kiipesimme portaita seitsemän kerros ylös-alas useamman kerran päivässä.
+					Hiekkarannat olivat myös jonkinlaisen kävelymatkan päässä samoin kaupungin keskusta.
+					Viimeisenä päivänä vuokrasimme polkupyörät ja ajelimme koko kaupungin päästä 
+					päähän ulottuvan rantabulevardin edes takaisin. Matkaa suuntaansa oli noin 10 kilometriä.
+				</teksti>
+			</kappale>
+		</tapahtuma>
+</tapahtumat>
+	<vakiojutut>
+		<saa>
+			<kuvaus>
+				Merkintä helmikuun alkupuolelta: "Vettä sataa sojona ja lämpötila on +1 astetta".
+				Tämä kuvaa hvyin tämän talven olemusta. Lumisateet ja pakkaset ovat olleet
+				pikemminkin keskisessä Euroopassa kuin täällä pohjolan perukoilla.
+			</kuvaus>
+		</saa>
+		<ajatus>
+			<sitaatti>Hitaasti, hitaasti etana saapuu lähteelle.</sitaatti>
+			<lahde>Afrikkalainen sananlasku</lahde>
+		</ajatus>
+		<valokuva>
+			<kuva tiedosto="jaljet.jpg" />
+			<kuvateksti>Perjantai?</kuvateksti>
+		</valokuva>
+	</vakiojutut>
+	<napit>
+		<nappi teksti="Lanzarotte" />
+	</napit>
+</uutissivu>
