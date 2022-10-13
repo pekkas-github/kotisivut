@@ -1,5 +1,5 @@
-/* Skripti asettaa cookien arvoksi vierailup‰iv‰n ja laskee sek‰ n‰ytt‰‰, kuinka monta
-   p‰iv‰‰ on kulunut t‰m‰n p‰iv‰n ja vierailup‰iv‰n v‰lill‰ */
+/* Skripti asettaa cookien arvoksi vierailup√§iv√§n ja laskee sek√§ n√§ytt√§√§, kuinka monta
+   p√§iv√§√§ on kulunut t√§m√§n p√§iv√§n ja vierailup√§iv√§n v√§lill√§ */
    
 window.onload=checkCookie;
 
@@ -14,7 +14,7 @@ function checkCookie() {
 	 	lastVisit=document.cookie.substring(c_start,c_end);
 	 	daysBetween= Math.floor((toDay.getTime()-lastVisit)/(1000*60*60*24));
 	 	if (daysBetween > 0) {
-	 		document.getElementById("cookie").innerHTML="Viimeksi k‰vit " + daysBetween + " p‰iv‰‰ sitten!";
+	 		document.getElementById("cookie").innerHTML="Viimeksi k√§vit " + daysBetween + " p√§iv√§√§ sitten!";
 	 	}
 	 }
 	 setCookie();

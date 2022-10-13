@@ -2,20 +2,20 @@
 	  MUUTOKSET
 	-----------------------------------------------------------
 25.9.2009
-	Poistettu tila "Pys‰ytys" ja muutettu tilasiirtym‰n kohteeksi
+	Poistettu tila "Pys√§ytys" ja muutettu tilasiirtym√§n kohteeksi
 	tila "Tauko"
 	Poistettu sekunnin viive, kun taukotilasta jatketaan (kutsutaan
-	funktiota KuvanEsitys() eik‰ AloitaEsitys()
-	Korvattu teksti K‰ynnist‰ yhten‰isemmin tekstill‰ Jatka
+	funktiota KuvanEsitys() eik√§ AloitaEsitys()
+	Korvattu teksti K√§ynnist√§ yhten√§isemmin tekstill√§ Jatka
 
 14.4.2009
-	Poistettu tarpeeton lomakem‰‰ritys
+	Poistettu tarpeeton lomakem√§√§ritys
 	
 24.9.2008
-	Muutettu kuvalaskurina k‰ytetyt lomakekent‰t <span> elementeiksi,
-	joiden sis‰ltˆ‰ p‰ivitet‰‰n kuvanumeroiden muuttuessa.
-	LIs‰tty napit "alkuun" (<<) ja "loppuun" (>>). Kuva eteen / taakse 
-	n‰pp‰imet muutettu (> ja <)
+	Muutettu kuvalaskurina k√§ytetyt lomakekent√§t <span> elementeiksi,
+	joiden sis√§lt√∂√§ p√§ivitet√§√§n kuvanumeroiden muuttuessa.
+	LIs√§tty napit "alkuun" (<<) ja "loppuun" (>>). Kuva eteen / taakse 
+	n√§pp√§imet muutettu (> ja <)
 	--------------------------------------------------------------*/
 	
 /*	-------------------------------------------------------------
@@ -29,7 +29,7 @@
 	------------------------------------------------------------- */
     var kuvaNro=1; // Kuvalaskurin alkuarvo
     var viimKuva; // Viimeisen kuvan numero funktiokutsusta
-    var kuvaViive = taysViive; // Kertoo j‰ljell‰ olevan viiveen
+    var kuvaViive = taysViive; // Kertoo j√§ljell√§ olevan viiveen
     var systeeminTila="Esitys";
 
 /*	-------------------------------------------------------------
@@ -46,7 +46,7 @@ function Kuvaesitys(otsikko,maks) {
       	write("</td></tr><tr><td class='bottom'>");
       	write("<input type='button' id='begin' value=' << ' onclick='EnsimKuva ()'>");
       	write("<input type='button' id='back' value=' < ' onclick='EdellinenKuva ()'>");
-      	write("<input type='button' id='start' value='Keskeyt‰' onclick='AloitaLopeta ()'>");
+      	write("<input type='button' id='start' value='Keskeyt√§' onclick='AloitaLopeta ()'>");
       	write("<input type='button' id='forward' value=' > ' onclick='SeuraavaKuva ()'>");
       	write("<input type='button' id='end' value=' >> ' onclick='ViimKuva ()'>");
      	write('<div style="color:#777777" id="palkinPaikka">&nbsp;</div>');
@@ -62,7 +62,7 @@ function Kuvaesitys(otsikko,maks) {
 	}       
 
 /*	--------------------------------------------------------
-	Painettu "aloita/keskeyt‰/jatka" -painiketta  
+	Painettu "aloita/keskeyt√§/jatka" -painiketta  
 	--------------------------------------------------------*/
 
 function AloitaLopeta () {
@@ -75,7 +75,7 @@ function AloitaLopeta () {
         	systeeminTila="Tauko";
         	break;
         case "Tauko":
-        	MuutaNappain ("Keskeyt‰");
+        	MuutaNappain ("Keskeyt√§");
         	systeeminTila="Esitys";
         	KuvanEsitys ();
         	break;
@@ -84,7 +84,7 @@ function AloitaLopeta () {
             NaytaKuva (kuvaNro);
             kuvaViive=taysViive;
             NaytaPalkki (kuvaViive);
-		    MuutaNappain ("Keskeyt‰");
+		    MuutaNappain ("Keskeyt√§");
             AloitaEsitys ();
 		    systeeminTila="Esitys";
         }
@@ -213,7 +213,7 @@ function SeuraavaKuva () {
 	}
 }
 
-/*	Kuvan esitt‰minen viiveen ajan  */
+/*	Kuvan esitt√§minen viiveen ajan  */
 
 function KuvanEsitys () {
 		if (kuvaViive > 0) {
