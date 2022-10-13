@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><!--	Versio 2.1 / Tukee rakenteita "uutissivu_v2.1.dtd" sekä vanhempaa "uutissivu_v2.0.dtd"
- --><xsl:stylesheet version="1.0"xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml version="1.0" encoding="UTF-8"?>
+<!--	Versio 2.1 / Tukee rakenteita "uutissivu_v2.1.dtd" sekÃ¤ vanhempaa "uutissivu_v2.0.dtd"
+ -->
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/uutissivu">
 
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="stylesheet" type="text/css" href="../../tyylit/yleiset.css" />
 		<!-- Kuvaesityksen avaaminen uuteen ikkkunaan -->
 		<script type="text/javascript">
@@ -31,9 +34,9 @@
 		<div id="contUutisetOikea">
 			<xsl:apply-templates select="vakiojutut" />
 			
-			<!-- Ennen 8/09 kolmantena osiona oli käytössä elementti "napit".
-				  8/09 jälkeen on käytetty yleistä "nappi"-elemettiä, joka voi sijaita
-				  missä kohdassa tahansa dokumenttia -->
+			<!-- Ennen 8/09 kolmantena osiona oli kÃ¤ytÃ¶ssÃ¤ elementti "napit".
+				  8/09 jÃ¤lkeen on kÃ¤ytetty yleistÃ¤ "nappi"-elemettiÃ¤, joka voi sijaita
+				  missÃ¤ kohdassa tahansa dokumenttia -->
 			<xsl:apply-templates select="napit" />
 		</div>
 	</body>
@@ -47,7 +50,7 @@
 </xsl:template>
 
 <xsl:template match="saa">
-	<h1 class="contUutisetH1">Kuukauden sää</h1>
+	<h1 class="contUutisetH1">Kuukauden sÃ¤Ã¤</h1>
 	<xsl:apply-templates />
 </xsl:template>
 
@@ -80,7 +83,7 @@
 </xsl:template>
 
 <xsl:template match="kuvaus">
-<!-- Ennen sivua 8/09 oli säähän liittyvän tekstielementin 
+<!-- Ennen sivua 8/09 oli sÃ¤Ã¤hÃ¤n liittyvÃ¤n tekstielementin 
 	   nimi "kuvaus". 8/09 alkaen elementin nimi on normaali "teksti" -->
 	<p><xsl:value-of select="." /></p>
 </xsl:template>

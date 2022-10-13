@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!--	Versio 3.0 / Muutettu 2.1:een nähden oikean reunan kuvarainaa"
+<?xml version="1.0" encoding="UTF-8"?>
+<!--	Versio 3.0 / Muutettu 2.1:een nÃ¤hden oikean reunan kuvarainaa"
  -->
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link rel="stylesheet" type="text/css" href="../../tyylit/yleiset.css" />
 		<!-- Kuvaesityksen avaaminen uuteen ikkkunaan -->
 		<script type="text/javascript">

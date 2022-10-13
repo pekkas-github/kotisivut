@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/paivakirjasivut">
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-  	<title>Sivupalkki - Päiväkirja</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  	<title>Sivupalkki - PÃ¤ivÃ¤kirja</title>
 	<link rel="stylesheet" type="text/css" href="../tyylit/yleiset.css" />
 
 	<style type="text/css">
@@ -20,7 +21,7 @@
 </head>
 <body class="bodySide">
 	<div class="hdSide">
-		Päiväkirja
+		PÃ¤ivÃ¤kirja
 	</div>
 	<div class="contSide">
 	<table cellspacing="0" cellpadding="0">
