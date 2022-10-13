@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../muunnokset/kuvasivu_v2.xsl"?>
 
 <kuvaesitys otsikko="Talvisia kuvia tammikuussa 2010">
-	<kuva osoite="P1010887.JPG">Tammikuu oli varsin kylmä</kuva>
+	<kuva osoite="P1010887.JPG">Tammikuu oli varsin kylmÃ¤</kuva>
 	<kuva osoite="P1010875.JPG">-</kuva>
 	<kuva osoite="P1010898.JPG">-</kuva>
 	<kuva osoite="P1010900.JPG">-</kuva>
@@ -24,4 +24,9 @@
 	<kuva osoite="P1010955.JPG">-</kuva>
 	<kuva osoite="P1010962.JPG">-</kuva>
 </kuvaesitys>
-
+
+
+
+
+
+

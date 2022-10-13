@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Helmikuu 2009">
@@ -7,51 +7,51 @@
 		<kuukausi>Helmikuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Talvilomaa etelän lämmössä">
+		<tapahtuma otsikko="Talvilomaa etelÃ¤n lÃ¤mmÃ¶ssÃ¤">
 			<kappale>
 				<kuva tiedosto="albumi/kuva_37.jpg" muoto="vaaka" kuvaus="Playa Blanca" />
 				<teksti>
 					Helmikuun harmauden kohokohta oli koulujen talviloma. Mirjan toivomuksesta
-					lähdeimme viettämään sitä Lanzarottelle Kanariansaarille. Tarkempi sijainti oli 
-					Playa Blancan rauhallinen pikkukaupunki aivan saaren eteläkärjessä.
+					lÃ¤hdeimme viettÃ¤mÃ¤Ã¤n sitÃ¤ Lanzarottelle Kanariansaarille. Tarkempi sijainti oli 
+					Playa Blancan rauhallinen pikkukaupunki aivan saaren etelÃ¤kÃ¤rjessÃ¤.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Hotellihuoneemme isolta parvekkeelta oli upea näköala merelle. Taivaanrannassa
-					häämötti naapurisaaren, Fuerteventuran, silhuetti. Atlantin mainingit kohahtelivat
-					rantaan taukoamatta ja taivaalla purjehti harvakseltaa poutapilviä. Jokseenkin
-					täydellistä.
+					Hotellihuoneemme isolta parvekkeelta oli upea nÃ¤kÃ¶ala merelle. Taivaanrannassa
+					hÃ¤Ã¤mÃ¶tti naapurisaaren, Fuerteventuran, silhuetti. Atlantin mainingit kohahtelivat
+					rantaan taukoamatta ja taivaalla purjehti harvakseltaa poutapilviÃ¤. Jokseenkin
+					tÃ¤ydellistÃ¤.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Ensimmäistä kertaa olimme ns. "all-inclusive" täyshoidossa. Ruoat ja juomat niin
-					ravintolassa kuin baareissakin sisältyivät hintaan. Se tarkoitti mm. kolmea täyttä 
-					ateriaa päivässä seisovasta pöydästä. Eikä vaihtoehtojen runsaudesta ollut todellakaan
-					puutetta. Ensimmäinen päivä meni kursaillessa, sitten alkoi ahneus nostaa päätään
-					ja viimeisinä päivinä yritettiin löytää kohtuuden tasapainon. Toki söimme paljon 
+					EnsimmÃ¤istÃ¤ kertaa olimme ns. "all-inclusive" tÃ¤yshoidossa. Ruoat ja juomat niin
+					ravintolassa kuin baareissakin sisÃ¤ltyivÃ¤t hintaan. Se tarkoitti mm. kolmea tÃ¤yttÃ¤ 
+					ateriaa pÃ¤ivÃ¤ssÃ¤ seisovasta pÃ¶ydÃ¤stÃ¤. EikÃ¤ vaihtoehtojen runsaudesta ollut todellakaan
+					puutetta. EnsimmÃ¤inen pÃ¤ivÃ¤ meni kursaillessa, sitten alkoi ahneus nostaa pÃ¤Ã¤tÃ¤Ã¤n
+					ja viimeisinÃ¤ pÃ¤ivinÃ¤ yritettiin lÃ¶ytÃ¤Ã¤ kohtuuden tasapainon. Toki sÃ¶imme paljon 
 					kasviksia (aiolin ja muiden herkullisten majoneesikastikkeiden kera), mutta silti
-					lopputulos näkyi kotivaa'an lukemissa.
+					lopputulos nÃ¤kyi kotivaa'an lukemissa.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Aamupalan jälkeen siirryimme Papagayo-baarin valtavalle terassille nauttimaan espressoa,
+					Aamupalan jÃ¤lkeen siirryimme Papagayo-baarin valtavalle terassille nauttimaan espressoa,
 					cappuccinoa ja limua. Sami oli tavattoman reipas lomalainen ja hoiteli omia tilauksiaan
-					sujuvasti englanninkielellä. Aamuauringon lempeä lämpö loi raukean joutilaisuuden 
-					tunnelman ja aika oli kuin pysähtynyt. Päivän aktiviteetteihin ryhtyminen oli yhtä vaikeaa
-					kuin unesta herääminen.
+					sujuvasti englanninkielellÃ¤. Aamuauringon lempeÃ¤ lÃ¤mpÃ¶ loi raukean joutilaisuuden 
+					tunnelman ja aika oli kuin pysÃ¤htynyt. PÃ¤ivÃ¤n aktiviteetteihin ryhtyminen oli yhtÃ¤ vaikeaa
+					kuin unesta herÃ¤Ã¤minen.
 				</teksti>
 			</kappale>
 			<kappale>
 				<kuva tiedosto="albumi/kuva_22.jpg" muoto="vaaka" kuvaus="Varpaat Atlantin aalloissa" />
 				<teksti>
-					Päivisin harrastimme liikuntaa. Kävelyaskeleita tuli varmasti aika runsaasti. Jo pelkästään
-					hotellilla kiipesimme portaita seitsemän kerros ylös-alas useamman kerran päivässä.
-					Hiekkarannat olivat myös jonkinlaisen kävelymatkan päässä samoin kaupungin keskusta.
-					Viimeisenä päivänä vuokrasimme polkupyörät ja ajelimme koko kaupungin päästä 
-					päähän ulottuvan rantabulevardin edes takaisin. Matkaa suuntaansa oli noin 10 kilometriä.
+					PÃ¤ivisin harrastimme liikuntaa. KÃ¤velyaskeleita tuli varmasti aika runsaasti. Jo pelkÃ¤stÃ¤Ã¤n
+					hotellilla kiipesimme portaita seitsemÃ¤n kerros ylÃ¶s-alas useamman kerran pÃ¤ivÃ¤ssÃ¤.
+					Hiekkarannat olivat myÃ¶s jonkinlaisen kÃ¤velymatkan pÃ¤Ã¤ssÃ¤ samoin kaupungin keskusta.
+					ViimeisenÃ¤ pÃ¤ivÃ¤nÃ¤ vuokrasimme polkupyÃ¶rÃ¤t ja ajelimme koko kaupungin pÃ¤Ã¤stÃ¤ 
+					pÃ¤Ã¤hÃ¤n ulottuvan rantabulevardin edes takaisin. Matkaa suuntaansa oli noin 10 kilometriÃ¤.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -59,13 +59,13 @@
 	<vakiojutut>
 		<saa>
 			<kuvaus>
-				Merkintä helmikuun alkupuolelta: "Vettä sataa sojona ja lämpötila on +1 astetta".
-				Tämä kuvaa hvyin tämän talven olemusta. Lumisateet ja pakkaset ovat olleet
-				pikemminkin keskisessä Euroopassa kuin täällä pohjolan perukoilla.
+				MerkintÃ¤ helmikuun alkupuolelta: "VettÃ¤ sataa sojona ja lÃ¤mpÃ¶tila on +1 astetta".
+				TÃ¤mÃ¤ kuvaa hvyin tÃ¤mÃ¤n talven olemusta. Lumisateet ja pakkaset ovat olleet
+				pikemminkin keskisessÃ¤ Euroopassa kuin tÃ¤Ã¤llÃ¤ pohjolan perukoilla.
 			</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Hitaasti, hitaasti etana saapuu lähteelle.</sitaatti>
+			<sitaatti>Hitaasti, hitaasti etana saapuu lÃ¤hteelle.</sitaatti>
 			<lahde>Afrikkalainen sananlasku</lahde>
 		</ajatus>
 		<valokuva>

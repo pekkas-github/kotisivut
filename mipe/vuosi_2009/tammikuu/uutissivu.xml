@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 
@@ -8,27 +8,27 @@
 		<kuukausi>Tammikuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Vaarin merkkipäivä">
+		<tapahtuma otsikko="Vaarin merkkipÃ¤ivÃ¤">
 			<kappale>
-				<kuva tiedosto="vaari1.jpg" muoto="vaaka" kuvaus="Mediataiteilija mietteisään" />
+				<kuva tiedosto="vaari1.jpg" muoto="vaaka" kuvaus="Mediataiteilija mietteisÃ¤Ã¤n" />
 				<teksti>
-					Vaarilla oli synttärit. Vaari täytti pyöreät 80 vuotta. Harvoin näkee yhtä hyväkuntoista
-					"vanhusta". Tosiaankin vanhusta lainausmerkeissä. Lieneekö nuorekkuuden salaisuutena 
-					sosiaalinen mielenlaatu ja hyvät harrastukset vai tietotekniikan antamat älylliset
-					(ja usein älyttömätkin) haasteet. Viimeisin kädenvääntö onkin ollut Viipurinmatkan 
-					multimediaesitys. Siitä on nähty joitakin työversioita - mummi ihan kyllästymiseenkin
-					asti - ja oikein hyvältä näyttää. Sitä kelpaa sitten katsella uudesta taulu-TV:stä.
+					Vaarilla oli synttÃ¤rit. Vaari tÃ¤ytti pyÃ¶reÃ¤t 80 vuotta. Harvoin nÃ¤kee yhtÃ¤ hyvÃ¤kuntoista
+					"vanhusta". Tosiaankin vanhusta lainausmerkeissÃ¤. LieneekÃ¶ nuorekkuuden salaisuutena 
+					sosiaalinen mielenlaatu ja hyvÃ¤t harrastukset vai tietotekniikan antamat Ã¤lylliset
+					(ja usein Ã¤lyttÃ¶mÃ¤tkin) haasteet. Viimeisin kÃ¤denvÃ¤Ã¤ntÃ¶ onkin ollut Viipurinmatkan 
+					multimediaesitys. SiitÃ¤ on nÃ¤hty joitakin tyÃ¶versioita - mummi ihan kyllÃ¤stymiseenkin
+					asti - ja oikein hyvÃ¤ltÃ¤ nÃ¤yttÃ¤Ã¤. SitÃ¤ kelpaa sitten katsella uudesta taulu-TV:stÃ¤.
 				</teksti>
 			</kappale>
 		</tapahtuma>
 		<tapahtuma otsikko="Talviurheilua">
 			<kappale>
-				<kuva tiedosto="hiihtaja.jpg" muoto="pysty" kuvaus="Hyvä on hiihtäjän hiihdellä..." />
+				<kuva tiedosto="hiihtaja.jpg" muoto="pysty" kuvaus="HyvÃ¤ on hiihtÃ¤jÃ¤n hiihdellÃ¤..." />
 				<teksti>
-					Kun lopultakin saatiin lunta, päästiin koulussakin hiihtämään ja luistelemaan.
-					Sami on tänä talvena päässyt hiihtämisen makuun ja sitä on harrastettu myös
+					Kun lopultakin saatiin lunta, pÃ¤Ã¤stiin koulussakin hiihtÃ¤mÃ¤Ã¤n ja luistelemaan.
+					Sami on tÃ¤nÃ¤ talvena pÃ¤Ã¤ssyt hiihtÃ¤misen makuun ja sitÃ¤ on harrastettu myÃ¶s
 					vapaa-ajalla. Mirja, joka muutenkin esimerkillisesti hoitaa kuntoaan, on ottanut
-					hiihdon ohjelmaansa jo muutama vuosi sitten. Minua eivät ole ainakaan vielä saaneet
+					hiihdon ohjelmaansa jo muutama vuosi sitten. Minua eivÃ¤t ole ainakaan vielÃ¤ saaneet
 					innostumaan asiasta. Katsotaan nyt ensi vuonna, josko tulee luntakaan.
 				</teksti>
 			</kappale>
@@ -38,14 +38,14 @@
 		<saa>
 			<kuva tiedosto="talvi.jpg" kuvaus="Lunta lopultakin" />
 			<kuvaus>
-				Runsaampi lumentulo on viimevuosina ajoittunut selvästi vuoden vaihteen jälkeiseen
-				aikaan. Niin nytkin. Lunta ei kuitenkaan ole ollut mitenkään runsaasti. 
+				Runsaampi lumentulo on viimevuosina ajoittunut selvÃ¤sti vuoden vaihteen jÃ¤lkeiseen
+				aikaan. Niin nytkin. Lunta ei kuitenkaan ole ollut mitenkÃ¤Ã¤n runsaasti. 
 			</kuvaus>
 		</saa>
 		<ajatus>
 			<kuva tiedosto="albumi/kuva_6.jpg" />
 			<sitaatti>
-				Elämäsi ei muodostu päivista, jotka ovat menneet, vaan päivistä, jotka muistat.
+				ElÃ¤mÃ¤si ei muodostu pÃ¤ivista, jotka ovat menneet, vaan pÃ¤ivistÃ¤, jotka muistat.
 			</sitaatti>
 			<lahde>Pavlenko</lahde>
 		</ajatus>

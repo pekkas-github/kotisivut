@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Lokakuu 2009">
@@ -8,38 +8,38 @@
 	</metatiedot>
 
 	<tapahtumat>
-		<tapahtuma otsikko="Sami leirillä Nuuksiossa">
-			<kuva osoite="albumi/partiolainen.jpg" muoto="vaaka" kuvaus="Seikkailija lähdössä vaellukselle Nuuksioon" />
+		<tapahtuma otsikko="Sami leirillÃ¤ Nuuksiossa">
+			<kuva osoite="albumi/partiolainen.jpg" muoto="vaaka" kuvaus="Seikkailija lÃ¤hdÃ¶ssÃ¤ vaellukselle Nuuksioon" />
 			<teksti>
-				Samin lippukunta lähti "riihittämään" Nuuksion luonnonpuistoon. Tiedossa oli patikointia luonnossa
-				ja yöpyminen laavussa. Lähtöä edeltävänä iltana vielä ihmeteltiin, miten kaikki tarvittava oikein saadaan
-				mahtumaan reppuun. Ohjeita ja vinkkejä luettiin netistä. Mukaan piti saada makuupussi, makuualusta,
-				varakengät, varavaatteet, ruokailuvälineet, puukko, kompassi, tulitikkuja, ruokaa ja ties mitä. Retkeä
-				varten ostettu reppu alkoi vaikuttaa kovin pieneltä, mutta kaikki saatiin lopulta sullottua mukaan.
+				Samin lippukunta lÃ¤hti "riihittÃ¤mÃ¤Ã¤n" Nuuksion luonnonpuistoon. Tiedossa oli patikointia luonnossa
+				ja yÃ¶pyminen laavussa. LÃ¤htÃ¶Ã¤ edeltÃ¤vÃ¤nÃ¤ iltana vielÃ¤ ihmeteltiin, miten kaikki tarvittava oikein saadaan
+				mahtumaan reppuun. Ohjeita ja vinkkejÃ¤ luettiin netistÃ¤. Mukaan piti saada makuupussi, makuualusta,
+				varakengÃ¤t, varavaatteet, ruokailuvÃ¤lineet, puukko, kompassi, tulitikkuja, ruokaa ja ties mitÃ¤. RetkeÃ¤
+				varten ostettu reppu alkoi vaikuttaa kovin pieneltÃ¤, mutta kaikki saatiin lopulta sullottua mukaan.
 			</teksti>
 			<teksti>
-				Lauantaiaamuna lähtö Puistolan asemalta oli heti kahdeksan jälkeen. Vanhemmat olivat saattelemassa
-				tyttöjä ja poikia matkaan. Reippaasti lapset lähtivät johtajansa perässä. Kotona Mirjan kanssa ajattelimme
-				koko illan, miten meidän pikkupoikamme mahtaa pärjätä ulkona pimeässä, kun lämpötilakin laski lähes
+				Lauantaiaamuna lÃ¤htÃ¶ Puistolan asemalta oli heti kahdeksan jÃ¤lkeen. Vanhemmat olivat saattelemassa
+				tyttÃ¶jÃ¤ ja poikia matkaan. Reippaasti lapset lÃ¤htivÃ¤t johtajansa perÃ¤ssÃ¤. Kotona Mirjan kanssa ajattelimme
+				koko illan, miten meidÃ¤n pikkupoikamme mahtaa pÃ¤rjÃ¤tÃ¤ ulkona pimeÃ¤ssÃ¤, kun lÃ¤mpÃ¶tilakin laski lÃ¤hes
 				pakkaslkemille.
 			</teksti>
 			<teksti>
-				Mutta hyvin kaikki sujui. Pitkästi oli suunnistettu tehtävärastilta toiselle, kunnes illan jo pimennyttyä oli
-				päästy leiriytymispaikalle. Vielä oli laitettu ruokaa ja vasta puolen yön tietämissä oli päästy nukkumaan.
-				Makuupussi oli ollut onneksi kuiva ja lämmin, eikä yöllä ollut paleltanut yhtään. Kotiin päästyään Sami 
-				oli väsynyt, mutta tyytyväinen retkeen.
+				Mutta hyvin kaikki sujui. PitkÃ¤sti oli suunnistettu tehtÃ¤vÃ¤rastilta toiselle, kunnes illan jo pimennyttyÃ¤ oli
+				pÃ¤Ã¤sty leiriytymispaikalle. VielÃ¤ oli laitettu ruokaa ja vasta puolen yÃ¶n tietÃ¤missÃ¤ oli pÃ¤Ã¤sty nukkumaan.
+				Makuupussi oli ollut onneksi kuiva ja lÃ¤mmin, eikÃ¤ yÃ¶llÃ¤ ollut paleltanut yhtÃ¤Ã¤n. Kotiin pÃ¤Ã¤styÃ¤Ã¤n Sami 
+				oli vÃ¤synyt, mutta tyytyvÃ¤inen retkeen.
 			</teksti>
 		</tapahtuma>
 		<tapahtuma otsikko="Kahvilla Sirkan luona">
-			<kuva osoite="albumi/vuosaari.jpg" muoto="vaaka" kuvaus="Merinäköala, jos tarkasti katsoo." />
+			<kuva osoite="albumi/vuosaari.jpg" muoto="vaaka" kuvaus="MerinÃ¤kÃ¶ala, jos tarkasti katsoo." />
 			<teksti>
-				Sirkka on asunut jo useamman vuoden Vuosaaressa palvelutalossa. Kävimme vasta nyt ensivisiitillä,
-				kun olemme niin arkoja kyläilemään kutsumatta.
+				Sirkka on asunut jo useamman vuoden Vuosaaressa palvelutalossa. KÃ¤vimme vasta nyt ensivisiitillÃ¤,
+				kun olemme niin arkoja kylÃ¤ilemÃ¤Ã¤n kutsumatta.
 			</teksti>
 			<teksti>
-				Talossa oli mielenkiintoisen näköisiä ratkaisuja, koska se on suunniteltu ajatellen ikääntyviä ihmisiä ja
-				heidän liikkumistaan. Oli avaria tiloja, leveitä ovia ja itsestään aukeavia ovia. Kahdeksannesta
-				kerroksesta oli hulppea näköala yli Vuosaaren kauppakeskusen aina merelle asti. 
+				Talossa oli mielenkiintoisen nÃ¤kÃ¶isiÃ¤ ratkaisuja, koska se on suunniteltu ajatellen ikÃ¤Ã¤ntyviÃ¤ ihmisiÃ¤ ja
+				heidÃ¤n liikkumistaan. Oli avaria tiloja, leveitÃ¤ ovia ja itsestÃ¤Ã¤n aukeavia ovia. Kahdeksannesta
+				kerroksesta oli hulppea nÃ¤kÃ¶ala yli Vuosaaren kauppakeskusen aina merelle asti. 
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
@@ -47,12 +47,12 @@
 	<vakiojutut>
 		<saa>
 			<kuva osoite="albumi/omput.jpg" />
-			<teksti>Sää viileni. Ensimmäiset pakkaset ja liukkaat. Onneksi oli nastat ajoissa alla.
+			<teksti>SÃ¤Ã¤ viileni. EnsimmÃ¤iset pakkaset ja liukkaat. Onneksi oli nastat ajoissa alla.
 			</teksti>
 		</saa>
 		<ajatus>
-			<sitaatti>Mieti ostaessasi, tarvitsenko tätä - vai haluanko vain sitä.</sitaatti>
-			<lahde>John Naish - Riittää jo!</lahde>
+			<sitaatti>Mieti ostaessasi, tarvitsenko tÃ¤tÃ¤ - vai haluanko vain sitÃ¤.</sitaatti>
+			<lahde>John Naish - RiittÃ¤Ã¤ jo!</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva osoite="albumi/lehti.jpg" />

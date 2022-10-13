@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Marraskuu 2008">
@@ -9,18 +9,18 @@
 	<tapahtumat>
 		<tapahtuma otsikko="Suvun pikkujoulut">
 			<kappale>
-				<kuva tiedosto="pikkujoulu.jpg" muoto="vaaka" kuvaus="Arvuutteluja Rikkiviisaan käsikirjasta " />
+				<kuva tiedosto="pikkujoulu.jpg" muoto="vaaka" kuvaus="Arvuutteluja Rikkiviisaan kÃ¤sikirjasta " />
 				<teksti>Suvun pikkujoulua voi sanoa jo perinteeksi. Tutkiskelin vanhoja kalentereita ja
-				tulin siihen tulokseen, että ensimmäiset pikkujoulut vietettiin lauantaina marraskuun
-				28. päivänä 1992. En enää muista, eikä kalenterikaan kertonut, kenen luona ne vietettiin.
+				tulin siihen tulokseen, ettÃ¤ ensimmÃ¤iset pikkujoulut vietettiin lauantaina marraskuun
+				28. pÃ¤ivÃ¤nÃ¤ 1992. En enÃ¤Ã¤ muista, eikÃ¤ kalenterikaan kertonut, kenen luona ne vietettiin.
 				Hauskaa varmasti oli, sen uskallan sanoa, vaikkei tarkkoja muistikuvia olekaan.
 				</teksti>
 			</kappale>
 			<kappale>
-				<teksti>Tänä vuonna tuli täyteen siis kunnioitettavat 18 vuotta. Vuosien kuluessa
-				juhlijoiden määrä on pikkuhiljaa kasvanut.  On syntynyt lapsia ja on "naitu" sukuun uusia 
-				jäseniä. Aikuistuneet nuoretkin ovat ilahduttavasti olleet juhlissa mukana. Toivottavasti
-				tämä traditio säilyy pitkään.
+				<teksti>TÃ¤nÃ¤ vuonna tuli tÃ¤yteen siis kunnioitettavat 18 vuotta. Vuosien kuluessa
+				juhlijoiden mÃ¤Ã¤rÃ¤ on pikkuhiljaa kasvanut.  On syntynyt lapsia ja on "naitu" sukuun uusia 
+				jÃ¤seniÃ¤. Aikuistuneet nuoretkin ovat ilahduttavasti olleet juhlissa mukana. Toivottavasti
+				tÃ¤mÃ¤ traditio sÃ¤ilyy pitkÃ¤Ã¤n.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -28,14 +28,14 @@
 			<kappale>
 				<kuva tiedosto="lunta.jpg" muoto="vaaka" kuvaus="Ensilumi" />
 				<teksti>Talvet ovat viime vuosina olleet kovin leutoja. Lunta ei ole juurikaan tullut ennen
-				vuoden vaihdetta. Samanlaiselta vaikutti tämäkin alkutalvi. Mutta sittenpä ilmojen haltija
-				tuprautti lunta oikein kunnolla. Hetken aikaa pääsimme nauttimaan valoa antavasta ja
-				äänet vaimentavasta lumivaipasta.
+				vuoden vaihdetta. Samanlaiselta vaikutti tÃ¤mÃ¤kin alkutalvi. Mutta sittenpÃ¤ ilmojen haltija
+				tuprautti lunta oikein kunnolla. Hetken aikaa pÃ¤Ã¤simme nauttimaan valoa antavasta ja
+				Ã¤Ã¤net vaimentavasta lumivaipasta.
 				</teksti>
 			</kappale>
 			<kappale>
-				<teksti>Tätä iloa kesti vain vajaan viikon. Seuraava lämmin henkäys sai lumen muuttumaan
-				sohjoksi ja kohta jo valumaan kuravetenä viemäreihin. Jäämme odottelemaan, tuleeko 
+				<teksti>TÃ¤tÃ¤ iloa kesti vain vajaan viikon. Seuraava lÃ¤mmin henkÃ¤ys sai lumen muuttumaan
+				sohjoksi ja kohta jo valumaan kuravetenÃ¤ viemÃ¤reihin. JÃ¤Ã¤mme odottelemaan, tuleeko 
 				joulusta valkoinen vai ei.
 				</teksti>
 			</kappale>
@@ -43,14 +43,14 @@
 </tapahtumat>
 	<vakiojutut>
 		<saa>
-			<kuva tiedosto="saa.jpg" kuvaus="Lumi pehmentää maiseman" />
+			<kuva tiedosto="saa.jpg" kuvaus="Lumi pehmentÃ¤Ã¤ maiseman" />
 			<kuvaus>
-				Marraskuu oli lähinnä pilvinen ja harmaa. Lunta tuli parina päivänä runsaasti, mutta
+				Marraskuu oli lÃ¤hinnÃ¤ pilvinen ja harmaa. Lunta tuli parina pÃ¤ivÃ¤nÃ¤ runsaasti, mutta
 				nopeasti sekin suli pois.
 			</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Toimeton hetki ei ole tyhjiö, joka pitäisi täyttää.</sitaatti>
+			<sitaatti>Toimeton hetki ei ole tyhjiÃ¶, joka pitÃ¤isi tÃ¤yttÃ¤Ã¤.</sitaatti>
 			<lahde>Harry Lewis - Harvardin yliopiston dekaani</lahde>
 		</ajatus>
 		<valokuva>

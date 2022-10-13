@@ -1,109 +1,109 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
-<uutissivu otsikko="Heinäkuu 2010">
+<uutissivu otsikko="HeinÃ¤kuu 2010">
 	<metatiedot>
 		<vuosi>2010</vuosi>
-		<kuukausi>Heinäkuu</kuukausi>	
+		<kuukausi>HeinÃ¤kuu</kuukausi>	
 	</metatiedot>
 
 	<tapahtumat>
-		<tapahtuma otsikko="Itä-Länsi -ottelu">
-			<kuva osoite="pesis.JPG" muoto="vaaka" kuvaus="Lämpö helli yleisöä." />
+		<tapahtuma otsikko="ItÃ¤-LÃ¤nsi -ottelu">
+			<kuva osoite="pesis.JPG" muoto="vaaka" kuvaus="LÃ¤mpÃ¶ helli yleisÃ¶Ã¤." />
 		<teksti>
-			Pesäpallo tuli Helsinkiin Itä-Länsi -ottelun merkeissä. Tapahtumapaikkana
-			oli Finnair-Stadiumin keinonurmi. Lähdimme seuraamaan naisten ottelua ja
-			samalla nauttimaan kesäillasta.
+			PesÃ¤pallo tuli Helsinkiin ItÃ¤-LÃ¤nsi -ottelun merkeissÃ¤. Tapahtumapaikkana
+			oli Finnair-Stadiumin keinonurmi. LÃ¤hdimme seuraamaan naisten ottelua ja
+			samalla nauttimaan kesÃ¤illasta.
 		</teksti>
 		<teksti>
-			Yleisöä ei ollut päätä huimaavasti. Iso osa heistäkin varmaan maakunnista
-			tulleita. Aurinkoinen itäkatsomo oli sentään aika tiiviisti kansoitettu ja ihan
+			YleisÃ¶Ã¤ ei ollut pÃ¤Ã¤tÃ¤ huimaavasti. Iso osa heistÃ¤kin varmaan maakunnista
+			tulleita. Aurinkoinen itÃ¤katsomo oli sentÃ¤Ã¤n aika tiiviisti kansoitettu ja ihan
 			oli urheilujuhlan tuntua. Maamme-laulukin kuultiin oopperalaulajan paatoksella
 			oikein amerikan malliin.
 		</teksti>
 		<teksti>
 			Peli oli vauhdikasta ja Antero Mertaranta kohotti tunnelmaa ansiokkaiksi tunnettujen
-			kykyjensä mukaisesti. Lopputulos oli tosin selvä jo varsin aikaisessa vaiheessa.
-			Itä paukutteli useamman läpilyönnin ja kunnarin ja voitto heltisi varsin selvin numeroin.
+			kykyjensÃ¤ mukaisesti. Lopputulos oli tosin selvÃ¤ jo varsin aikaisessa vaiheessa.
+			ItÃ¤ paukutteli useamman lÃ¤pilyÃ¶nnin ja kunnarin ja voitto heltisi varsin selvin numeroin.
 		</teksti>
 		</tapahtuma>
 		<tapahtuma otsikko="Museokierros">
 			<kuva osoite="veturimuseo.JPG" muoto="vaaka" kuvaus="" />
 			<teksti>
-				Kesäloman perinteisiin on alkanut kuulua museot. Tänä vuonna kävimme Samin 
-				kanssa Vantaalla Ilmailumuseossa ja Hyvinkäällä Rautatiemuseossa.
+				KesÃ¤loman perinteisiin on alkanut kuulua museot. TÃ¤nÃ¤ vuonna kÃ¤vimme Samin 
+				kanssa Vantaalla Ilmailumuseossa ja HyvinkÃ¤Ã¤llÃ¤ Rautatiemuseossa.
 			</teksti>
 			<teksti>
-				Ilmailumuseo oli sopivan pyöräilymatkan päässä Helsinki-Vantaa -lentokentä
-				kupeessa. Matka oli kuitenkin ajateltua raskaampi, sillä kesän helteet olivat
-				pahimmillaan ja lämmintä oli selvästi yli 30 astetta. Vähän olimme huolissamme,
+				Ilmailumuseo oli sopivan pyÃ¶rÃ¤ilymatkan pÃ¤Ã¤ssÃ¤ Helsinki-Vantaa -lentokentÃ¤
+				kupeessa. Matka oli kuitenkin ajateltua raskaampi, sillÃ¤ kesÃ¤n helteet olivat
+				pahimmillaan ja lÃ¤mmintÃ¤ oli selvÃ¤sti yli 30 astetta. VÃ¤hÃ¤n olimme huolissamme,
 				kun museon vastaanottoaulakin oli kuin sauna.
 			</teksti>
 			<kuva osoite="ilmailumuseo.JPG" muoto="vaaka" kuvaus="Pieni maailman matkaaja" />
 			<teksti>
-				Onneksi näyttelyhalli oli ilmastoitu ja se oli miellyttävän viileä. Viihdyimmekin 
-				siellä hyvän aikaa, eikä pelkästään viileyden takia, vaan myös tutkiskellen eri
+				Onneksi nÃ¤yttelyhalli oli ilmastoitu ja se oli miellyttÃ¤vÃ¤n viileÃ¤. Viihdyimmekin 
+				siellÃ¤ hyvÃ¤n aikaa, eikÃ¤ pelkÃ¤stÃ¤Ã¤n viileyden takia, vaan myÃ¶s tutkiskellen eri
 				aikakausien lentokoneita ja lentotekniikkaa.
 			</teksti>
 			<teksti>
-				Rautatiemuseoon matkustimme tietysti junalla. Museo sijaitsee kävelymatkan päässä
-				Hyvinkään asemalta. Museo oli tavattoman laaja käsittäen useampia halleja ja
-				kokonaisen pihamilijöön, jossa oli vanha asemarakennus sekä rautatieläisten
+				Rautatiemuseoon matkustimme tietysti junalla. Museo sijaitsee kÃ¤velymatkan pÃ¤Ã¤ssÃ¤
+				HyvinkÃ¤Ã¤n asemalta. Museo oli tavattoman laaja kÃ¤sittÃ¤en useampia halleja ja
+				kokonaisen pihamilijÃ¶Ã¶n, jossa oli vanha asemarakennus sekÃ¤ rautatielÃ¤isten
 				asuntoja.
 			</teksti>
 			<teksti>
-				Rautateissä on jotain merkillisen kiehtovaa. Voimakkaat veturit vetävät perässään
+				RautateissÃ¤ on jotain merkillisen kiehtovaa. Voimakkaat veturit vetÃ¤vÃ¤t perÃ¤ssÃ¤Ã¤n
 				vaunuja omassa suljetussa maailmassaan ja kuljettavat uumenissaan matkalaisia halki 
-				maiseman kohti kaukaista päämäärää täsmällisesti ja tasaisesti. Juna on mystillinen
-				elävä olento. Jo pelkästään rautatien horisonttiin kaikkoavien raiteiden nauhalla on
+				maiseman kohti kaukaista pÃ¤Ã¤mÃ¤Ã¤rÃ¤Ã¤ tÃ¤smÃ¤llisesti ja tasaisesti. Juna on mystillinen
+				elÃ¤vÃ¤ olento. Jo pelkÃ¤stÃ¤Ã¤n rautatien horisonttiin kaikkoavien raiteiden nauhalla on
 				jollakin tavalla hypnoottinen vaikutus.
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Iltapäivä Porvoossa">
+		<tapahtuma otsikko="IltapÃ¤ivÃ¤ Porvoossa">
 			<kuva osoite="porvoo.JPG" muoto="vaaka" kuvaus="" />
 			<teksti>
-				Kesän perinteinen terassikierros suuntautui tällä kertaa Porvooseen. Mukana olivat
-				mummit ja vaari. Aamutuimaan lähdimme Kauppatorin rannasta laivalla - Runebergilla - 
-				kohti Porvoota. Kuutto oli täyteen lastattu, mutta onnisuimme saamaan mukavat paikat
-				paapuurin puolelta partaan ääreltä.
+				KesÃ¤n perinteinen terassikierros suuntautui tÃ¤llÃ¤ kertaa Porvooseen. Mukana olivat
+				mummit ja vaari. Aamutuimaan lÃ¤hdimme Kauppatorin rannasta laivalla - Runebergilla - 
+				kohti Porvoota. Kuutto oli tÃ¤yteen lastattu, mutta onnisuimme saamaan mukavat paikat
+				paapuurin puolelta partaan Ã¤Ã¤reltÃ¤.
 			</teksti>
 			<teksti>
-				Matka sujui leppoisasti aluksi Itä-Helsingin rantoja pitkin ja sieltä edelleen Sipooseen
-				ja Sköldvikin jalostamon ohi Porvoon suuntaan. Kännykän GPS-navigaattorilla seurailimme,
-				missä milloinkin olimme menossa. Haikon kartanon laiturissa tehtiin pieni välipysähdys
-				ja heti kohta jo nousimmekin ylös Porvoon jokea ja laskimme laituriin aivan kaupungin
+				Matka sujui leppoisasti aluksi ItÃ¤-Helsingin rantoja pitkin ja sieltÃ¤ edelleen Sipooseen
+				ja SkÃ¶ldvikin jalostamon ohi Porvoon suuntaan. KÃ¤nnykÃ¤n GPS-navigaattorilla seurailimme,
+				missÃ¤ milloinkin olimme menossa. Haikon kartanon laiturissa tehtiin pieni vÃ¤lipysÃ¤hdys
+				ja heti kohta jo nousimmekin ylÃ¶s Porvoon jokea ja laskimme laituriin aivan kaupungin
 				keskustaan.
 			</teksti>
 			<teksti>
-				Varsinainen kohde oli vanha kaupunki ja ravintola Timbaali, jossa syötiin tietysti 
-				etanoita. Ilma oli tälle kesälle tyypillisen kuuma ja ravintolan katetulla ulkoterassilla
+				Varsinainen kohde oli vanha kaupunki ja ravintola Timbaali, jossa syÃ¶tiin tietysti 
+				etanoita. Ilma oli tÃ¤lle kesÃ¤lle tyypillisen kuuma ja ravintolan katetulla ulkoterassilla
 				tarkeni paremmin kuin hyvin.
 			</teksti>
 			<teksti>
-				Ruokailun jälkeen kävelimme hissuksiin joen vartta kohti satamaa jäätelölle. Pidemmälle
-				emme helteessä jaksaneet ja hivuttauduimme linja-autoasemalle, jossa olikin juuri sopivasti
-				lähdössä ihana ilmastoitu bussi kohti Helsinkiä ja kotia.
+				Ruokailun jÃ¤lkeen kÃ¤velimme hissuksiin joen vartta kohti satamaa jÃ¤Ã¤telÃ¶lle. PidemmÃ¤lle
+				emme helteessÃ¤ jaksaneet ja hivuttauduimme linja-autoasemalle, jossa olikin juuri sopivasti
+				lÃ¤hdÃ¶ssÃ¤ ihana ilmastoitu bussi kohti HelsinkiÃ¤ ja kotia.
 			</teksti>
 		</tapahtuma>
 		<tapahtuma otsikko="Nauvossa">
 			<kuva osoite="nauvo.JPG" muoto="vaaka" kuvaus="Sunset" />
 			<teksti>
-				Lämmintä ja vierähti kokonainen viikko
+				LÃ¤mmintÃ¤ ja vierÃ¤hti kokonainen viikko
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
 
 	<vakiojutut>
 		<saa>
-			<kuva osoite="sunset.JPG" kuvaus="Tyyntä ja lämmintä" />
+			<kuva osoite="sunset.JPG" kuvaus="TyyntÃ¤ ja lÃ¤mmintÃ¤" />
 			<teksti>
-				Heinäkuu oli todella kuuma ja aurinkoinen. Kaikkien aikojen lämpöennätys
-				saavutettiin heinäkuussa: 37,2 astetta.
+				HeinÃ¤kuu oli todella kuuma ja aurinkoinen. Kaikkien aikojen lÃ¤mpÃ¶ennÃ¤tys
+				saavutettiin heinÃ¤kuussa: 37,2 astetta.
 			</teksti>
 		</saa>
 		<ajatus>
 			<kuva osoite="haaveilija.JPG" />
-			<sitaatti>Meistä tulee sitä, mitä me ajattelemme.</sitaatti>
+			<sitaatti>MeistÃ¤ tulee sitÃ¤, mitÃ¤ me ajattelemme.</sitaatti>
 			<lahde>Buddha</lahde>
 		</ajatus>
 		<valokuva>

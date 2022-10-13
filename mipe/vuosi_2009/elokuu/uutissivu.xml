@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Elokuu 2009">
@@ -7,64 +7,64 @@
 		<kuukausi>Elokuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Lomaviikko Järvi-Suomessa">
-				<kuva osoite="laituri.jpg" muoto="vaaka" kuvaus="Iltapäiväkahvit" />
+		<tapahtuma otsikko="Lomaviikko JÃ¤rvi-Suomessa">
+				<kuva osoite="laituri.jpg" muoto="vaaka" kuvaus="IltapÃ¤ivÃ¤kahvit" />
 				<teksti>
-					Viiden viikon mittainen lomajakso huipentui Virroilla vietettyyn mökkilomaan kaukana
-					kaupungin sykkeestä ja vilinästä. Olimme taas vuokranneet kesämökin viikoksi
-					Lomarenkaan mökkivälityksen kautta ja tällä kerralla paikaksi valikoitui Virrat.
+					Viiden viikon mittainen lomajakso huipentui Virroilla vietettyyn mÃ¶kkilomaan kaukana
+					kaupungin sykkeestÃ¤ ja vilinÃ¤stÃ¤. Olimme taas vuokranneet kesÃ¤mÃ¶kin viikoksi
+					Lomarenkaan mÃ¶kkivÃ¤lityksen kautta ja tÃ¤llÃ¤ kerralla paikaksi valikoitui Virrat.
 				</teksti>
 				<teksti>
-					Mökki oli vain pari vuotta vanha ja erittäin siisti. Pihapiirissä oli erillinen puilla
-					lämitettävä sauna, jota lämmitimmekin joka ilta. Ranta oli parinkymmenen 
-					metrin päässä ja sijaitsi suojaisan lahden perukassa. Viikko oli vähätuulinen
-					ja järven pinta oli enimmäkseen peilityyni. Ilmojen puolesta se oli yksi kesän 
+					MÃ¶kki oli vain pari vuotta vanha ja erittÃ¤in siisti. PihapiirissÃ¤ oli erillinen puilla
+					lÃ¤mitettÃ¤vÃ¤ sauna, jota lÃ¤mmitimmekin joka ilta. Ranta oli parinkymmenen 
+					metrin pÃ¤Ã¤ssÃ¤ ja sijaitsi suojaisan lahden perukassa. Viikko oli vÃ¤hÃ¤tuulinen
+					ja jÃ¤rven pinta oli enimmÃ¤kseen peilityyni. Ilmojen puolesta se oli yksi kesÃ¤n 
 					parhaista viikoista.
 				</teksti>
 				<teksti>
-					Sen lisäksi, että nautimme luonnon rauhasta ja auringon lämmöstä, niin poimimme
-					myös mustikoita ja muutamia sieniä, kävimme mato-ongella ja paistoimme saamamme
-					ahvenet, heitimme tikkaa ja teimme pari pientä veneretkeä. Syömisen ja grillaamisen
-					ohella saunominen tietysti kuului päivän ohjelmaan. Sami kävi innokkaasti uimassa 
-					ja luulenpa että Sami löysi uimataidon idean.
+					Sen lisÃ¤ksi, ettÃ¤ nautimme luonnon rauhasta ja auringon lÃ¤mmÃ¶stÃ¤, niin poimimme
+					myÃ¶s mustikoita ja muutamia sieniÃ¤, kÃ¤vimme mato-ongella ja paistoimme saamamme
+					ahvenet, heitimme tikkaa ja teimme pari pientÃ¤ veneretkeÃ¤. SyÃ¶misen ja grillaamisen
+					ohella saunominen tietysti kuului pÃ¤ivÃ¤n ohjelmaan. Sami kÃ¤vi innokkaasti uimassa 
+					ja luulenpa ettÃ¤ Sami lÃ¶ysi uimataidon idean.
 				</teksti>
 				<teksti> 
-					Nautimme suunnattomasti lomastamme. Vähän haikein mielin palasimme kotiin, 
-					mutta muistoissa ovat leppoisat iltapäiväkahvit laiturinnokassa tyyntä järvenpintaa
-					katsellessa ja auringon lämmöstä nauttiessa.
+					Nautimme suunnattomasti lomastamme. VÃ¤hÃ¤n haikein mielin palasimme kotiin, 
+					mutta muistoissa ovat leppoisat iltapÃ¤ivÃ¤kahvit laiturinnokassa tyyntÃ¤ jÃ¤rvenpintaa
+					katsellessa ja auringon lÃ¤mmÃ¶stÃ¤ nauttiessa.
 				</teksti>
 				<nappi teksti="Lomakuvia" osoite="albumi/loma.xml" />
 			</tapahtuma>
-		<tapahtuma otsikko="Rentoutumista työn puitteissa">
+		<tapahtuma otsikko="Rentoutumista tyÃ¶n puitteissa">
 				<teksti>
-					Pitkän loman jälkeen alkoi taas arki ja työt. Kolmen hengen yksikkömme loivensi 
-					lomaltapaluuta TYKY-iltapäivän merkeissä. Ohjelmaan kuului vierailu Kiasmaan.
-					Meillä oli myös opas kertomassa joistakin teoksista ja taiteilijoista. Vaikka en olekaan
-					mikään nykytaiteen suuri ystävä, niin kyllä taustojen ja taiteilijan ajatusten avaaminen 
-					ja toisen katsojan ajatusten kuuleminen sai näkemään teokset uudenlaisessa valossa.  
+					PitkÃ¤n loman jÃ¤lkeen alkoi taas arki ja tyÃ¶t. Kolmen hengen yksikkÃ¶mme loivensi 
+					lomaltapaluuta TYKY-iltapÃ¤ivÃ¤n merkeissÃ¤. Ohjelmaan kuului vierailu Kiasmaan.
+					MeillÃ¤ oli myÃ¶s opas kertomassa joistakin teoksista ja taiteilijoista. Vaikka en olekaan
+					mikÃ¤Ã¤n nykytaiteen suuri ystÃ¤vÃ¤, niin kyllÃ¤ taustojen ja taiteilijan ajatusten avaaminen 
+					ja toisen katsojan ajatusten kuuleminen sai nÃ¤kemÃ¤Ã¤n teokset uudenlaisessa valossa.  
 				</teksti>
 				<teksti>
-					Kiasma-kierroksen jälkeen menimme Töölön-torin laidassa sijaitsevaan japanilaiseen
-					ravinto Tokyo 55:een. Söimme alkupaloiksi tietysti kattavan valikoiman sushia ja
-					pääruuaksi tonnikalaa. Olen pari kertaa yrittänyt tehdä kotonakin sushia, joten oli erittäin
-					mielenkiintoista nähdä, minkälaista sen oikeasti pitäisi olla. Samoin tonnikala oli kiintoisa
-					elämys, koska se oli valmistettu juuri niinkuin pitää: ei läpikypsäksi. Ja kyllä oli hyvää ja
+					Kiasma-kierroksen jÃ¤lkeen menimme TÃ¶Ã¶lÃ¶n-torin laidassa sijaitsevaan japanilaiseen
+					ravinto Tokyo 55:een. SÃ¶imme alkupaloiksi tietysti kattavan valikoiman sushia ja
+					pÃ¤Ã¤ruuaksi tonnikalaa. Olen pari kertaa yrittÃ¤nyt tehdÃ¤ kotonakin sushia, joten oli erittÃ¤in
+					mielenkiintoista nÃ¤hdÃ¤, minkÃ¤laista sen oikeasti pitÃ¤isi olla. Samoin tonnikala oli kiintoisa
+					elÃ¤mys, koska se oli valmistettu juuri niinkuin pitÃ¤Ã¤: ei lÃ¤pikypsÃ¤ksi. Ja kyllÃ¤ oli hyvÃ¤Ã¤ ja
 				 	suussa sulavaa. Ei lainkaan sellaista kuivaa lankkua, jollaista olen kotioloissa saanut
-				 	aikaisksi, kun en ole uskaltanut jättää kalaa sisältä punertavaksi.
+				 	aikaisksi, kun en ole uskaltanut jÃ¤ttÃ¤Ã¤ kalaa sisÃ¤ltÃ¤ punertavaksi.
 				 </teksti>
 		</tapahtuma>
 	</tapahtumat>
 	<vakiojutut>
 		<saa>
-			<kuva osoite="saa.jpg" kuvaus="Alkavia syksyn merkkejä" />
-			<teksti>Elokuu ei ollut sen alkupuolta lukuunottamatta mitenkään kovin erikoinen. Ei huono, 
-			muttei mitään helteitäkään. Loppukuusta alkoi jo näkyä syksyn merkkejä.</teksti>
-			<nappi teksti="Pari kuvaa syksystä" osoite="albumi/syksy.xml" />
+			<kuva osoite="saa.jpg" kuvaus="Alkavia syksyn merkkejÃ¤" />
+			<teksti>Elokuu ei ollut sen alkupuolta lukuunottamatta mitenkÃ¤Ã¤n kovin erikoinen. Ei huono, 
+			muttei mitÃ¤Ã¤n helteitÃ¤kÃ¤Ã¤n. Loppukuusta alkoi jo nÃ¤kyÃ¤ syksyn merkkejÃ¤.</teksti>
+			<nappi teksti="Pari kuvaa syksystÃ¤" osoite="albumi/syksy.xml" />
 		</saa>
 		<ajatus>
 			<kuva osoite="ajatus.jpg" />
-			<sitaatti>Toimittajan tehtävä ei ole kertoa vain, mitä on tapahtunut, vaan myös miksi on
-			tapahtunut ja mitä siitä seuraa.</sitaatti>
+			<sitaatti>Toimittajan tehtÃ¤vÃ¤ ei ole kertoa vain, mitÃ¤ on tapahtunut, vaan myÃ¶s miksi on
+			tapahtunut ja mitÃ¤ siitÃ¤ seuraa.</sitaatti>
 			<lahde>Erkki Toivanen YLE-Uutisten 50-vuotisjuhlissa</lahde>
 		</ajatus>
 		<valokuva>

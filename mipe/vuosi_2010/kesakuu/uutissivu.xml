@@ -1,64 +1,64 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
-<uutissivu otsikko="Kesäkuu 2010">
+<uutissivu otsikko="KesÃ¤kuu 2010">
 	<metatiedot>
 		<vuosi>2010</vuosi>
-		<kuukausi>Kesäkuu</kuukausi>
+		<kuukausi>KesÃ¤kuu</kuukausi>
 	</metatiedot>
 
 	<tapahtumat>
-		<tapahtuma otsikko="Kesävieraita">
+		<tapahtuma otsikko="KesÃ¤vieraita">
 		<kuva osoite="juhannus.jpg" muoto="vaaka" />
 		<teksti>
-			Juhannusta on rauhallisinta viettää omassa kotipihassa, kun kaikki naapurit läheltä
-			ja kaukaa ovat lähteneet mökeilleen pois kaupungista. Ei kuulu liikenteen kohinaa,
-			eikä ihmisten ääniä. Vain tuuli humisee ja linnut laulavat.
+			Juhannusta on rauhallisinta viettÃ¤Ã¤ omassa kotipihassa, kun kaikki naapurit lÃ¤heltÃ¤
+			ja kaukaa ovat lÃ¤hteneet mÃ¶keilleen pois kaupungista. Ei kuulu liikenteen kohinaa,
+			eikÃ¤ ihmisten Ã¤Ã¤niÃ¤. Vain tuuli humisee ja linnut laulavat.
 		</teksti>
 		<teksti>
-			Juhannusaaton sää oli pilvinen, mutta kuitenkin lämmin ja tyyni. Ruokaa ja juomaa
-			nautiskeltiin terassilla markiisin alla, eikä pienet sateen ropsauttelut haitanneet 
+			Juhannusaaton sÃ¤Ã¤ oli pilvinen, mutta kuitenkin lÃ¤mmin ja tyyni. Ruokaa ja juomaa
+			nautiskeltiin terassilla markiisin alla, eikÃ¤ pienet sateen ropsauttelut haitanneet 
 			lainkaan.
 		</teksti>
 		<kuva osoite="pekanpaivat.jpg" muoto="vaaka" />
 		<teksti>
-			Pekanpäivä oli aurnkoinen ja suorastaan helteinen. Mummi, vaari ja Eila
-			tulivat kyläilemään. Syötiin Eilan tekemää tosca-kakkua juotiin kahvia. Lisäksi
-			tarjolla oli kesän mansikoita jäätelön kera.
+			PekanpÃ¤ivÃ¤ oli aurnkoinen ja suorastaan helteinen. Mummi, vaari ja Eila
+			tulivat kylÃ¤ilemÃ¤Ã¤n. SyÃ¶tiin Eilan tekemÃ¤Ã¤ tosca-kakkua juotiin kahvia. LisÃ¤ksi
+			tarjolla oli kesÃ¤n mansikoita jÃ¤Ã¤telÃ¶n kera.
 		</teksti>
 		</tapahtuma>
 		
-		<tapahtuma otsikko="Geokätköillä">
+		<tapahtuma otsikko="GeokÃ¤tkÃ¶illÃ¤">
 			<kuva osoite="katko.jpg" muoto="vaaka" />
 			<teksti>
-				Geokätkö on jonkun henkilön maastoon piilottama astia tai säilö, johon on laitettu
-				lokikirja ja mahdollisesti jotain muutakin pikkutavaraa. Kätkijä julkaisee nettisivulla
-				kätkön koordinaatit ja kuvauksen paikasta ja kätkön vaativuudesta. Me muut yritämme
-				etsiä koordinaattien perusteella kätkön ja merktisemme löytöajankohdan lokikirjaan.
+				GeokÃ¤tkÃ¶ on jonkun henkilÃ¶n maastoon piilottama astia tai sÃ¤ilÃ¶, johon on laitettu
+				lokikirja ja mahdollisesti jotain muutakin pikkutavaraa. KÃ¤tkijÃ¤ julkaisee nettisivulla
+				kÃ¤tkÃ¶n koordinaatit ja kuvauksen paikasta ja kÃ¤tkÃ¶n vaativuudesta. Me muut yritÃ¤mme
+				etsiÃ¤ koordinaattien perusteella kÃ¤tkÃ¶n ja merktisemme lÃ¶ytÃ¶ajankohdan lokikirjaan.
 			</teksti>
 			<teksti>
-				Sami tutkiskeli kätköjä netistä ja huomsimme, että aivan lähikallioillamme on useampikin
-				kätkö. Päätimme etsi niistä yhden puhelimen GPS-navigoinnin avulla. Se osoittautui
-				hankalammaksi kuin arvasimmekaan. Puhelimen navigointiohjelmat eivät soveltuneet
-				tällaiseen etsimiseen parhaalla mahdollisella tavalla tai sitten emme vain osanneet 
-				käyttää niitä sujuvasti. Myös satelliittien signaalit katosivat herkästi metsän keskellä.
+				Sami tutkiskeli kÃ¤tkÃ¶jÃ¤ netistÃ¤ ja huomsimme, ettÃ¤ aivan lÃ¤hikallioillamme on useampikin
+				kÃ¤tkÃ¶. PÃ¤Ã¤timme etsi niistÃ¤ yhden puhelimen GPS-navigoinnin avulla. Se osoittautui
+				hankalammaksi kuin arvasimmekaan. Puhelimen navigointiohjelmat eivÃ¤t soveltuneet
+				tÃ¤llaiseen etsimiseen parhaalla mahdollisella tavalla tai sitten emme vain osanneet 
+				kÃ¤yttÃ¤Ã¤ niitÃ¤ sujuvasti. MyÃ¶s satelliittien signaalit katosivat herkÃ¤sti metsÃ¤n keskellÃ¤.
 				Olisi varmaan tarvittu tehokkaampi antenni.
 			</teksti>
 			<teksti>
-				Tällä kerralla kätkö jäi löytymättä. Aivan lähellä pyörimme ja houkuttelevan
-				näköisiä kallion- ja kivenkoloja oli vaikka kuinka paljon. Useimmat olivat tosin täynnä
+				TÃ¤llÃ¤ kerralla kÃ¤tkÃ¶ jÃ¤i lÃ¶ytymÃ¤ttÃ¤. Aivan lÃ¤hellÃ¤ pyÃ¶rimme ja houkuttelevan
+				nÃ¤kÃ¶isiÃ¤ kallion- ja kivenkoloja oli vaikka kuinka paljon. Useimmat olivat tosin tÃ¤ynnÃ¤
 				nuorison rikkomia olut- ja viinapulloja. Tavoitepiste tuntui jatkuvasti olevan 5-10 metrin
-				päässä milloin missäkin suunnassa. Lopulta palasimme kotiin laittamaan ruokaa, 
-				mutta vielä me jossakin vaiheessa jonkun kätkön löydämme.
+				pÃ¤Ã¤ssÃ¤ milloin missÃ¤kin suunnassa. Lopulta palasimme kotiin laittamaan ruokaa, 
+				mutta vielÃ¤ me jossakin vaiheessa jonkun kÃ¤tkÃ¶n lÃ¶ydÃ¤mme.
 			</teksti>
 		</tapahtuma>
 		<tapahtuma otsikko="Talviturkit narikkaan" pvm="30.6.2010">
 			<kuva osoite="kuusijarvi.jpg" muoto="vaaka" />
 			<teksti>	
-			Lämmin sää houkutteli Mirjan ja Samin iltauinnille Kuusijärvelle. Pekka oli 
-			mukana vain kuskina ja vaatteiden vahtina. Veden lämpötila oli 21-22 astetta.
-			Porukkaa oli vielä yllättävän paljon, vaikka kello lähenteli iltauutisten aikaa.
-			Mikäpä ettei, kun keskikesän aurinko paistaa ja ilma on tyyni ja lämmin.
+			LÃ¤mmin sÃ¤Ã¤ houkutteli Mirjan ja Samin iltauinnille KuusijÃ¤rvelle. Pekka oli 
+			mukana vain kuskina ja vaatteiden vahtina. Veden lÃ¤mpÃ¶tila oli 21-22 astetta.
+			Porukkaa oli vielÃ¤ yllÃ¤ttÃ¤vÃ¤n paljon, vaikka kello lÃ¤henteli iltauutisten aikaa.
+			MikÃ¤pÃ¤ ettei, kun keskikesÃ¤n aurinko paistaa ja ilma on tyyni ja lÃ¤mmin.
 			</teksti>	
 		</tapahtuma>
 
@@ -68,7 +68,7 @@
 		<saa>
 			<kuva osoite="kukka.JPG" kuvaus="" />
 			<teksti>
-				Normaalia alkukesän säätä. Lämmintä ja aurinkoista.
+				Normaalia alkukesÃ¤n sÃ¤Ã¤tÃ¤. LÃ¤mmintÃ¤ ja aurinkoista.
 			</teksti>
 		</saa>
 		<ajatus>

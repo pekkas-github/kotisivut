@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Lokakuu 2008">
@@ -7,48 +7,48 @@
 		<kuukausi>Lokakuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Syysloma Mäntyharjulla">
+		<tapahtuma otsikko="Syysloma MÃ¤ntyharjulla">
 			<kappale>
-				<kuva tiedosto="mokki.jpg" muoto="vaaka" kuvaus=" Mökkimme Mäntyharjulla" />
-				<teksti>Olemme viime aikoina ottaneet lomilla tavaksi vuokrata joksikin aikaa lomamökki
-				käytöömme. Viikko mökillä vastaa kahta viikkoa kotona. Tarjontaa löytyy
-				runsaasti ja nettipalveluiden avulla on helppo valita juuri sellainen mökki, joka vastaa
-				varustelultaan, sijainniltaan ja hinnaltaan omia vaatimuksia. Näin pääsee nauttimaan 
-				mökkeilyn mukavista puolista tarvitsematta murehtia siihen liittyvistä arkisista ja 
-				ikävistä rutiineista. 
+				<kuva tiedosto="mokki.jpg" muoto="vaaka" kuvaus=" MÃ¶kkimme MÃ¤ntyharjulla" />
+				<teksti>Olemme viime aikoina ottaneet lomilla tavaksi vuokrata joksikin aikaa lomamÃ¶kki
+				kÃ¤ytÃ¶Ã¶mme. Viikko mÃ¶killÃ¤ vastaa kahta viikkoa kotona. Tarjontaa lÃ¶ytyy
+				runsaasti ja nettipalveluiden avulla on helppo valita juuri sellainen mÃ¶kki, joka vastaa
+				varustelultaan, sijainniltaan ja hinnaltaan omia vaatimuksia. NÃ¤in pÃ¤Ã¤see nauttimaan 
+				mÃ¶kkeilyn mukavista puolista tarvitsematta murehtia siihen liittyvistÃ¤ arkisista ja 
+				ikÃ¤vistÃ¤ rutiineista. 
 				</teksti>
 			</kappale>
 			<kappale>
-				<teksti>Tänä vuonna koulun syyslomalla vuokrasimme mökin Mäntyharjulta. Yhtenä 
-				kriteerinä oli, että naapureita ei ole ihan lähellä ja lähin asuttu talo olikin puolen kilometrin
-				päässä, eikä sielläkään näkynyt mitään liikettä. Lahdenpoukaman rantaan oli raivattu sata
-				metriä kanttiinsa oleva alue ja siihen oli rakennettu hirsitalo, grillikota ja rantasauna.  Puuliiteriä
-				lukuunottamatta muita rakennuksia ei näköpiirissä ollutkaan. Siispä ihanteellinen lomanviettopaikka.
+				<teksti>TÃ¤nÃ¤ vuonna koulun syyslomalla vuokrasimme mÃ¶kin MÃ¤ntyharjulta. YhtenÃ¤ 
+				kriteerinÃ¤ oli, ettÃ¤ naapureita ei ole ihan lÃ¤hellÃ¤ ja lÃ¤hin asuttu talo olikin puolen kilometrin
+				pÃ¤Ã¤ssÃ¤, eikÃ¤ siellÃ¤kÃ¤Ã¤n nÃ¤kynyt mitÃ¤Ã¤n liikettÃ¤. Lahdenpoukaman rantaan oli raivattu sata
+				metriÃ¤ kanttiinsa oleva alue ja siihen oli rakennettu hirsitalo, grillikota ja rantasauna.  PuuliiteriÃ¤
+				lukuunottamatta muita rakennuksia ei nÃ¤kÃ¶piirissÃ¤ ollutkaan. SiispÃ¤ ihanteellinen lomanviettopaikka.
 				</teksti>
 			</kappale>
 			<kappale>
-				<teksti>Vaikka mökki oli täysin varusteltu, niin oman hohtonsa lomaan antoi puulämmittelinen
-				rantasauna sekä makkaroiden grillaaminen saunatuvan takassa. Se tietysti edellytti klapien
-				pilkkomista kirveellä puuliiterissä, mikä oli Samista varsin kiintoisaa. Sauna ja kylpyvesi saatiin
-				lämpimiksi, mutta järven vesi oli niin kylmää, että uimaan ei uskaltautunut kukaan.
+				<teksti>Vaikka mÃ¶kki oli tÃ¤ysin varusteltu, niin oman hohtonsa lomaan antoi puulÃ¤mmittelinen
+				rantasauna sekÃ¤ makkaroiden grillaaminen saunatuvan takassa. Se tietysti edellytti klapien
+				pilkkomista kirveellÃ¤ puuliiterissÃ¤, mikÃ¤ oli Samista varsin kiintoisaa. Sauna ja kylpyvesi saatiin
+				lÃ¤mpimiksi, mutta jÃ¤rven vesi oli niin kylmÃ¤Ã¤, ettÃ¤ uimaan ei uskaltautunut kukaan.
 				</teksti>
 				</kappale>
 		</tapahtuma>
 		<tapahtuma otsikko="Sormi">
 			<kappale>
-				<kuva tiedosto="sormi.jpg" muoto="pysty" kuvaus="Murtuma sormenpäässä" />
-				<teksti>Loppukesästä aloittamani lentopalloharrastus keskeytyi ainakin toistaiseksi. Aivan
-				tavallisessa tilanteessa otin vähän huolimattomasti palloa ja loukkasin oikean käden nimettömän
-				kärkinivelen. Se ei tuntunut mitenkään kovin kipeältä, mutta oudon asennon ja turvotuksen vuoksi
-				menin näyttämään sitä lääkärille. Oheinen röntgenkuva kertoi, että sormessa oli murtuma. Sormi
-				laitettin lastaan ja kuuden viikon kuluttua katsotaan, mitä sille kuuluu.
+				<kuva tiedosto="sormi.jpg" muoto="pysty" kuvaus="Murtuma sormenpÃ¤Ã¤ssÃ¤" />
+				<teksti>LoppukesÃ¤stÃ¤ aloittamani lentopalloharrastus keskeytyi ainakin toistaiseksi. Aivan
+				tavallisessa tilanteessa otin vÃ¤hÃ¤n huolimattomasti palloa ja loukkasin oikean kÃ¤den nimettÃ¶mÃ¤n
+				kÃ¤rkinivelen. Se ei tuntunut mitenkÃ¤Ã¤n kovin kipeÃ¤ltÃ¤, mutta oudon asennon ja turvotuksen vuoksi
+				menin nÃ¤yttÃ¤mÃ¤Ã¤n sitÃ¤ lÃ¤Ã¤kÃ¤rille. Oheinen rÃ¶ntgenkuva kertoi, ettÃ¤ sormessa oli murtuma. Sormi
+				laitettin lastaan ja kuuden viikon kuluttua katsotaan, mitÃ¤ sille kuuluu.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Vammasta sanottiin, että se on aika tyypillinen keski-ikäisten miesten vamma. Ehkä tästä on opittava
-				se, ettei kaikki asiat suju enää niinkuin nuorempana. Vähän niinkuin entisellä	miehellä: haluja 
-				olis, muttei enää kykyä. Kun tästä selviydyn, niin taidan siirtyä kuntolentopalloilijoihin ja jätän
+				Vammasta sanottiin, ettÃ¤ se on aika tyypillinen keski-ikÃ¤isten miesten vamma. EhkÃ¤ tÃ¤stÃ¤ on opittava
+				se, ettei kaikki asiat suju enÃ¤Ã¤ niinkuin nuorempana. VÃ¤hÃ¤n niinkuin entisellÃ¤	miehellÃ¤: haluja 
+				olis, muttei enÃ¤Ã¤ kykyÃ¤. Kun tÃ¤stÃ¤ selviydyn, niin taidan siirtyÃ¤ kuntolentopalloilijoihin ja jÃ¤tÃ¤n
 				varsinaisen treenaamisen nuorempien miesten huviksi.
 				</teksti>
 			</kappale>
@@ -56,19 +56,19 @@
 </tapahtumat>
 	<vakiojutut>
 		<saa>
-			<kuva tiedosto="saa.jpg" kuvaus="Syksyn makea hedelmä" />
+			<kuva tiedosto="saa.jpg" kuvaus="Syksyn makea hedelmÃ¤" />
 			<kuvaus>
-				Lokakuu oli ihan tavallinen syksyn kuukausi. Vähän ruskaa, vähän sadetta ja 
-				välillä auringonpaistetta.	</kuvaus>
+				Lokakuu oli ihan tavallinen syksyn kuukausi. VÃ¤hÃ¤n ruskaa, vÃ¤hÃ¤n sadetta ja 
+				vÃ¤lillÃ¤ auringonpaistetta.	</kuvaus>
 		</saa>
 		<ajatus>
 			<kuva tiedosto="kaisla.jpg" />
-			<sitaatti>Jokainen, joka yhä odottaa kasvavansa, on nuori</sitaatti>
+			<sitaatti>Jokainen, joka yhÃ¤ odottaa kasvavansa, on nuori</sitaatti>
 			<lahde>David Viscott</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva tiedosto="kuukauden_kuva.jpg" />
-			<kuvateksti>Kubismia tallin seinässä</kuvateksti>
+			<kuvateksti>Kubismia tallin seinÃ¤ssÃ¤</kuvateksti>
 		</valokuva>
 	</vakiojutut>
 <!--

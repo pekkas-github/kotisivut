@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Huhtikuu 2009">
@@ -7,48 +7,48 @@
 		<kuukausi>Huhtikuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Mirjan merkkipäivä">
+		<tapahtuma otsikko="Mirjan merkkipÃ¤ivÃ¤">
 			<kappale>
 				<kuva tiedosto="albumi/kuva_2.jpg" muoto="pysty" kuvaus="Onnittelut!" />
 				<teksti>
-					Heti kuun alussa ja kevään jo nostaessa päätään, vietimme Mirjan suurta
-					juhlapäivää. Merkkipäivä sattui sopivasti perjantaiksi, joten vieraita saapui tasaisena
-					virtana; ensin eläkeläiset ja sitten työssä käyvät.
+					Heti kuun alussa ja kevÃ¤Ã¤n jo nostaessa pÃ¤Ã¤tÃ¤Ã¤n, vietimme Mirjan suurta
+					juhlapÃ¤ivÃ¤Ã¤. MerkkipÃ¤ivÃ¤ sattui sopivasti perjantaiksi, joten vieraita saapui tasaisena
+					virtana; ensin elÃ¤kelÃ¤iset ja sitten tyÃ¶ssÃ¤ kÃ¤yvÃ¤t.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Juhlat olivat oikein onnistuneet. Vieraat tuntuivat viihtyvän ja päivänsankari oli
-					tyytyväinen ja onnellinen. Pippaloita olisi voinut jatkaa pitempäänkin. Isännällä 
-					piti kiirettä kuohuviinin kaatamisen ja valokuvaamisen välillä. Taisi siinä Sami ja
-					vieraatkin vähän osallistua kahvin keittoon ja muuhun pikku puuhaan.
+					Juhlat olivat oikein onnistuneet. Vieraat tuntuivat viihtyvÃ¤n ja pÃ¤ivÃ¤nsankari oli
+					tyytyvÃ¤inen ja onnellinen. Pippaloita olisi voinut jatkaa pitempÃ¤Ã¤nkin. IsÃ¤nnÃ¤llÃ¤ 
+					piti kiirettÃ¤ kuohuviinin kaatamisen ja valokuvaamisen vÃ¤lillÃ¤. Taisi siinÃ¤ Sami ja
+					vieraatkin vÃ¤hÃ¤n osallistua kahvin keittoon ja muuhun pikku puuhaan.
 				</teksti>
 			</kappale>
 			<kappale>
 				<kuva tiedosto="albumi/kuva_14.jpg" muoto="vaaka" kuvaus="Reiskat" />
 				<teksti>
-					Lahjathan ovat yleensä niin kuin iän mukaan. Ei sentään tullut keinutuolia, mutta
-					jalat täytyy kuitenkin pitää lämpiminä. Meidän huushollissamme siihen onkin 
-					erityistä tarvetta. Niinpä Reiskat ovat olleet ahkerassa päivittäisessä käytössä.
-					Käy katsomassa kuvia synttäreistä ja vähän muustakin.
+					Lahjathan ovat yleensÃ¤ niin kuin iÃ¤n mukaan. Ei sentÃ¤Ã¤n tullut keinutuolia, mutta
+					jalat tÃ¤ytyy kuitenkin pitÃ¤Ã¤ lÃ¤mpiminÃ¤. MeidÃ¤n huushollissamme siihen onkin 
+					erityistÃ¤ tarvetta. NiinpÃ¤ Reiskat ovat olleet ahkerassa pÃ¤ivittÃ¤isessÃ¤ kÃ¤ytÃ¶ssÃ¤.
+					KÃ¤y katsomassa kuvia synttÃ¤reistÃ¤ ja vÃ¤hÃ¤n muustakin.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Pääsiäisbrunssi">
+		<tapahtuma otsikko="PÃ¤Ã¤siÃ¤isbrunssi">
 			<kappale>
-				<kuva tiedosto="albumi/kuva_18.jpg" muoto="vaaka" kuvaus="Kenellä onkaan pesämuna?" />
+				<kuva tiedosto="albumi/kuva_18.jpg" muoto="vaaka" kuvaus="KenellÃ¤ onkaan pesÃ¤muna?" />
 				<teksti>
-					Mummi tarjosi perinteisen, maistuvan pääsiäisbrunssin. Paikalla oli nyt vain Salosten perhe.
-					Muu suku oli ollut edellisenä iltana saamassa "Viipuri-valistusta". Nautiskelimme herkuista
-					ja "litsailimme" munia. Suklaamunista löytyi merkillisiä esineitä. Kai niitä joku keksii ihan
-					työkseen?
+					Mummi tarjosi perinteisen, maistuvan pÃ¤Ã¤siÃ¤isbrunssin. Paikalla oli nyt vain Salosten perhe.
+					Muu suku oli ollut edellisenÃ¤ iltana saamassa "Viipuri-valistusta". Nautiskelimme herkuista
+					ja "litsailimme" munia. Suklaamunista lÃ¶ytyi merkillisiÃ¤ esineitÃ¤. Kai niitÃ¤ joku keksii ihan
+					tyÃ¶kseen?
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Sitruunaperhoset, muuttolinnut ja sinisinä kukkamerinä loistavat sinivuokot lupailivat
-					kesän tuloa. Kimalaiset ilmeistyivät ikkunan taakse, harakat esittivät soidintaan ja rusakko
-					söi krookukset.
+					Sitruunaperhoset, muuttolinnut ja sinisinÃ¤ kukkamerinÃ¤ loistavat sinivuokot lupailivat
+					kesÃ¤n tuloa. Kimalaiset ilmeistyivÃ¤t ikkunan taakse, harakat esittivÃ¤t soidintaan ja rusakko
+					sÃ¶i krookukset.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -56,13 +56,13 @@
 	<vakiojutut>
 		<saa>
 			<kuva tiedosto="albumi/kuva_21.jpg" />
-			<kuvaus>Alkukuusta oli vielä lunta maassa, mutta sitten tuli pitkä, aurinkoinen ja
-				lämmin jakso, jossa joillakin paikkakunnilla lämpötila nousi yli 20 asteen. Kevät
-				siis eteni jättiharppauksin, vaikka olikin ollut jonkin verran myöhässä.</kuvaus>
+			<kuvaus>Alkukuusta oli vielÃ¤ lunta maassa, mutta sitten tuli pitkÃ¤, aurinkoinen ja
+				lÃ¤mmin jakso, jossa joillakin paikkakunnilla lÃ¤mpÃ¶tila nousi yli 20 asteen. KevÃ¤t
+				siis eteni jÃ¤ttiharppauksin, vaikka olikin ollut jonkin verran myÃ¶hÃ¤ssÃ¤.</kuvaus>
 		</saa>
 		<ajatus>
 			<kuva tiedosto="albumi/kuva_23.jpg" />
-			<sitaatti>Me emme ole saaneet maailmaa perinnöksi vanhemmiltamme, se on meillä lainassa
+			<sitaatti>Me emme ole saaneet maailmaa perinnÃ¶ksi vanhemmiltamme, se on meillÃ¤ lainassa
 			lapsiltamme</sitaatti>
 			<lahde>Tuntematon</lahde>
 		</ajatus>

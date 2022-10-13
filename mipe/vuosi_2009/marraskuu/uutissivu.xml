@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Marraskuu 2009">
@@ -8,45 +8,45 @@
 	</metatiedot>
 
 	<tapahtumat>
-		<tapahtuma otsikko="Isänpäivä">
-			<kuva osoite="albumi/Iska.jpg" muoto="pysty" kuvaus="Isänpäivälahjat yllä" />
+		<tapahtuma otsikko="IsÃ¤npÃ¤ivÃ¤">
+			<kuva osoite="albumi/Iska.jpg" muoto="pysty" kuvaus="IsÃ¤npÃ¤ivÃ¤lahjat yllÃ¤" />
 			<teksti>
-				Nukkuessa ei saa olla kylmä ja siksi pidänkin lämpimästä yöpuvusta, jossa on pitkät
-				hihat ja pitkät lahkeet. Käytän myös yömyssyä ja villasukkia ja usein vielä lisäpeitettä.
-				Kuulostaa ehkä kovin "vaarimaiselta" tai sitten pidämme makuuhuonettamme varsin
-				viileänä.
+				Nukkuessa ei saa olla kylmÃ¤ ja siksi pidÃ¤nkin lÃ¤mpimÃ¤stÃ¤ yÃ¶puvusta, jossa on pitkÃ¤t
+				hihat ja pitkÃ¤t lahkeet. KÃ¤ytÃ¤n myÃ¶s yÃ¶myssyÃ¤ ja villasukkia ja usein vielÃ¤ lisÃ¤peitettÃ¤.
+				Kuulostaa ehkÃ¤ kovin "vaarimaiselta" tai sitten pidÃ¤mme makuuhuonettamme varsin
+				viileÃ¤nÃ¤.
 			</teksti>
 			<teksti>
-				Tämän vuotinen isänpäiväyöpuku tuli todella tarpeeseen. Olin siitä esittänyt toiveenkin,
-				sillä olen vastikään joutunut luopumaan kaksista yöasuista, koska olen sananmukaisesti
-				nukkunut ne halki. Ensin repesivät paidat selästä ja sitten ratkesivat housut haaroista. 
+				TÃ¤mÃ¤n vuotinen isÃ¤npÃ¤ivÃ¤yÃ¶puku tuli todella tarpeeseen. Olin siitÃ¤ esittÃ¤nyt toiveenkin,
+				sillÃ¤ olen vastikÃ¤Ã¤n joutunut luopumaan kaksista yÃ¶asuista, koska olen sananmukaisesti
+				nukkunut ne halki. Ensin repesivÃ¤t paidat selÃ¤stÃ¤ ja sitten ratkesivat housut haaroista. 
 				Kenties nukun jotenkin levottomasti. 
 			</teksti>
 			<teksti>
-				Lisäksi sain Samilta koulussa tehdyn solmion. Vaikka nykytrendi työpaikalla tuntuu olevan, 
-				että ollaan ihan rennosti ilman solmiota ja paidan kaulukset auki, niin joskus toki 
-				solmiotakin tarvitaan. Olisivatkohan leveät solmiot mallia "Kalvei Sorsa" tulossa taas muotiin?
-				Niitä saattaisi löytyä lisää vaatekomerostani jostain vuosikymmenien takaa.
+				LisÃ¤ksi sain Samilta koulussa tehdyn solmion. Vaikka nykytrendi tyÃ¶paikalla tuntuu olevan, 
+				ettÃ¤ ollaan ihan rennosti ilman solmiota ja paidan kaulukset auki, niin joskus toki 
+				solmiotakin tarvitaan. Olisivatkohan leveÃ¤t solmiot mallia "Kalvei Sorsa" tulossa taas muotiin?
+				NiitÃ¤ saattaisi lÃ¶ytyÃ¤ lisÃ¤Ã¤ vaatekomerostani jostain vuosikymmenien takaa.
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Talviurheiluvälineet">
+		<tapahtuma otsikko="TalviurheiluvÃ¤lineet">
 			<kuva osoite="albumi/Sturenkatu.jpg" muoto="vaaka" kuvaus="Syksyinen Sturenkatu" />
 			<teksti>
-				Talvista on tullut leutoja ja vähälumisia. Se on ongelmallista koulujen talviliikunnan kannalta.
-				Se on ongelmallista myös perheille, kun kasvaville nuorille pitää ostaa vuosittain uudet 
-				luistimet ja sukset muutamaa hassua käyttökertaa varten.
+				Talvista on tullut leutoja ja vÃ¤hÃ¤lumisia. Se on ongelmallista koulujen talviliikunnan kannalta.
+				Se on ongelmallista myÃ¶s perheille, kun kasvaville nuorille pitÃ¤Ã¤ ostaa vuosittain uudet 
+				luistimet ja sukset muutamaa hassua kÃ¤yttÃ¶kertaa varten.
 			</teksti>
 			<teksti>
-				Onneksi on olemassa sporttidivari. Palautimme Samin pieniksi jääneet monot ja luistimet
-				ja tilalle saatiin sopivan kokoiset luistimet - ilman välirahaa. Ne eivät tietenkään olleet uudet, 
-				mutta täysin	asiansa ajavat ja viimeistään parin vuoden päästä jo pienet Samille.
+				Onneksi on olemassa sporttidivari. Palautimme Samin pieniksi jÃ¤Ã¤neet monot ja luistimet
+				ja tilalle saatiin sopivan kokoiset luistimet - ilman vÃ¤lirahaa. Ne eivÃ¤t tietenkÃ¤Ã¤n olleet uudet, 
+				mutta tÃ¤ysin	asiansa ajavat ja viimeistÃ¤Ã¤n parin vuoden pÃ¤Ã¤stÃ¤ jo pienet Samille.
 			</teksti>
 			<teksti>
-				Minä odottelin sillä aikaa autossa - Sturenkadun reunassa, Paavalin kirkon vieressä. Vossikka
-				mennä kopsutteli ohitseni ja kääntyi kirkolle päin. Kadun toisella puolella tyhjennettiin jostakin
-				liikkeestä tai asunnosta tavaraa jalkakäytävälle tuodulle jätelavalle. Liikennevalojen syke 
-				pumppasi tasaiseen tahtiin autojonoja ohitseni syvemmälle katuverkon suonistoon.
-				Ajatelin, että kaupunki on omassa karuudessaan ja harmaudessaan kuitenkin jollain tavalla 
+				MinÃ¤ odottelin sillÃ¤ aikaa autossa - Sturenkadun reunassa, Paavalin kirkon vieressÃ¤. Vossikka
+				mennÃ¤ kopsutteli ohitseni ja kÃ¤Ã¤ntyi kirkolle pÃ¤in. Kadun toisella puolella tyhjennettiin jostakin
+				liikkeestÃ¤ tai asunnosta tavaraa jalkakÃ¤ytÃ¤vÃ¤lle tuodulle jÃ¤telavalle. Liikennevalojen syke 
+				pumppasi tasaiseen tahtiin autojonoja ohitseni syvemmÃ¤lle katuverkon suonistoon.
+				Ajatelin, ettÃ¤ kaupunki on omassa karuudessaan ja harmaudessaan kuitenkin jollain tavalla 
 				aika kiehtova paikka.
 			</teksti>
 		</tapahtuma>
@@ -54,20 +54,20 @@
 
 	<vakiojutut>
 		<saa>
-			<kuva osoite="albumi/Pasila.jpg" kuvaus="Näkymä Pasilanmäeltä" />
+			<kuva osoite="albumi/Pasila.jpg" kuvaus="NÃ¤kymÃ¤ PasilanmÃ¤eltÃ¤" />
 			<teksti>
-				Marraskuu oli jokseenkin harmaa. Aurinko näyttäytyi yhtenä tai kahtena päivänä.
-				Lämpö oli jossain nollan tietämillä ja tilapäisesti ilmestyi vähän valkoista maahan.
+				Marraskuu oli jokseenkin harmaa. Aurinko nÃ¤yttÃ¤ytyi yhtenÃ¤ tai kahtena pÃ¤ivÃ¤nÃ¤.
+				LÃ¤mpÃ¶ oli jossain nollan tietÃ¤millÃ¤ ja tilapÃ¤isesti ilmestyi vÃ¤hÃ¤n valkoista maahan.
 			</teksti>
 		</saa>
 		<ajatus>
-			<sitaatti>Homo expectensis - haluava ihminen - ei ajattele 'Haluan olla erilainen kuin sinä' vaan 
-			'Haluan olla samanlainen kuin sinä, mutta parempi'. </sitaatti>
-			<lahde>John Naish - Riittää jo!</lahde>
+			<sitaatti>Homo expectensis - haluava ihminen - ei ajattele 'Haluan olla erilainen kuin sinÃ¤' vaan 
+			'Haluan olla samanlainen kuin sinÃ¤, mutta parempi'. </sitaatti>
+			<lahde>John Naish - RiittÃ¤Ã¤ jo!</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva osoite="albumi/Marjat.jpg" />
-			<teksti>Kastehelmiä</teksti>
+			<teksti>KastehelmiÃ¤</teksti>
 		</valokuva>
 	</vakiojutut>
 

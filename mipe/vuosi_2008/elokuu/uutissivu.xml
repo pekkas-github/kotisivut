@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Elokuu 2008">
@@ -7,78 +7,78 @@
 		<kuukausi>Elokuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Länsirannikon kierros">
+		<tapahtuma otsikko="LÃ¤nsirannikon kierros">
 			<kappale>
 				<kuva tiedosto="albumi/rauma.jpg" muoto="vaaka" kuvaus="Vanhan Rauman raatihuone kauppatorin laidassa" />
 				<teksti>
-				Jotta kesäloma ei olisi mennyt ihan kotona lusimiseksi, päätimme piipahtaa Eilan ja Joukon luona
-				Kauhajoella. Pohjanmaalla, ja ylipäätään Länsi-Suomessa, tulee käytyä erittäin harvoin, joten nyt
-				oli hyvä tilaisuus tehdä länsirannikon kierros ja yökortteerikin järjestyi näin näppärästi.
+				Jotta kesÃ¤loma ei olisi mennyt ihan kotona lusimiseksi, pÃ¤Ã¤timme piipahtaa Eilan ja Joukon luona
+				Kauhajoella. Pohjanmaalla, ja ylipÃ¤Ã¤tÃ¤Ã¤n LÃ¤nsi-Suomessa, tulee kÃ¤ytyÃ¤ erittÃ¤in harvoin, joten nyt
+				oli hyvÃ¤ tilaisuus tehdÃ¤ lÃ¤nsirannikon kierros ja yÃ¶kortteerikin jÃ¤rjestyi nÃ¤in nÃ¤ppÃ¤rÃ¤sti.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Menomatkalla päätimme poiketa parissa rannikkokaupungissa. Ensin kiertelimme vanhan Rauman
-				kapeilla kujilla ja nautimme siellä päivällistä. Alue oli muuten idyllinen, mutta autoliikennettä
-				oli kuin Mannerheimintiellä! Vain kärsivällisellä odottelulla sain otettua sellaisia valokuvia, joissa
-				ei näkyny kovin montaa autoa.
+				Menomatkalla pÃ¤Ã¤timme poiketa parissa rannikkokaupungissa. Ensin kiertelimme vanhan Rauman
+				kapeilla kujilla ja nautimme siellÃ¤ pÃ¤ivÃ¤llistÃ¤. Alue oli muuten idyllinen, mutta autoliikennettÃ¤
+				oli kuin MannerheimintiellÃ¤! Vain kÃ¤rsivÃ¤llisellÃ¤ odottelulla sain otettua sellaisia valokuvia, joissa
+				ei nÃ¤kyny kovin montaa autoa.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Raumalta suuntasimme Kristiinankaupunkiin. Se oli vielä vanhaa Raumaakin idyllisempi pikkukaupunki.
-				Puutalot olivat kallellaan  mikä mihinkin suuntaan. Talovanhukset olivat aivan kadun reunassa kiinni niin, 
-				että ovista joutuu astumaan suoraan kadulle. Ihmettelimme, että miten niin pieneen kaupunkiin voi 
-				mahtua kolme kirkkoa ja kaksi jalkapallostadionia, joissa kummassakin oli ottelu meneillään, sekä 
-				vielä kartanon kokoinen S-Market. Ehkä se on sitä pohjalaista mielen mahtavuutta.
+				Raumalta suuntasimme Kristiinankaupunkiin. Se oli vielÃ¤ vanhaa Raumaakin idyllisempi pikkukaupunki.
+				Puutalot olivat kallellaan  mikÃ¤ mihinkin suuntaan. Talovanhukset olivat aivan kadun reunassa kiinni niin, 
+				ettÃ¤ ovista joutuu astumaan suoraan kadulle. Ihmettelimme, ettÃ¤ miten niin pieneen kaupunkiin voi 
+				mahtua kolme kirkkoa ja kaksi jalkapallostadionia, joissa kummassakin oli ottelu meneillÃ¤Ã¤n, sekÃ¤ 
+				vielÃ¤ kartanon kokoinen S-Market. EhkÃ¤ se on sitÃ¤ pohjalaista mielen mahtavuutta.
 				</teksti>
 			</kappale>
 			<kappale>
 				<kuva tiedosto="albumi/kainasto.jpg" muoto="vaaka" kuvaus="Joukon ja Eilan talo Kauhajoella" />
 				<teksti>
-				Pari päivää pidimme kortteeria Joukon ja Eilan luona Kainastossa. Pelailtiin mölkkyä ja syötiin marjoja.
-				Katsastettiin Joukon veistämää arkkua verstaalla ja Eilan kutomia hienoja pajukudonnaisia. Naapurin
-				isäntä kävi ovelta ovelle myymässä kananmunia ja hunajaa. Ostettiin muutama purkki hunajaa ja 
-				Eilalta saatiin tiun verran kananmunia kotiin vietäväksi.
+				Pari pÃ¤ivÃ¤Ã¤ pidimme kortteeria Joukon ja Eilan luona Kainastossa. Pelailtiin mÃ¶lkkyÃ¤ ja syÃ¶tiin marjoja.
+				Katsastettiin Joukon veistÃ¤mÃ¤Ã¤ arkkua verstaalla ja Eilan kutomia hienoja pajukudonnaisia. Naapurin
+				isÃ¤ntÃ¤ kÃ¤vi ovelta ovelle myymÃ¤ssÃ¤ kananmunia ja hunajaa. Ostettiin muutama purkki hunajaa ja 
+				Eilalta saatiin tiun verran kananmunia kotiin vietÃ¤vÃ¤ksi.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Ähtäri">
+		<tapahtuma otsikko="Ã„htÃ¤ri">
 			<kappale>
-				<kuva tiedosto="albumi/topi.jpg" muoto="pysty" kuvaus="Topi-karhu tähyää ruokaa" />
+				<kuva tiedosto="albumi/topi.jpg" muoto="pysty" kuvaus="Topi-karhu tÃ¤hyÃ¤Ã¤ ruokaa" />
 				<teksti>
-				Kauhajoelta teimme päivämatkan Ähtärin eläinpuistoon. Ajoimme mennen tullen myös kuulun Tuurin
-				kyläkaupan (tai kauppakylän) ohitse, mutta tyydyimme kauhistelemaan sitä vain matkan päästä  
-				pysähtymättä.
+				Kauhajoelta teimme pÃ¤ivÃ¤matkan Ã„htÃ¤rin elÃ¤inpuistoon. Ajoimme mennen tullen myÃ¶s kuulun Tuurin
+				kylÃ¤kaupan (tai kauppakylÃ¤n) ohitse, mutta tyydyimme kauhistelemaan sitÃ¤ vain matkan pÃ¤Ã¤stÃ¤  
+				pysÃ¤htymÃ¤ttÃ¤.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Ähtäri oli hieno kokemus. Näimme paljon tuttuja eläimiä ja varsin luonnonläheisissä oloissa. Puistolenkin
-				pituus oli vain pari kilometriä, mutta saimme sillä kulumaan useita tunteja. Oli peuroja, kauriita, hirviä, susia,
-				kanalintuja, upeasti toitottavia kurkia. Harvinaisempaa väriä ja tuulahdusta ulkomailta antoivat lumileopardi 
+				Ã„htÃ¤ri oli hieno kokemus. NÃ¤imme paljon tuttuja elÃ¤imiÃ¤ ja varsin luonnonlÃ¤heisissÃ¤ oloissa. Puistolenkin
+				pituus oli vain pari kilometriÃ¤, mutta saimme sillÃ¤ kulumaan useita tunteja. Oli peuroja, kauriita, hirviÃ¤, susia,
+				kanalintuja, upeasti toitottavia kurkia. Harvinaisempaa vÃ¤riÃ¤ ja tuulahdusta ulkomailta antoivat lumileopardi 
 				ja visentit.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
 				 Mutta ehdoton vetonaula oli Topi-karhu, joka malttamattomana ruokaa odotellessaan kiipesi monimetrisen
-				 tolpan nenään kurkkimaan aitauksen muurin yli, missä hoitaja oikein viipyy. Nokka pystyssä se nuuhki,
-				 mitä herkkuja mahtaa olla tulossa. Ja lopulta, kun ruoka lensi sen nenän eteen, pettymys oli suuri, koska
-				 se oli kalaa, joka ei ole Topin suurinta herkkua. Vielä se hetken aikaa norkoili hoitajan suuntaan, josko
-				 sieltä heltiäisi vähän omenoita, mutta kalaan sen oli pakko tyytyä ja sitä se lähti sanan mukaisesti pitkin
-				 hampain roikottamaan vesialtaaseen pestäväksi.
+				 tolpan nenÃ¤Ã¤n kurkkimaan aitauksen muurin yli, missÃ¤ hoitaja oikein viipyy. Nokka pystyssÃ¤ se nuuhki,
+				 mitÃ¤ herkkuja mahtaa olla tulossa. Ja lopulta, kun ruoka lensi sen nenÃ¤n eteen, pettymys oli suuri, koska
+				 se oli kalaa, joka ei ole Topin suurinta herkkua. VielÃ¤ se hetken aikaa norkoili hoitajan suuntaan, josko
+				 sieltÃ¤ heltiÃ¤isi vÃ¤hÃ¤n omenoita, mutta kalaan sen oli pakko tyytyÃ¤ ja sitÃ¤ se lÃ¤hti sanan mukaisesti pitkin
+				 hampain roikottamaan vesialtaaseen pestÃ¤vÃ¤ksi.
 				 </teksti>
 			</kappale>
 		</tapahtuma>
 		<tapahtuma otsikko="Lentopalloa">
 			<kappale>
 				<teksti>
-				Reipas kuntoliikunta on viime vuosina jäänyt aika vähiin. Mielessä on ollut, että lentopalloa voisi olla 
-				mukava vielä vähän pelailla. Töissä yhden työkaverin kautta pääsinkin Tapanilan Erän lentopalloharjoituksiin. 
-				Ensimmäisillä kerroilla tunsin itseni aika kömpelöksi ja maan vetovoima oli jotenkin lisääntynyt,
-				mutta kaiken kaikkiaan kyllä nautin liikunnasta. Yläselän pitkään kireänä olleet lihaksetkin herkesivät
-				kipuilemasta aamuisin. Eivät ne ilmeisesti muuta kaivanneet kuin kunnon liikuntaa.
+				Reipas kuntoliikunta on viime vuosina jÃ¤Ã¤nyt aika vÃ¤hiin. MielessÃ¤ on ollut, ettÃ¤ lentopalloa voisi olla 
+				mukava vielÃ¤ vÃ¤hÃ¤n pelailla. TÃ¶issÃ¤ yhden tyÃ¶kaverin kautta pÃ¤Ã¤sinkin Tapanilan ErÃ¤n lentopalloharjoituksiin. 
+				EnsimmÃ¤isillÃ¤ kerroilla tunsin itseni aika kÃ¶mpelÃ¶ksi ja maan vetovoima oli jotenkin lisÃ¤Ã¤ntynyt,
+				mutta kaiken kaikkiaan kyllÃ¤ nautin liikunnasta. YlÃ¤selÃ¤n pitkÃ¤Ã¤n kireÃ¤nÃ¤ olleet lihaksetkin herkesivÃ¤t
+				kipuilemasta aamuisin. EivÃ¤t ne ilmeisesti muuta kaivanneet kuin kunnon liikuntaa.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -87,54 +87,54 @@
 				<kuva tiedosto="albumi/ottelu.jpg" muoto="pysty" kuvaus="Maaottelutunnelmaa olympiastadionilla" />
 				<teksti>
 				Samin koulussa, ja ilmeisesti muissakin kouluissa, oli jaossa vapaalippuja halukkaille Suomi-Ruotsi 
-				yleisurheilumaaotteluun olympiastadionille. Mekin saimme kaksi lippua ja lähdimme miehissä seuraamaan
-				ensimmäisen kisapäivän tapahtumia.
+				yleisurheilumaaotteluun olympiastadionille. Mekin saimme kaksi lippua ja lÃ¤hdimme miehissÃ¤ seuraamaan
+				ensimmÃ¤isen kisapÃ¤ivÃ¤n tapahtumia.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Sää oli poutainen, mutta hiukan tuulinen ja varsin kolea. Pukeuduimme lämpimästi, mutta yhtään ei ollut 
-				liikaa vaatetta mukana. Perjantai-illan ohjelma alkoi kuudelta ja kesti kolme ja puoli tuntia. Arvelin, että 
-				lähdemme hyvissä ajoin ennen loppua kotiin, ja itse olisin ihan mielelläni lähtenytkin, mutta Sami viihtyi 
-				aivan loppuun asti, joten istuimme yhtä pientä jalottelutaukoa lukuun ottamatta koko illan kovilla puupenkeillä
+				SÃ¤Ã¤ oli poutainen, mutta hiukan tuulinen ja varsin kolea. Pukeuduimme lÃ¤mpimÃ¤sti, mutta yhtÃ¤Ã¤n ei ollut 
+				liikaa vaatetta mukana. Perjantai-illan ohjelma alkoi kuudelta ja kesti kolme ja puoli tuntia. Arvelin, ettÃ¤ 
+				lÃ¤hdemme hyvissÃ¤ ajoin ennen loppua kotiin, ja itse olisin ihan mielellÃ¤ni lÃ¤htenytkin, mutta Sami viihtyi 
+				aivan loppuun asti, joten istuimme yhtÃ¤ pientÃ¤ jalottelutaukoa lukuun ottamatta koko illan kovilla puupenkeillÃ¤
 				takapuolet puuduksissa.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Lehdissä hehkuteltiin, että yleisöä oli runsaasti paikalla kannustamassa, mutta minusta katsomossa oli
-				aika paljon tyhjää. Näin amatöörinä en myöskään oikein osannut kokea mitään suurta  urheilujuhlan
-				tuntua tai kannustuksen huumaa tai sähköistä naapurusten välistä kisatunnelmaa. Enemmän se oli penkillä 
-				värjöttelyä ja kentälle tihrustelua, jotta olisi onnistunut näkemään urheilijoiden suorituksia. Kenttä	kuulutus 
-				oli kyllä erinomainen ja sen avulla tiesi, mitä missäkin oli tapahtumassa, mutta piipuhyllyltä
-				katsottuna useimmat suoritukset näyttivät kovin paljon vaatimattomammilta kuin televisiosta nähtynä.
+				LehdissÃ¤ hehkuteltiin, ettÃ¤ yleisÃ¶Ã¤ oli runsaasti paikalla kannustamassa, mutta minusta katsomossa oli
+				aika paljon tyhjÃ¤Ã¤. NÃ¤in amatÃ¶Ã¶rinÃ¤ en myÃ¶skÃ¤Ã¤n oikein osannut kokea mitÃ¤Ã¤n suurta  urheilujuhlan
+				tuntua tai kannustuksen huumaa tai sÃ¤hkÃ¶istÃ¤ naapurusten vÃ¤listÃ¤ kisatunnelmaa. EnemmÃ¤n se oli penkillÃ¤ 
+				vÃ¤rjÃ¶ttelyÃ¤ ja kentÃ¤lle tihrustelua, jotta olisi onnistunut nÃ¤kemÃ¤Ã¤n urheilijoiden suorituksia. KenttÃ¤	kuulutus 
+				oli kyllÃ¤ erinomainen ja sen avulla tiesi, mitÃ¤ missÃ¤kin oli tapahtumassa, mutta piipuhyllyltÃ¤
+				katsottuna useimmat suoritukset nÃ¤yttivÃ¤t kovin paljon vaatimattomammilta kuin televisiosta nÃ¤htynÃ¤.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Kotona katselin nauhoitettuja pätkiä päivän tapahtumista. Totesin, että vaikka oli ihan mukava kokemus
-				käydä Samin kanssa paikan päällä seuraamassa maaottelua, niin jatkossa aion nauttia urheilusuorituksista
-				kotona lämpimässä ammattitaitoisten ohjaajien, kuvaajien ja selostajien tarjoilemana.
+				Kotona katselin nauhoitettuja pÃ¤tkiÃ¤ pÃ¤ivÃ¤n tapahtumista. Totesin, ettÃ¤ vaikka oli ihan mukava kokemus
+				kÃ¤ydÃ¤ Samin kanssa paikan pÃ¤Ã¤llÃ¤ seuraamassa maaottelua, niin jatkossa aion nauttia urheilusuorituksista
+				kotona lÃ¤mpimÃ¤ssÃ¤ ammattitaitoisten ohjaajien, kuvaajien ja selostajien tarjoilemana.
 				</teksti>
 			</kappale>
 		</tapahtuma>
 </tapahtumat>
 	<vakiojutut>
 		<saa>
-			<kuva tiedosto="albumi/lampi.jpg" kuvaus="Lampi Ähtärin eläinpuistossa" />
+			<kuva tiedosto="albumi/lampi.jpg" kuvaus="Lampi Ã„htÃ¤rin elÃ¤inpuistossa" />
 			<kuvaus>
-				Loppukesän säät olivat viileitä ja varsin sateisia. Kaiken kaikkiaan kesä oli säiden puolesta suhteellisen 
-				epävakainen. Oli tuulista, ei kovin lämmintä ja vettä sateli tämän tästä. Etelä-Suomessa kai kuitenkin oltiin jokseenkin
-				normaaleissa keskilämpötilossa, vaikkei siltä tuntunut.
+				LoppukesÃ¤n sÃ¤Ã¤t olivat viileitÃ¤ ja varsin sateisia. Kaiken kaikkiaan kesÃ¤ oli sÃ¤iden puolesta suhteellisen 
+				epÃ¤vakainen. Oli tuulista, ei kovin lÃ¤mmintÃ¤ ja vettÃ¤ sateli tÃ¤mÃ¤n tÃ¤stÃ¤. EtelÃ¤-Suomessa kai kuitenkin oltiin jokseenkin
+				normaaleissa keskilÃ¤mpÃ¶tilossa, vaikkei siltÃ¤ tuntunut.
 			</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Köyhältä puuttuu paljon, ahneelta kaikki.</sitaatti>
+			<sitaatti>KÃ¶yhÃ¤ltÃ¤ puuttuu paljon, ahneelta kaikki.</sitaatti>
 			<lahde>Syrus</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva tiedosto="albumi/sulka.jpg" />
-			<kuvateksti>Höyhenen kevyttä</kuvateksti>
+			<kuvateksti>HÃ¶yhenen kevyttÃ¤</kuvateksti>
 		</valokuva>
 	</vakiojutut>
 <!--

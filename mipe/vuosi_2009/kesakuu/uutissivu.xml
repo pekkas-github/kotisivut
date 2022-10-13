@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
-<uutissivu otsikko="Kesäkuu 2009">
+<uutissivu otsikko="KesÃ¤kuu 2009">
 	<metatiedot>
 		<vuosi>2009</vuosi>
-		<kuukausi>Kesäkuu</kuukausi>
+		<kuukausi>KesÃ¤kuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
 		<tapahtuma otsikko="Anja on poissa">
@@ -16,36 +16,36 @@
 			</kappale>
 			<kappale>
 				<teksti>
-					Tieto sairaudesta tuli runsas vuosi sitten yllätyksenä. Mielet täytti pelon ja 
-					epätietoisuuden tuska. Kun väistämätön oli edessä, tuli lopun odotuksen tuska.
-					Kun kaikki oli ohi, jäi  kaipauksen tuska, yksinäisyys ja suru.
+					Tieto sairaudesta tuli runsas vuosi sitten yllÃ¤tyksenÃ¤. Mielet tÃ¤ytti pelon ja 
+					epÃ¤tietoisuuden tuska. Kun vÃ¤istÃ¤mÃ¤tÃ¶n oli edessÃ¤, tuli lopun odotuksen tuska.
+					Kun kaikki oli ohi, jÃ¤i  kaipauksen tuska, yksinÃ¤isyys ja suru.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Olemme tähtien lapsia. Suuresta maailmankaikkeudesta ovat koko maailman ja
-					meidänkin rakennusaineet kotoisin. Ruumiimme on kuitenkin vain lainatavaraa.
-					Se on henkemme tilapäinen synnyn ja kasvun asuinsija. Kuolemassa se palaa 
-					takaisin luonnon suureen kiertokulkuun. Mutta henkemme jää elämään. Se elää 
-					niiden ihmisten mielissä ja sydämissä, jotka meitä muistavat ja jotka meitä rakastavat.
+					Olemme tÃ¤htien lapsia. Suuresta maailmankaikkeudesta ovat koko maailman ja
+					meidÃ¤nkin rakennusaineet kotoisin. Ruumiimme on kuitenkin vain lainatavaraa.
+					Se on henkemme tilapÃ¤inen synnyn ja kasvun asuinsija. Kuolemassa se palaa 
+					takaisin luonnon suureen kiertokulkuun. Mutta henkemme jÃ¤Ã¤ elÃ¤mÃ¤Ã¤n. Se elÃ¤Ã¤ 
+					niiden ihmisten mielissÃ¤ ja sydÃ¤missÃ¤, jotka meitÃ¤ muistavat ja jotka meitÃ¤ rakastavat.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Vierumäki Golf">
+		<tapahtuma otsikko="VierumÃ¤ki Golf">
 			<kappale>
 				<kuva tiedosto="albumi/kuva_n16.jpg" muoto="vaaka" kuvaus="Sukkien ja kenkien kuivattelua Cookella." />
 				<teksti>
-					Onnistuimme saamaan peruutusviikon Vierumäelle kesäkuun alkuun. Lähdimme 
-					mummin ja vaarin kanssa nauttimaan alkukesä golfista. Meitä
-					onnisti sikäli, että saimme käyttöömme neljä pelioikeutta Cooke-kentälle, joka meistä
-					vanhaa kenttää miellyttävämpi sekä huomattavasti vähemmän ruuhkainen.
+					Onnistuimme saamaan peruutusviikon VierumÃ¤elle kesÃ¤kuun alkuun. LÃ¤hdimme 
+					mummin ja vaarin kanssa nauttimaan alkukesÃ¤ golfista. MeitÃ¤
+					onnisti sikÃ¤li, ettÃ¤ saimme kÃ¤yttÃ¶Ã¶mme neljÃ¤ pelioikeutta Cooke-kentÃ¤lle, joka meistÃ¤
+					vanhaa kenttÃ¤Ã¤ miellyttÃ¤vÃ¤mpi sekÃ¤ huomattavasti vÃ¤hemmÃ¤n ruuhkainen.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Säät suosivat meitä, näin voisi sanoa. Alkuviikosta oli tosin erittäinkin koleaa.
-					Mutta kun huomioi, että sääennusteet povasivat jatkuvasti sadetta ja sää pysyikin
-					poutaisena ja pääosin aurinkoisena, niin olimme erittäin tyytyväisiä. Tyytyväisyys,
+					SÃ¤Ã¤t suosivat meitÃ¤, nÃ¤in voisi sanoa. Alkuviikosta oli tosin erittÃ¤inkin koleaa.
+					Mutta kun huomioi, ettÃ¤ sÃ¤Ã¤ennusteet povasivat jatkuvasti sadetta ja sÃ¤Ã¤ pysyikin
+					poutaisena ja pÃ¤Ã¤osin aurinkoisena, niin olimme erittÃ¤in tyytyvÃ¤isiÃ¤. TyytyvÃ¤isyys,
 					niinkuin onnellisuuskin, on usein hyvin suhteellista.
 				</teksti>
 			</kappale>	
@@ -54,29 +54,29 @@
 			<kappale>
 				<kuva tiedosto="albumi/kuva_n17.jpg" muoto="vaaka" kuvaus="Lounaalla ravintola Kaarnassa" />
 				<teksti>
-					Työpaikalla Mirjan tiimissä tehtiin uudelleenjärjestelyjä, jonka seurauksena neljä 
-					henkilöä ei sijoittunut uuteen organisaatioon. Näitä henkilöitä ei irtisanottu, mutta
-					ei heille ole myöskään osoittaa uutta työtä. Heitä tuetaan uudelleen sijoittumisessa
-					joko Elisan sisällä tai ulkopuolella. Emme tiedä, kuinka kauan tätä epämääräistä
-					"roikkumista" jatkuu, jos uutta paikkaa ei löydy. Mirja on ollut nyt sairaslomalla, jota
+					TyÃ¶paikalla Mirjan tiimissÃ¤ tehtiin uudelleenjÃ¤rjestelyjÃ¤, jonka seurauksena neljÃ¤ 
+					henkilÃ¶Ã¤ ei sijoittunut uuteen organisaatioon. NÃ¤itÃ¤ henkilÃ¶itÃ¤ ei irtisanottu, mutta
+					ei heille ole myÃ¶skÃ¤Ã¤n osoittaa uutta tyÃ¶tÃ¤. HeitÃ¤ tuetaan uudelleen sijoittumisessa
+					joko Elisan sisÃ¤llÃ¤ tai ulkopuolella. Emme tiedÃ¤, kuinka kauan tÃ¤tÃ¤ epÃ¤mÃ¤Ã¤rÃ¤istÃ¤
+					"roikkumista" jatkuu, jos uutta paikkaa ei lÃ¶ydy. Mirja on ollut nyt sairaslomalla, jota
 					jatkuu varsinaisen vuosiloman alkuun asti.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Olemmekin käyneet ahkerasti golfaamassa. Elisan golf-kisoihin osallistuimme
-					Kullo Golfissa. Mirja oli naisten sarjassa kolmas ja minä miehissä sijalla 12. 
-					Maanantaisin olemme käyneet Samin kanssa pelaamassa Luukin "villinä päivänä",
-					jolloin kentälle pääsee kuka tahansa ilman green cardia. Peli sujuisi muuten ihan
-					mallikkaasti, mutta pinnan pitäisi kasvaa kovasti pituutta.
+					Olemmekin kÃ¤yneet ahkerasti golfaamassa. Elisan golf-kisoihin osallistuimme
+					Kullo Golfissa. Mirja oli naisten sarjassa kolmas ja minÃ¤ miehissÃ¤ sijalla 12. 
+					Maanantaisin olemme kÃ¤yneet Samin kanssa pelaamassa Luukin "villinÃ¤ pÃ¤ivÃ¤nÃ¤",
+					jolloin kentÃ¤lle pÃ¤Ã¤see kuka tahansa ilman green cardia. Peli sujuisi muuten ihan
+					mallikkaasti, mutta pinnan pitÃ¤isi kasvaa kovasti pituutta.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Mummin kanssa kävimme lounaalla keskustassa. Paikaksi valikoitui ravintola
+					Mummin kanssa kÃ¤vimme lounaalla keskustassa. Paikaksi valikoitui ravintola
 					Kaarna Forumissa. Se oli mukava pieni ja valoisa ravintola, jonka ikkunoista 
-					avautui näkymä Mannerheimintielle. Ruokakin oli erinomaisen maukasta. Aterian
-					jälkeen jaloittelimme Kauppatorille ja Tähtitorninmäelle.
+					avautui nÃ¤kymÃ¤ Mannerheimintielle. Ruokakin oli erinomaisen maukasta. Aterian
+					jÃ¤lkeen jaloittelimme Kauppatorille ja TÃ¤htitorninmÃ¤elle.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -84,15 +84,15 @@
 	<vakiojutut>
 		<saa>
 			<kuva tiedosto="albumi/kuva_n14.jpg" />
-			<kuvaus>Muutamia päiviä lukuunottamatta kesäkuu on ollut viileähkö. Aurinko on 
-			enimmäkseen paistellut ja sadetta on tullut niukasti, mutta lämpötilat ovat pysytelleet 
-			pääasiassa kahdenkymmenen alapuolella, aamuisin jopa kymmenen pinnassa.</kuvaus>
+			<kuvaus>Muutamia pÃ¤iviÃ¤ lukuunottamatta kesÃ¤kuu on ollut viileÃ¤hkÃ¶. Aurinko on 
+			enimmÃ¤kseen paistellut ja sadetta on tullut niukasti, mutta lÃ¤mpÃ¶tilat ovat pysytelleet 
+			pÃ¤Ã¤asiassa kahdenkymmenen alapuolella, aamuisin jopa kymmenen pinnassa.</kuvaus>
 		</saa>
 		<ajatus>
 			<kuva tiedosto="albumi/kuva_n15.jpg" />
-			<sitaatti>Koskaan emme tiedä, mitä elämä tuo tullessaan. Saamme olla kiitollisia jokaisesta
-			 uudesta päivästä ja mahdollisuudesta. Emme voi kontrolloida kaikkea ympärillämme tapahtuvaa.
-			 Elämä tuo aina mukanaan yllätyksiä - joskus kipeitä ja pelottavia. Meillä ei ole kaikkia
+			<sitaatti>Koskaan emme tiedÃ¤, mitÃ¤ elÃ¤mÃ¤ tuo tullessaan. Saamme olla kiitollisia jokaisesta
+			 uudesta pÃ¤ivÃ¤stÃ¤ ja mahdollisuudesta. Emme voi kontrolloida kaikkea ympÃ¤rillÃ¤mme tapahtuvaa.
+			 ElÃ¤mÃ¤ tuo aina mukanaan yllÃ¤tyksiÃ¤ - joskus kipeitÃ¤ ja pelottavia. MeillÃ¤ ei ole kaikkia
 			 vastauksia.</sitaatti>
 			<lahde>Irene Erkko - Pohjois-Teksasin suomalainen seurakunta</lahde>
 		</ajatus>

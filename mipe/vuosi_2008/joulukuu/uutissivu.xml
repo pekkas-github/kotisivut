@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Joulukuu 2008">
@@ -7,38 +7,38 @@
 		<kuukausi>Joulukuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Niitä näitä joulukuussa">
+		<tapahtuma otsikko="NiitÃ¤ nÃ¤itÃ¤ joulukuussa">
 			<kappale>
 				<kuva tiedosto="pukki.jpg" muoto="pysty" kuvaus="Aikuisille ei lahjoja hankittu, vai miten se oli?" />
 				<teksti>
-					Joulukuu, vuoden pimein aika, taisi mennä jotenkin unessa. Mitään kovin mainittavaa ei
-					tapahtunut. Enimmäkseen muistikuva ovat harmaita, eikä luntakaan ollut oikein edes
-					nimeksi. Puolivillaista joulun odotusta, vähän glögin maistelua ja pipareiden ja kinkun
+					Joulukuu, vuoden pimein aika, taisi mennÃ¤ jotenkin unessa. MitÃ¤Ã¤n kovin mainittavaa ei
+					tapahtunut. EnimmÃ¤kseen muistikuva ovat harmaita, eikÃ¤ luntakaan ollut oikein edes
+					nimeksi. Puolivillaista joulun odotusta, vÃ¤hÃ¤n glÃ¶gin maistelua ja pipareiden ja kinkun
 					paistamista.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Samin koululla järjestettiin perinteiset itsenäisyyspäivän juhlat. Nautittiin vanhempain-
-					toimikunnan buffeesta, isänmaallisesta ohjelmasta ja oppilaiden tanssiesityksistä. Ilta
-					huipentui neljäsluokkalaisten hienoissa juhlapuvuissa esittämiin vanhoihin tansseihin,
-					joita oli harjoiteltu ylipormestarin järjestämää itsenäisyyspäivän vastaanottoa varten.
+					Samin koululla jÃ¤rjestettiin perinteiset itsenÃ¤isyyspÃ¤ivÃ¤n juhlat. Nautittiin vanhempain-
+					toimikunnan buffeesta, isÃ¤nmaallisesta ohjelmasta ja oppilaiden tanssiesityksistÃ¤. Ilta
+					huipentui neljÃ¤sluokkalaisten hienoissa juhlapuvuissa esittÃ¤miin vanhoihin tansseihin,
+					joita oli harjoiteltu ylipormestarin jÃ¤rjestÃ¤mÃ¤Ã¤ itsenÃ¤isyyspÃ¤ivÃ¤n vastaanottoa varten.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
 					Jouluaattoa vietettiin mummin ja vaarin luona. Jouko-pukki oli saapunut jakamaan
-					joululahjoja pienille ja vähän isommillekin lapsille. Vaikka aikuisille ei ollut tarkoitus 
-					lahjoja hankkia, niin pukki oli meitä silti pikkuisen muistanut.
+					joululahjoja pienille ja vÃ¤hÃ¤n isommillekin lapsille. Vaikka aikuisille ei ollut tarkoitus 
+					lahjoja hankkia, niin pukki oli meitÃ¤ silti pikkuisen muistanut.
 				</teksti>
 			</kappale>
 			<kappale>
-				<kuva tiedosto="joulupoyta.jpg" muoto="vaaka" kuvaus="Jouluruokaa tarjos' kunnon väki" />
+				<kuva tiedosto="joulupoyta.jpg" muoto="vaaka" kuvaus="Jouluruokaa tarjos' kunnon vÃ¤ki" />
 				<teksti>
-					Jouluun kuuluu makoisat jouluruoat. Niitä käytiin maistelemassa vuoroin kunkin 
-					isäntäväen luona. Hyviltä maistuivat joka torpassa. Ja vielä pitkän matkaa pyhien
-					jälkeenkin niitä riitti. Pidimme Mirja kanssa lomaa aina loppiaiseen asti, joten 
-					hyvää aikaa oli meillä nautiskelulle.
+					Jouluun kuuluu makoisat jouluruoat. NiitÃ¤ kÃ¤ytiin maistelemassa vuoroin kunkin 
+					isÃ¤ntÃ¤vÃ¤en luona. HyviltÃ¤ maistuivat joka torpassa. Ja vielÃ¤ pitkÃ¤n matkaa pyhien
+					jÃ¤lkeenkin niitÃ¤ riitti. Pidimme Mirja kanssa lomaa aina loppiaiseen asti, joten 
+					hyvÃ¤Ã¤ aikaa oli meillÃ¤ nautiskelulle.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -47,18 +47,18 @@
 		<saa>
 			<kuva tiedosto="metsa.jpg" kuvaus="Vaaleaa harsoa vain nimeksi" />
 			<kuvaus>
-			Lieneekö kasvihuonepäästöistä johtuvaa, mutta kovin vähälumisia ja leutoja
+			LieneekÃ¶ kasvihuonepÃ¤Ã¤stÃ¶istÃ¤ johtuvaa, mutta kovin vÃ¤hÃ¤lumisia ja leutoja
 			ovat joulukuun seudut viime vuosina olleet.
 			</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Ellei yritä koko ajan kiirehtiä eteenpäin, on saattanut älytä pysähtyä ajoissa.
+			<sitaatti>Ellei yritÃ¤ koko ajan kiirehtiÃ¤ eteenpÃ¤in, on saattanut Ã¤lytÃ¤ pysÃ¤htyÃ¤ ajoissa.
 			</sitaatti>
 			<lahde>Jarmo Somppi</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva tiedosto="sunset.jpg" />
-			<kuvateksti>Ja jälleen aurinko laskee mailleen.</kuvateksti>
+			<kuvateksti>Ja jÃ¤lleen aurinko laskee mailleen.</kuvateksti>
 		</valokuva>
 	</vakiojutut>
 <!--

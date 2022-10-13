@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Toukokuu 2009">
@@ -11,59 +11,59 @@
 			<kappale>
 				<kuva tiedosto="albumi/kuva_n2.jpg" muoto="vaaka" kuvaus="Onnittelut!" />
 				<teksti>
-					Vanhan "Pökötin" leasing-kausi meni umpeen ja edessä oli auton vaihto.
-					Ranskalaiseen mukavuuteen tykästyneinä koeajoimme toivorikkaina uutta 
-					Peugeot-mallia. Se ei kuitenkaan sytyttänyt. Vanha selkeys oli muuttunut 
-					jotenkin konstikkaaksi muotoiluksi. Myöskään tavaratilaan ei ollut tullut
-					kaipaamaamme levennystä eli golfbägi ei edelleenkään olisi mahtunut 
-					sinne poikittain. Niinpä katselimme muitakin vaihtoehtoja.
+					Vanhan "PÃ¶kÃ¶tin" leasing-kausi meni umpeen ja edessÃ¤ oli auton vaihto.
+					Ranskalaiseen mukavuuteen tykÃ¤styneinÃ¤ koeajoimme toivorikkaina uutta 
+					Peugeot-mallia. Se ei kuitenkaan sytyttÃ¤nyt. Vanha selkeys oli muuttunut 
+					jotenkin konstikkaaksi muotoiluksi. MyÃ¶skÃ¤Ã¤n tavaratilaan ei ollut tullut
+					kaipaamaamme levennystÃ¤ eli golfbÃ¤gi ei edelleenkÃ¤Ã¤n olisi mahtunut 
+					sinne poikittain. NiinpÃ¤ katselimme muitakin vaihtoehtoja.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Ford oli Elisan valintalistalla ja siitä löytyi sopivan hintaisia vaihtoehtoja.
-					Lopulta päädyimme Ford Focukseen. Onhan se jotenkin jäykemmän ja
-					kankeamman tuntuinen kuin vanha "Pösö", mutta suurina plussina
-					vaakakupissa painoivat automaattinen ilmastointi ja ennen kaikkea riittävän
-					leveä tavaratila! Sen verran vähän ajokilometrejä meille tulee, että pienet
-					puutteet ajomukavuudessa voi sietää ja nekin ovat luultavasti vain
-					tottumuskysymyksiä.
+					Ford oli Elisan valintalistalla ja siitÃ¤ lÃ¶ytyi sopivan hintaisia vaihtoehtoja.
+					Lopulta pÃ¤Ã¤dyimme Ford Focukseen. Onhan se jotenkin jÃ¤ykemmÃ¤n ja
+					kankeamman tuntuinen kuin vanha "PÃ¶sÃ¶", mutta suurina plussina
+					vaakakupissa painoivat automaattinen ilmastointi ja ennen kaikkea riittÃ¤vÃ¤n
+					leveÃ¤ tavaratila! Sen verran vÃ¤hÃ¤n ajokilometrejÃ¤ meille tulee, ettÃ¤ pienet
+					puutteet ajomukavuudessa voi sietÃ¤Ã¤ ja nekin ovat luultavasti vain
+					tottumuskysymyksiÃ¤.
 				</teksti>
 			</kappale>
 		</tapahtuma>
 		<tapahtuma otsikko="Leffaputki">
 			<kappale>
-				<kuva tiedosto="albumi/kuva_n4.jpg" muoto="vaaka" kuvaus="Kenellä onkaan pesämuna?" />
+				<kuva tiedosto="albumi/kuva_n4.jpg" muoto="vaaka" kuvaus="KenellÃ¤ onkaan pesÃ¤muna?" />
 				<teksti>
 					Mirja oli hankkinut vuosi sitten Tintti-kerhon kautta edullisia elokuvalippuja.
-					Sen verran huonoja elokuvissa kävijöitä olemme olleet, että noidenkin lippujen
-					hyödyntäminen jäi viime tippaan, juuri ennen niiden vanhenemista.
+					Sen verran huonoja elokuvissa kÃ¤vijÃ¶itÃ¤ olemme olleet, ettÃ¤ noidenkin lippujen
+					hyÃ¶dyntÃ¤minen jÃ¤i viime tippaan, juuri ennen niiden vanhenemista.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
 					Sami tutkiskeli Finnkinon sivuja ja teki meille elokuvavalinnat. Ensin menimme
-					katsomaan porukalla "Yö museossa 2" ja pari päivää myöhemmin menimme 
-					kaksistaan Samin kanssa katsomaan animaation "Möröt vastaan 
-					muukalaiset". Kummassakin esityksessä oli yleisöä alle kymmenen henkilö, joten
+					katsomaan porukalla "YÃ¶ museossa 2" ja pari pÃ¤ivÃ¤Ã¤ myÃ¶hemmin menimme 
+					kaksistaan Samin kanssa katsomaan animaation "MÃ¶rÃ¶t vastaan 
+					muukalaiset". Kummassakin esityksessÃ¤ oli yleisÃ¶Ã¤ alle kymmenen henkilÃ¶, joten
 					saimme nauttia oikein leppoisista elokuvatuokioista.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Kevätjuhlaa">
+		<tapahtuma otsikko="KevÃ¤tjuhlaa">
 			<kappale>
-				<kuva tiedosto="albumi/kuva_n6.jpg" muoto="vaaka" kuvaus="Kävetjuhlaväkeä Nurkkatien koululla" />
+				<kuva tiedosto="albumi/kuva_n6.jpg" muoto="vaaka" kuvaus="KÃ¤vetjuhlavÃ¤keÃ¤ Nurkkatien koululla" />
 				<teksti>
-					Taas on yksi kouluvuosi takanapäin ja ensi syksynä Sami aloittaa jo neljännen
-					luokan. Kesäisen lämmin ja aurinkoinen sää sulostutti kevätjuhlapäivää.
-					Suvivirren ja todistustenjaon saattelemana oppilaat lähtivät kesäloman viettoon.
+					Taas on yksi kouluvuosi takanapÃ¤in ja ensi syksynÃ¤ Sami aloittaa jo neljÃ¤nnen
+					luokan. KesÃ¤isen lÃ¤mmin ja aurinkoinen sÃ¤Ã¤ sulostutti kevÃ¤tjuhlapÃ¤ivÃ¤Ã¤.
+					Suvivirren ja todistustenjaon saattelemana oppilaat lÃ¤htivÃ¤t kesÃ¤loman viettoon.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Samin koulumenestys on ollut oikein kiitettävää. Onkohan tullut isäänsä? No
-					uskonnon numeron osalta ei ainakaan. Omissa todistuksissani ei siinä kohtaa
-					tainnut koskaan olla edes kunnolla tyydyttävää arvosanaa.
+					Samin koulumenestys on ollut oikein kiitettÃ¤vÃ¤Ã¤. Onkohan tullut isÃ¤Ã¤nsÃ¤? No
+					uskonnon numeron osalta ei ainakaan. Omissa todistuksissani ei siinÃ¤ kohtaa
+					tainnut koskaan olla edes kunnolla tyydyttÃ¤vÃ¤Ã¤ arvosanaa.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -71,12 +71,12 @@
 	<vakiojutut>
 		<saa>
 			<kuva tiedosto="albumi/kuva_n1.jpg" />
-			<kuvaus>Toukokuu oli pääosin aurinkoinen, mutta koleahko ja tuulinen. Mirja ajoi
-			 	kuitenkin urhoollisesti työmatkat pyörällä. Loppukuusta tuli lopulta lämmintä ja
-			 	oikean kesän tuntua. </kuvaus>
+			<kuvaus>Toukokuu oli pÃ¤Ã¤osin aurinkoinen, mutta koleahko ja tuulinen. Mirja ajoi
+			 	kuitenkin urhoollisesti tyÃ¶matkat pyÃ¶rÃ¤llÃ¤. Loppukuusta tuli lopulta lÃ¤mmintÃ¤ ja
+			 	oikean kesÃ¤n tuntua. </kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Sääntöjen muuttaminen on vasta alku. Sen lisäksi on muutettava ihmisten
+			<sitaatti>SÃ¤Ã¤ntÃ¶jen muuttaminen on vasta alku. Sen lisÃ¤ksi on muutettava ihmisten
 				ajattelutapa.</sitaatti>
 			<lahde>Tuntematon</lahde>
 		</ajatus>

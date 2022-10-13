@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Toukokuu 2010">
@@ -11,51 +11,51 @@
 		<tapahtuma otsikko="Sukutapaaminen Mummolassa">
 			<kuva osoite="mummola.jpg" muoto="vaaka" kuvaus="Mummolassa oli tunnelmaa" />
 			<teksti>
-				Keväisen sateen saattelemana järjestettiin Häkkisten suvun
+				KevÃ¤isen sateen saattelemana jÃ¤rjestettiin HÃ¤kkisten suvun
 				sukutapaaminen. Paikalla olivat kaikki kotimaassa olleet Verner ja
-				Tyyni Häkkisen jälkeläiset perheenjäsenineen. Tapaamispaikkana
+				Tyyni HÃ¤kkisen jÃ¤lkelÃ¤iset perheenjÃ¤senineen. Tapaamispaikkana
 				oli tapahtuman henkeen hyvin sopiva kodikas ravintola Mummola.
 				Ruokailtiin, seurusteltiin ja kisailtiin. Mukavaa on kokoontua koko 
-				suvun kesken rennon epävirallisissa merkeissä, eikä pelkästään 
-				häissä ja hautajaisissa.
+				suvun kesken rennon epÃ¤virallisissa merkeissÃ¤, eikÃ¤ pelkÃ¤stÃ¤Ã¤n 
+				hÃ¤issÃ¤ ja hautajaisissa.
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Mirjan työpaikka">
+		<tapahtuma otsikko="Mirjan tyÃ¶paikka">
 			<teksti>
-				Mirja on viimeisen vuoden ollut määräaikaisissa työsuhteissa Elisassa.
-				Määräajan päättyessä oli riski tulla irtisanotuksi, ellei sopivaa uutta
-				määräaikaisuutta olisi löytynyt.
+				Mirja on viimeisen vuoden ollut mÃ¤Ã¤rÃ¤aikaisissa tyÃ¶suhteissa Elisassa.
+				MÃ¤Ã¤rÃ¤ajan pÃ¤Ã¤ttyessÃ¤ oli riski tulla irtisanotuksi, ellei sopivaa uutta
+				mÃ¤Ã¤rÃ¤aikaisuutta olisi lÃ¶ytynyt.
 			</teksti>
 			<teksti>
 				Nyt Mirja on onnistun saamaan vaikinaisen paikan. Jokseenkin samat
-				hommat jatkuvat, mutta vakinaisessa työsuhteessa.
-				Palkasta joutuu vähän tinkimään, mutta toisaalta ei koko ajan tarvitse
-				ajatella, löytyykö jatkoa, kun määräaika umpeutuu.
+				hommat jatkuvat, mutta vakinaisessa tyÃ¶suhteessa.
+				Palkasta joutuu vÃ¤hÃ¤n tinkimÃ¤Ã¤n, mutta toisaalta ei koko ajan tarvitse
+				ajatella, lÃ¶ytyykÃ¶ jatkoa, kun mÃ¤Ã¤rÃ¤aika umpeutuu.
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Terveellistä eksotiikkaa">
+		<tapahtuma otsikko="TerveellistÃ¤ eksotiikkaa">
 			<kuva osoite="superfood.jpg" muoto="vaaka" />
 			<teksti>
-				Mirja on perhtynyt terveisiin elämäntapoihin ja ruokavalioomme on
-				ilmestynyt eksoottisia "superfoodiksi" kutsuttuja elementtejä. Mirja on
-				tehnyt maustettuja levitteitä luomuvoista ja rypsiöljystä. Yhdessä Samin
+				Mirja on perhtynyt terveisiin elÃ¤mÃ¤ntapoihin ja ruokavalioomme on
+				ilmestynyt eksoottisia "superfoodiksi" kutsuttuja elementtejÃ¤. Mirja on
+				tehnyt maustettuja levitteitÃ¤ luomuvoista ja rypsiÃ¶ljystÃ¤. YhdessÃ¤ Samin
 				kanssa he valmistivat omatekoista suklaata kaakaosta, kaakaovoista,
-				goji-marjoista ja jostakin "nipseistä". Suklaasta tulikin paitsi hyvää niin
-				myös terveellstä.
+				goji-marjoista ja jostakin "nipseistÃ¤". Suklaasta tulikin paitsi hyvÃ¤Ã¤ niin
+				myÃ¶s terveellstÃ¤.
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
 
 	<vakiojutut>
 		<saa>
-			<kuva osoite="nurtsi.jpg" kuvaus="Ruoho kasvoi silmissä." />
+			<kuva osoite="nurtsi.jpg" kuvaus="Ruoho kasvoi silmissÃ¤." />
 			<teksti>
-				Lämpöaalto kiihdytti kevään huimaan vauhtiin. Luonto muuttui
-				vihreäksi viikossa. Käenkin kuultiin kukkuvan aivan lähimetsässä.
+				LÃ¤mpÃ¶aalto kiihdytti kevÃ¤Ã¤n huimaan vauhtiin. Luonto muuttui
+				vihreÃ¤ksi viikossa. KÃ¤enkin kuultiin kukkuvan aivan lÃ¤himetsÃ¤ssÃ¤.
 			</teksti>
 		</saa>
 		<ajatus>
-			<sitaatti>Laatu säilyy vielä kauan sen jälkeen, kun hinta on jo unohtunut</sitaatti>
+			<sitaatti>Laatu sÃ¤ilyy vielÃ¤ kauan sen jÃ¤lkeen, kun hinta on jo unohtunut</sitaatti>
 			<lahde>Sir Henry Royce</lahde>
 		</ajatus>
 		<valokuva>

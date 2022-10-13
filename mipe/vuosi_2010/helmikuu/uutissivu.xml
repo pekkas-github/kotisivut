@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Helmikuu 2010">
@@ -11,39 +11,39 @@
 		<tapahtuma otsikko="Luminen talvi">
 			<kuva osoite="lumet.JPG" muoto="vaaka" kuvaus="Lunta oli katoilla jopa metrin paksuudelta" />
 			<teksti>
-				Helmikuu oli sekä kylmä että luminen. Kadut kapenivat entisestään ja liikenteellä
-				niin kaduilla kuin kiskoilla oli vaikeuksia. Junat myöhästelivät ja olivat ruuhkaisia.
+				Helmikuu oli sekÃ¤ kylmÃ¤ ettÃ¤ luminen. Kadut kapenivat entisestÃ¤Ã¤n ja liikenteellÃ¤
+				niin kaduilla kuin kiskoilla oli vaikeuksia. Junat myÃ¶hÃ¤stelivÃ¤t ja olivat ruuhkaisia.
 				Lunta kertyi katoille paksuiksi kerroksiksi. Monissa vanhoissa kerrostaloissa
-				jäätyneet rännit ja sulava lumi aiheuttivat vesivahinkoja. Joidenkin hallien kattoja
+				jÃ¤Ã¤tyneet rÃ¤nnit ja sulava lumi aiheuttivat vesivahinkoja. Joidenkin hallien kattoja
 				romahti ja muutamia kauppoja evakuoitiin romahdusvaaran pelossa.
 			</teksti>
 			<teksti>
-				TV:ssä kehotettiin tarkkailemaan myös omakotitalojen lumikuormia. Asiantuntija
-				suositteli lumien pudottamista, jos sitä alkaa olla 80 sentin kerros. Ihmiset
-				ryntäsivät katoille ja seuraksena oli muutamia kuolemantapauksia ja kymmenittäin
+				TV:ssÃ¤ kehotettiin tarkkailemaan myÃ¶s omakotitalojen lumikuormia. Asiantuntija
+				suositteli lumien pudottamista, jos sitÃ¤ alkaa olla 80 sentin kerros. Ihmiset
+				ryntÃ¤sivÃ¤t katoille ja seuraksena oli muutamia kuolemantapauksia ja kymmenittÃ¤in
 				leikkaushoitoa vaatineita loukkaantumisia.
 			</teksti>
 			<teksti>
-				Omalla katollamme oli myös huomattavan paksu lumipatja. Tilannetta hiukan 
-				helpotti loppukuussa kohonnut lämpötila, jonka seurauksena pihan puoleinen
-				lape tyhjeni lumesta kertarysäyksellä. Lunta tuli varmasti tonnikaupalla. Ikkunan
-				alle ilmestyi lähes kaksimetrinen kinos, kun lumi kasaantui kymmenien neliöiden
-				alalta yhteen läjään.
+				Omalla katollamme oli myÃ¶s huomattavan paksu lumipatja. Tilannetta hiukan 
+				helpotti loppukuussa kohonnut lÃ¤mpÃ¶tila, jonka seurauksena pihan puoleinen
+				lape tyhjeni lumesta kertarysÃ¤yksellÃ¤. Lunta tuli varmasti tonnikaupalla. Ikkunan
+				alle ilmestyi lÃ¤hes kaksimetrinen kinos, kun lumi kasaantui kymmenien neliÃ¶iden
+				alalta yhteen lÃ¤jÃ¤Ã¤n.
 			</teksti>
 			<nappi teksti="Lumikuvia takapihalta" osoite="albumi/lumikuvat.xml" />
 		</tapahtuma>
 		<tapahtuma otsikko="Talviloma">
-			<kuva osoite="mokki.JPG" muoto="vaaka" kuvaus="Lomamökkimme Hauholla" />
+			<kuva osoite="mokki.JPG" muoto="vaaka" kuvaus="LomamÃ¶kkimme Hauholla" />
 			<teksti>
-				Talvilomaa vietimme Hauholta vuokraamassamme mökissä. Asuimme viikon
-				lumen ja pakkasen keskellä. Mirja ja Sami kävivät hiihtämässä ja luistelemassa,
-				mutta kahdessakymmenessä pysytellyt pakkanen piti meidät useana päivänä
-				enimmäkseen sisällä.
+				Talvilomaa vietimme Hauholta vuokraamassamme mÃ¶kissÃ¤. Asuimme viikon
+				lumen ja pakkasen keskellÃ¤. Mirja ja Sami kÃ¤vivÃ¤t hiihtÃ¤mÃ¤ssÃ¤ ja luistelemassa,
+				mutta kahdessakymmenessÃ¤ pysytellyt pakkanen piti meidÃ¤t useana pÃ¤ivÃ¤nÃ¤
+				enimmÃ¤kseen sisÃ¤llÃ¤.
 			</teksti>
 			<teksti>
-				Mökki oli järven rannalla ja aivan maantien vieressä. Ajomatkan kannalta aivan
+				MÃ¶kki oli jÃ¤rven rannalla ja aivan maantien vieressÃ¤. Ajomatkan kannalta aivan
 				ihanteellisella paikalla. Tosin risteys oli niin huomaamaton ja lumikinosten piilottama,
-				että ilman etukäteistutustumista Google uusien "street view" kuvien avulla
+				ettÃ¤ ilman etukÃ¤teistutustumista Google uusien "street view" kuvien avulla
 				maamerkkeihin, olisimme ajaneet varmasti ohitse. 
 			</teksti>
 			<nappi teksti="Lomakuvia Hauholta" osoite="albumi/lomakuvat.xml" />
@@ -53,14 +53,14 @@
 
 	<vakiojutut>
 		<saa>
-			<kuva osoite="mittari.JPG" kuvaus="Pakkasta oli kireästi" />
+			<kuva osoite="mittari.JPG" kuvaus="Pakkasta oli kireÃ¤sti" />
 			<teksti>
 				Helmilkuu taisi olla pariinkymmeneen vuoteen kylmin ja lumisin. Ainakin lumisin.
 			</teksti>
 		</saa>
 		<ajatus>
 			<kuva osoite="enkeli.JPG" />
-			<sitaatti>Kaikki ajavat onnea takaa, mutta eivät huomaa, että se onkin heidän kintereillään.</sitaatti>
+			<sitaatti>Kaikki ajavat onnea takaa, mutta eivÃ¤t huomaa, ettÃ¤ se onkin heidÃ¤n kintereillÃ¤Ã¤n.</sitaatti>
 			<lahde>Bertolt Brecht</lahde>
 		</ajatus>
 		<valokuva>

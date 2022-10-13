@@ -1,110 +1,110 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
-<uutissivu otsikko="Kesäkuu 2008">
+<uutissivu otsikko="KesÃ¤kuu 2008">
 	<metatiedot>
 		<vuosi>2008</vuosi>
-		<kuukausi>Kesäkuu</kuukausi>
+		<kuukausi>KesÃ¤kuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
 		<tapahtuma otsikko="Samin golf-leiri">
 			<kappale>
-				<kuva tiedosto="albumi/swing.jpg" muoto="pysty" kuvaus="Sami näyttää swingin mallia Luukissa" />
+				<kuva tiedosto="albumi/swing.jpg" muoto="pysty" kuvaus="Sami nÃ¤yttÃ¤Ã¤ swingin mallia Luukissa" />
 				<kuva tiedosto="albumi/golfleiri.jpg" muoto="vaaka" kuvaus="Junnuleirille osallistujat yhteiskuvassa" />
 				<teksti>
-				Sami osallistui SHG:n järjestämään kolmipäiväiseen junnujen golf-leiriin 
-				Lakistossa. Päivät olivat työntäyteisiä: aamulla yhdeksältä aloitettiin ja 
-				lounastauon jälkeen jatkettiin aina iltapäivään kello kolmeen. Ohjelmassa oli 
-				lyömistä rangella, chippailua, puttailua, santalyöntejä ja viimeisenä päivänä
-				 myös pelattiin muutamia reikiä Lakiston mäkisellä kentällä.
+				Sami osallistui SHG:n jÃ¤rjestÃ¤mÃ¤Ã¤n kolmipÃ¤ivÃ¤iseen junnujen golf-leiriin 
+				Lakistossa. PÃ¤ivÃ¤t olivat tyÃ¶ntÃ¤yteisiÃ¤: aamulla yhdeksÃ¤ltÃ¤ aloitettiin ja 
+				lounastauon jÃ¤lkeen jatkettiin aina iltapÃ¤ivÃ¤Ã¤n kello kolmeen. Ohjelmassa oli 
+				lyÃ¶mistÃ¤ rangella, chippailua, puttailua, santalyÃ¶ntejÃ¤ ja viimeisenÃ¤ pÃ¤ivÃ¤nÃ¤
+				 myÃ¶s pelattiin muutamia reikiÃ¤ Lakiston mÃ¤kisellÃ¤ kentÃ¤llÃ¤.
 				 </teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Sää suosi tapahtumaa. Oli aurinkoista ja lämmintä joskin vähän tuulista. 
-				Pidimme myös Mirjan kanssa vähän lomaa ja kiersimme kesän ensimmäisiä
-				 kierroksia hyväkuntoisella kentällä.
+				SÃ¤Ã¤ suosi tapahtumaa. Oli aurinkoista ja lÃ¤mmintÃ¤ joskin vÃ¤hÃ¤n tuulista. 
+				Pidimme myÃ¶s Mirjan kanssa vÃ¤hÃ¤n lomaa ja kiersimme kesÃ¤n ensimmÃ¤isiÃ¤
+				 kierroksia hyvÃ¤kuntoisella kentÃ¤llÃ¤.
 				 </teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Sami tuntui viihtyvän leirillä, vaikka välillä oli vähän epäselvää, miten päivän ohjelma
-				 etenee ja kuka pelaa missäkin ryhmässä. En tiedä, puriko golf-kärpänen, mutta kyllä 
-				Sami oli vielä kovasti halukas lähtemään rangelle ja maanantain villille 
-				päivälle Luukkiin. Nyt Luukkia on kierretty muutama kerta ja kyllähän se peli ihan 
-				mukavasti etenee, mutta harjoittelua täytyy vielä jatkaa.
+				Sami tuntui viihtyvÃ¤n leirillÃ¤, vaikka vÃ¤lillÃ¤ oli vÃ¤hÃ¤n epÃ¤selvÃ¤Ã¤, miten pÃ¤ivÃ¤n ohjelma
+				 etenee ja kuka pelaa missÃ¤kin ryhmÃ¤ssÃ¤. En tiedÃ¤, puriko golf-kÃ¤rpÃ¤nen, mutta kyllÃ¤ 
+				Sami oli vielÃ¤ kovasti halukas lÃ¤htemÃ¤Ã¤n rangelle ja maanantain villille 
+				pÃ¤ivÃ¤lle Luukkiin. Nyt Luukkia on kierretty muutama kerta ja kyllÃ¤hÃ¤n se peli ihan 
+				mukavasti etenee, mutta harjoittelua tÃ¤ytyy vielÃ¤ jatkaa.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Pekka Halosen taidenäyttely">
+		<tapahtuma otsikko="Pekka Halosen taidenÃ¤yttely">
 			<kappale>
 				<kuva tiedosto="albumi/halonen.jpg" muoto="pysty" kuvaus="Pekka Halosen omakuva" />
 				<teksti>
-				Kävimme Mirjan kanssa tutustumassa kultakauden yhden suuren taiteilijan, 
+				KÃ¤vimme Mirjan kanssa tutustumassa kultakauden yhden suuren taiteilijan, 
 				Pekka Halosen, teoksiin Ateneumissa. Kultturikokemuksen oli organisoinut 
-				Elisan Tintti-kerho. Edellisestä Ateneumin käynnistämme oli vierähtänyt 
-				hyvinkin 30 vuotta, joten ehkä oli jo aikakin.
+				Elisan Tintti-kerho. EdellisestÃ¤ Ateneumin kÃ¤ynnistÃ¤mme oli vierÃ¤htÃ¤nyt 
+				hyvinkin 30 vuotta, joten ehkÃ¤ oli jo aikakin.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Halonen tunnetaan erityisesti talvimaalauksistaan, mutta oli hän tuotteliaan 
-				uransa aikana tehnyt paljon muutakin. Minua sykähdyttivät varsinkin hänen 
-				opiskeluaikana harjoitustöinä tekemät hiilipiirustukset ihimiskasvoista. Ne 
-				olivat niin eläviä ja pikkutarkkoja ja täydellisiä, etten olisi hämmästynyt, 
-				vaikka joku niistä olisi iskenyt silmää.
+				Halonen tunnetaan erityisesti talvimaalauksistaan, mutta oli hÃ¤n tuotteliaan 
+				uransa aikana tehnyt paljon muutakin. Minua sykÃ¤hdyttivÃ¤t varsinkin hÃ¤nen 
+				opiskeluaikana harjoitustÃ¶inÃ¤ tekemÃ¤t hiilipiirustukset ihimiskasvoista. Ne 
+				olivat niin elÃ¤viÃ¤ ja pikkutarkkoja ja tÃ¤ydellisiÃ¤, etten olisi hÃ¤mmÃ¤stynyt, 
+				vaikka joku niistÃ¤ olisi iskenyt silmÃ¤Ã¤.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-				Mielenkiintoinen havainto oli, että kun tauluja tarkasteli kauempaa, 
-				useamman metrin päästä, niin että siveltimen jäljet sulautuivat 
-				kokonaisuuteen, silmä alkoi nähdä teokset toisella tavalla. Ne muuttuivat 
-				maalauksista eläviksi kuviksi. Heijastukset, valaistus ja varjot olivat hyvin 
-				toden tuntuisia. Teoksista löytyi yksityiskohtia, joita läheltä katsoen ei ollut 
-				huomannutkaan. Tällaisesta taiteesta minä tykkään. Ei tarvitse itse arvailla 
-				eikä kenenkään selitellä, mitä teokset esittävät.
+				Mielenkiintoinen havainto oli, ettÃ¤ kun tauluja tarkasteli kauempaa, 
+				useamman metrin pÃ¤Ã¤stÃ¤, niin ettÃ¤ siveltimen jÃ¤ljet sulautuivat 
+				kokonaisuuteen, silmÃ¤ alkoi nÃ¤hdÃ¤ teokset toisella tavalla. Ne muuttuivat 
+				maalauksista elÃ¤viksi kuviksi. Heijastukset, valaistus ja varjot olivat hyvin 
+				toden tuntuisia. Teoksista lÃ¶ytyi yksityiskohtia, joita lÃ¤heltÃ¤ katsoen ei ollut 
+				huomannutkaan. TÃ¤llaisesta taiteesta minÃ¤ tykkÃ¤Ã¤n. Ei tarvitse itse arvailla 
+				eikÃ¤ kenenkÃ¤Ã¤n selitellÃ¤, mitÃ¤ teokset esittÃ¤vÃ¤t.
 				</teksti>
 			</kappale>
 		</tapahtuma>
-		<tapahtuma otsikko="Kesälomaa ja golfia">
+		<tapahtuma otsikko="KesÃ¤lomaa ja golfia">
 			<kappale>
 				<kuva tiedosto="albumi/kuva_18.jpg" muoto="vaaka" kuvaus="Kisavalmisteluja Sarfvikin parkkipaikalla" />
 				<teksti>
-				Mirja aloitti kesäloman juhannuksesta, minä vasta viikko tämän jälkeen. 
-				Järjestimme alkukesän lomamme vähän limittäin, jotta Samin ei olisi tarvinnut 
-				olla leikkipuoistossa tai yksin kotona. Kesäkuun säät eivät olleet parhaat 
-				mahdolliset, mutta pääsimme kuitenkin useamman kerran golfaamaan kastumatta kertaakaan.
+				Mirja aloitti kesÃ¤loman juhannuksesta, minÃ¤ vasta viikko tÃ¤mÃ¤n jÃ¤lkeen. 
+				JÃ¤rjestimme alkukesÃ¤n lomamme vÃ¤hÃ¤n limittÃ¤in, jotta Samin ei olisi tarvinnut 
+				olla leikkipuoistossa tai yksin kotona. KesÃ¤kuun sÃ¤Ã¤t eivÃ¤t olleet parhaat 
+				mahdolliset, mutta pÃ¤Ã¤simme kuitenkin useamman kerran golfaamaan kastumatta kertaakaan.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
 				Osallistuimme Mirjan kanssa Elisa Sportin golf-kisoihin Sarfvikissa 
-				kuten viime vuonnakin. Meri piteli uhkaavat sade- ja ukkospilvet mantereen päällä 
+				kuten viime vuonnakin. Meri piteli uhkaavat sade- ja ukkospilvet mantereen pÃ¤Ã¤llÃ¤ 
 				ja saimme pelata koko viisi ja puoli tuntisen kierroksen auringon paisteessa. Omasta 
-				menestymisestäni ei jäänyt tuleville polville juuri mainittavaa, mutta Mirja sijoittui 
-				naisten sarjassa toiseksi ja poimi palkintopöydästä Samille näppärän kantobägin. 
-				Sitä onkin jo useamman kerran ulkoilutettu Luukissa.
+				menestymisestÃ¤ni ei jÃ¤Ã¤nyt tuleville polville juuri mainittavaa, mutta Mirja sijoittui 
+				naisten sarjassa toiseksi ja poimi palkintopÃ¶ydÃ¤stÃ¤ Samille nÃ¤ppÃ¤rÃ¤n kantobÃ¤gin. 
+				SitÃ¤ onkin jo useamman kerran ulkoilutettu Luukissa.
 				</teksti>
 			</kappale>
 		</tapahtuma>
 	</tapahtumat>
 	<vakiojutut>
 		<saa>
-			<kuva tiedosto="albumi/kuukauden_saa.jpg" kuvaus="Mirja lyömässä palloa Luukin väylällä 16" />
+			<kuva tiedosto="albumi/kuukauden_saa.jpg" kuvaus="Mirja lyÃ¶mÃ¤ssÃ¤ palloa Luukin vÃ¤ylÃ¤llÃ¤ 16" />
 			<kuvaus>Alkukuusta oli kauniitakin ilmoja, mutta loppukuu juhannuksen molemmin 
-			puolin oli koleaa ja epävakaista.</kuvaus>
+			puolin oli koleaa ja epÃ¤vakaista.</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Paljon tietäminen ei ole viisautta. </sitaatti>
+			<sitaatti>Paljon tietÃ¤minen ei ole viisautta. </sitaatti>
 			<lahde>Herakleitos</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva tiedosto="albumi/kuukauden_kuva.jpg" />
-			<kuvateksti>Metsämittarikoiraita</kuvateksti>
+			<kuvateksti>MetsÃ¤mittarikoiraita</kuvateksti>
 		</valokuva>
 	</vakiojutut>
 	<napit>
-		<nappi teksti="Kuvia kesäkuulta" />
+		<nappi teksti="Kuvia kesÃ¤kuulta" />
 	</napit>
 </uutissivu>

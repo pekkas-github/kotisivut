@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v3.0.xsl"?>
 
 <uutissivu otsikko="Elokuu 2010">
@@ -8,49 +8,49 @@
 	</metatiedot>
 
 	<tapahtumat>
-		<tapahtuma otsikko="Kesäloma Ruovedellä">
+		<tapahtuma otsikko="KesÃ¤loma RuovedellÃ¤">
 			<kuva osoite="ruovesi_mokki.JPG" muoto="vaaka" />
 			<teksti>
-				Tänä vuonna vuokrasimme viikoksi mökin Ruovedeltä. Mökki ei ollet mielestämme kovin kummoinen, eikä sauna. 
+				TÃ¤nÃ¤ vuonna vuokrasimme viikoksi mÃ¶kin RuovedeltÃ¤. MÃ¶kki ei ollet mielestÃ¤mme kovin kummoinen, eikÃ¤ sauna. 
 				Vesi oli poikkeuksellisen matalalla ja se hankaloitti uimista. Rannassa kasvoi vesikasveja ja hetken uimisen
-				jälkeen pohjasta alkoi nousta jonkinlaista humusta. Laiturille noustessa koko vartalo oli aivan täplikäs ja
-				tumman levän peitossa.
+				jÃ¤lkeen pohjasta alkoi nousta jonkinlaista humusta. Laiturille noustessa koko vartalo oli aivan tÃ¤plikÃ¤s ja
+				tumman levÃ¤n peitossa.
 			</teksti>
 			<teksti>
-				Marjavuosi ei ollut myöskään kovin kummoinen. Jokunen mustikka löytyi kostean ojan penkereeltä, mutta heti
-				siitä ylöspäin marjat alkoiva pienentyä ja katosivat sitten kokonaan.
+				Marjavuosi ei ollut myÃ¶skÃ¤Ã¤n kovin kummoinen. Jokunen mustikka lÃ¶ytyi kostean ojan penkereeltÃ¤, mutta heti
+				siitÃ¤ ylÃ¶spÃ¤in marjat alkoiva pienentyÃ¤ ja katosivat sitten kokonaan.
 			</teksti>
-			<kuva osoite="runebergin_lahde_1.JPG" muoto="vaaka" kuvaus="Sua lähde kaunis katselen..." />
+			<kuva osoite="runebergin_lahde_1.JPG" muoto="vaaka" kuvaus="Sua lÃ¤hde kaunis katselen..." />
 			<teksti>
-				Yksi Ruoveden nähtävyyksistä on Runebergin lähde. Runeberg oli ollut joskus nuoruudessaan kotiopettajana
-				Ruovedellä ja istuskellut lähteen äärellä. Täällä hän on ilmeisesti kirjoittanut "Lähteellä" runon. Vesi
-				oli läpikuultavan kirkasta ja kylmää. Täytimme siitä vesipullot.
+				Yksi Ruoveden nÃ¤htÃ¤vyyksistÃ¤ on Runebergin lÃ¤hde. Runeberg oli ollut joskus nuoruudessaan kotiopettajana
+				RuovedellÃ¤ ja istuskellut lÃ¤hteen Ã¤Ã¤rellÃ¤. TÃ¤Ã¤llÃ¤ hÃ¤n on ilmeisesti kirjoittanut "LÃ¤hteellÃ¤" runon. Vesi
+				oli lÃ¤pikuultavan kirkasta ja kylmÃ¤Ã¤. TÃ¤ytimme siitÃ¤ vesipullot.
 			</teksti>
 		</tapahtuma>
 		<tapahtuma otsikko="Postimuseo">
 			<kuva osoite="centrum_2.jpg" muoto="pysty" kuvaus="Postitalo" />
 			<teksti>
-				Kävimme tutustumassa "Graf Zeppelin - ilmojen jättiläinen" -näyttelyyn Postitalolla. Näyttelyllä 
-				juhlistettiin Zeppelinin 80 vuoden takaista vierailua Helsinkiin. Senkin jälkeen on ilmalaivoja
-				Helsingissä nähty, mutta aikalailla lilliputteja ovat Zeppeliiniin verratuna olleet. Ei taideta
-				niitä vuosikymmenien kuluttua juurikaan muistella.
+				KÃ¤vimme tutustumassa "Graf Zeppelin - ilmojen jÃ¤ttilÃ¤inen" -nÃ¤yttelyyn Postitalolla. NÃ¤yttelyllÃ¤ 
+				juhlistettiin Zeppelinin 80 vuoden takaista vierailua Helsinkiin. Senkin jÃ¤lkeen on ilmalaivoja
+				HelsingissÃ¤ nÃ¤hty, mutta aikalailla lilliputteja ovat Zeppeliiniin verratuna olleet. Ei taideta
+				niitÃ¤ vuosikymmenien kuluttua juurikaan muistella.
 			</teksti>
 			<teksti>
-				Kesäinen sunnuntai-ilta keskustassa oli mukava kokemus. Raukean hiljainen kaupunki ja autereinen
-				ilta-aurinko oli varsin rauhoittavan oloinen. Kaukana oli arjen kiire ja hälinä.
+				KesÃ¤inen sunnuntai-ilta keskustassa oli mukava kokemus. Raukean hiljainen kaupunki ja autereinen
+				ilta-aurinko oli varsin rauhoittavan oloinen. Kaukana oli arjen kiire ja hÃ¤linÃ¤.
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
 
 	<albumi>
-		<kuvat otsikko="Loma Ruovedellä">
-			<kuva osoite="ruovesi_mokit.JPG" kuvaus="Mökkipahainen" />
-			<kuva osoite="ruovesi_sauna.JPG" kuvaus="Sauna on ainakin hyvässä maalissa" />
-			<kuva osoite="tupa.JPG" kuvaus="Sauna on ainakin hyvässä maalissa" />
+		<kuvat otsikko="Loma RuovedellÃ¤">
+			<kuva osoite="ruovesi_mokit.JPG" kuvaus="MÃ¶kkipahainen" />
+			<kuva osoite="ruovesi_sauna.JPG" kuvaus="Sauna on ainakin hyvÃ¤ssÃ¤ maalissa" />
+			<kuva osoite="tupa.JPG" kuvaus="Sauna on ainakin hyvÃ¤ssÃ¤ maalissa" />
 			<kuva osoite="ruovesi_uimarit.JPG" kuvaus="Vesi matalalla" />
-			<kuva osoite="ruovesi_pilvet.JPG" kuvaus="Raju ukkoskuuro yllätti" />
-			<kuva osoite="ruovesi_vene.JPG" kuvaus="Äyskäröintiä" />
-			<kuva osoite="ruovesi_lahde.JPG" kuvaus="Pullojen täyttöä" />
+			<kuva osoite="ruovesi_pilvet.JPG" kuvaus="Raju ukkoskuuro yllÃ¤tti" />
+			<kuva osoite="ruovesi_vene.JPG" kuvaus="Ã„yskÃ¤rÃ¶intiÃ¤" />
+			<kuva osoite="ruovesi_lahde.JPG" kuvaus="Pullojen tÃ¤yttÃ¶Ã¤" />
 		</kuvat>
 		<kuvat otsikko="Keskustaa">
 			<kuva osoite="centrum.JPG" kuvaus="Postikatu ja Sokos" />

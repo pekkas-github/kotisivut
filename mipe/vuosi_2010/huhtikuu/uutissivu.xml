@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 
@@ -8,65 +8,65 @@
 		<kuukausi>Huhtikuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
-		<tapahtuma otsikko="Pääsiäistä perinteisesti">
-			<kuva osoite="sami.jpg" muoto="vaaka" kuvaus="Pääsiäismunasta on tullut yllätys" />
+		<tapahtuma otsikko="PÃ¤Ã¤siÃ¤istÃ¤ perinteisesti">
+			<kuva osoite="sami.jpg" muoto="vaaka" kuvaus="PÃ¤Ã¤siÃ¤ismunasta on tullut yllÃ¤tys" />
 			<teksti>
-				Pääsiäisbrunssi oli jälleen katettu mummin keittiöön. Oman perheemme lisäksi
-				herkkuja oli nauttimassa myös Järvisen Pirkko. Monen moista hyvää oli taas
-				tarjolla. Kaloja, lammasta, kananmunia, mämmiä ja vaikka mitä. 
+				PÃ¤Ã¤siÃ¤isbrunssi oli jÃ¤lleen katettu mummin keittiÃ¶Ã¶n. Oman perheemme lisÃ¤ksi
+				herkkuja oli nauttimassa myÃ¶s JÃ¤rvisen Pirkko. Monen moista hyvÃ¤Ã¤ oli taas
+				tarjolla. Kaloja, lammasta, kananmunia, mÃ¤mmiÃ¤ ja vaikka mitÃ¤. 
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Kajn synttärit">
+		<tapahtuma otsikko="Kajn synttÃ¤rit">
 			<kuva osoite="kaj.jpg" muoto="vaaka" kuvaus="Maestro!" />
 			<teksti>
-				Pyöreitä vuosia juhlittiin jo kolmatta vuotta peräkkäin. Tällä kertaa vietettiin Kajn 60-
-				vuotispäiviä. Väkeä oli tupa täynnä - kaksi- ja nelijalkaisia.
+				PyÃ¶reitÃ¤ vuosia juhlittiin jo kolmatta vuotta perÃ¤kkÃ¤in. TÃ¤llÃ¤ kertaa vietettiin Kajn 60-
+				vuotispÃ¤iviÃ¤. VÃ¤keÃ¤ oli tupa tÃ¤ynnÃ¤ - kaksi- ja nelijalkaisia.
 			</teksti>
 			<teksti>
-				Porukalla olimme keränneet potin lahjaa varten, joka komeilikin jo päivänsankarin
-				sylissä. Merkeistä en tiedä, mutta punainen sähkökitara kiilteli ja soi maestron 
-				käsissä.
+				Porukalla olimme kerÃ¤nneet potin lahjaa varten, joka komeilikin jo pÃ¤ivÃ¤nsankarin
+				sylissÃ¤. MerkeistÃ¤ en tiedÃ¤, mutta punainen sÃ¤hkÃ¶kitara kiilteli ja soi maestron 
+				kÃ¤sissÃ¤.
 			</teksti>			
 		</tapahtuma>
 		<tapahtuma otsikko="Koutien lippukunta 30 vuotta">
 			<kuva osoite="koudat.jpg" muoto="vaaka" kuvaus="Seikkalijat ovat vannoneet valan" />
 			<teksti>
-				Sami on ollu partiossa kohta vuoden. Samin lippukunta - Koudat - juhli myöskin
-				pyöreitä vuosia. Kolmekymmentä vuotta toimintaa on takana. Ohjemassa oli
-				laulua, näytelmiä, puheita ja video Koutien kuluneen vuoden tapahtumista.
+				Sami on ollu partiossa kohta vuoden. Samin lippukunta - Koudat - juhli myÃ¶skin
+				pyÃ¶reitÃ¤ vuosia. KolmekymmentÃ¤ vuotta toimintaa on takana. Ohjemassa oli
+				laulua, nÃ¤ytelmiÃ¤, puheita ja video Koutien kuluneen vuoden tapahtumista.
 			</teksti>
 			<teksti>
-				Oli hauskaa huomata, että partiotoiminta on voimissaan ja voi hyvin. On ilo nähdä,
-				että tänä päivänä löytyy sellaisiakin nuoria, jotka ovat kiinnostuneet tällaisesta 
-				reilusta ja puhdashenkisestä ja vapaaehtoisesta toiminnasta.
+				Oli hauskaa huomata, ettÃ¤ partiotoiminta on voimissaan ja voi hyvin. On ilo nÃ¤hdÃ¤,
+				ettÃ¤ tÃ¤nÃ¤ pÃ¤ivÃ¤nÃ¤ lÃ¶ytyy sellaisiakin nuoria, jotka ovat kiinnostuneet tÃ¤llaisesta 
+				reilusta ja puhdashenkisestÃ¤ ja vapaaehtoisesta toiminnasta.
 			</teksti>
 		</tapahtuma>
-		<tapahtuma otsikko="Vihdoinkin kevät">
+		<tapahtuma otsikko="Vihdoinkin kevÃ¤t">
 			<kuva osoite="vappu.jpg" muoto="vaaka" kuvaus="Sacher-kakkua ja kahvia" />
 			<teksti>
-				Uskomattoman lumisen talven jälkeen kevät saapui kuitenkin. Lumilkellot nousivat
-				jo hangen läpi ja niin vain talven selkä taittui nopeaan tahtiin. Mummi, Markus ja Pirjo
-				olivat viettämässä vappuaattoa ja Markus todisti, kuinka viimeinen luminokare 
-				pihaterassilta haihtui höyrynä ilmaan ja kevät oli vienyt lopullisen voiton talvesta.
+				Uskomattoman lumisen talven jÃ¤lkeen kevÃ¤t saapui kuitenkin. Lumilkellot nousivat
+				jo hangen lÃ¤pi ja niin vain talven selkÃ¤ taittui nopeaan tahtiin. Mummi, Markus ja Pirjo
+				olivat viettÃ¤mÃ¤ssÃ¤ vappuaattoa ja Markus todisti, kuinka viimeinen luminokare 
+				pihaterassilta haihtui hÃ¶yrynÃ¤ ilmaan ja kevÃ¤t oli vienyt lopullisen voiton talvesta.
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
 
 	<vakiojutut>
 		<saa>
-			<kuva osoite="lumi.jpg" kuvaus="Viimeisiä lumikasoja viedään" />
-			<teksti>Auringon lämmittävä voima on uskomaton. Maaliskuussa näytti siltä, että lumet
-				eivät sula juhannukseksikaan, mutta niin vain ennen huhtikuun loppua oli viimeinenkin
-				lumilämpäre hävinnyt pihasta ja kevään kukat kukkivat täyttä päätä. 
+			<kuva osoite="lumi.jpg" kuvaus="ViimeisiÃ¤ lumikasoja viedÃ¤Ã¤n" />
+			<teksti>Auringon lÃ¤mmittÃ¤vÃ¤ voima on uskomaton. Maaliskuussa nÃ¤ytti siltÃ¤, ettÃ¤ lumet
+				eivÃ¤t sula juhannukseksikaan, mutta niin vain ennen huhtikuun loppua oli viimeinenkin
+				lumilÃ¤mpÃ¤re hÃ¤vinnyt pihasta ja kevÃ¤Ã¤n kukat kukkivat tÃ¤yttÃ¤ pÃ¤Ã¤tÃ¤. 
 			</teksti>
 		</saa>
 		<ajatus>
-			<sitaatti>Nykyisin asioiden arvo määräytyy usein sen mukaan, kuinka paljon muut sitä haluavat</sitaatti>
+			<sitaatti>Nykyisin asioiden arvo mÃ¤Ã¤rÃ¤ytyy usein sen mukaan, kuinka paljon muut sitÃ¤ haluavat</sitaatti>
 			<lahde>Toni Brantberg - Kirkko ja kaupunki -lehti</lahde>
 		</ajatus>
 		<valokuva>
 			<kuva osoite="kukka.jpg" />
-			<teksti>Yksinäinen</teksti>
+			<teksti>YksinÃ¤inen</teksti>
 		</valokuva>
 	</vakiojutut>
 

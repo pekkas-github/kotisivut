@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
-<uutissivu otsikko="Heinäkuu 2009">
+<uutissivu otsikko="HeinÃ¤kuu 2009">
 	<metatiedot>
 		<vuosi>2009</vuosi>
-		<kuukausi>Heinäkuu</kuukausi>
+		<kuukausi>HeinÃ¤kuu</kuukausi>
 	</metatiedot>
 	<tapahtumat>
 		<tapahtuma otsikko="Museo- ja ratikkakierroksia">
 			<kappale>
 				<kuva tiedosto="albumi/kuva_17.jpg" muoto="pysty" kuvaus="Kansallismuseo" />
 				<teksti>
-					Yhteistä loma-aikaamme varten Sami oli tehnyt pitkän listan paikoista, joissa
-					pitäisi käydä. Lista koostui pääasiassa erilaisista museoista. Lisäksi tärkeää oli
-					että kohteisiin kuljetaan julkisilla kulkuvälineillä, erityisesti ratikoilla. 
+					YhteistÃ¤ loma-aikaamme varten Sami oli tehnyt pitkÃ¤n listan paikoista, joissa
+					pitÃ¤isi kÃ¤ydÃ¤. Lista koostui pÃ¤Ã¤asiassa erilaisista museoista. LisÃ¤ksi tÃ¤rkeÃ¤Ã¤ oli
+					ettÃ¤ kohteisiin kuljetaan julkisilla kulkuvÃ¤lineillÃ¤, erityisesti ratikoilla. 
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
 					Mielenkiintoisia kohteita kierrettiinkin useita seuraavasti: luonnontieteellinen
 					museo, ratikkamuseo, kansallilsmuseo, voimalaitosmuseo ja tekniikan museo.
-					Lisäksi vietettiin yksi päivä mummin kanssa Suomenlinnassa ja iskän toivomuksesta
+					LisÃ¤ksi vietettiin yksi pÃ¤ivÃ¤ mummin kanssa Suomenlinnassa ja iskÃ¤n toivomuksesta
 					vierailtii Fredrik Cygnaeuksen taidegalleriassa Kaivopuistossa.
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Golfia käytiin pelaamassa jonkin verran. Sami oli mukana muutamana maanantaina,
-					kun Luukkiin pääsee ilman green cardia. Lisäksi kävimme kerran kiertämässä Talman par-3
-					kenttää. Muuten meni mukavasti, mutta Samin mieliala nousi ja laski kuin vuoristoradassa
-					aina	sen mukaan, miten lyönnit sattuvat onnistumaan.
+					Golfia kÃ¤ytiin pelaamassa jonkin verran. Sami oli mukana muutamana maanantaina,
+					kun Luukkiin pÃ¤Ã¤see ilman green cardia. LisÃ¤ksi kÃ¤vimme kerran kiertÃ¤mÃ¤ssÃ¤ Talman par-3
+					kenttÃ¤Ã¤. Muuten meni mukavasti, mutta Samin mieliala nousi ja laski kuin vuoristoradassa
+					aina	sen mukaan, miten lyÃ¶nnit sattuvat onnistumaan.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -37,16 +37,16 @@
 			<kappale>
 				<kuva tiedosto="albumi/kuva_25.jpg" muoto="vaaka" kuvaus="Karjalasta kajahtaa" />
 				<teksti>
-					Brownit viettivät kesää Suomessa. Tiina ja Alexa tulivat jo kesäkuun alkupuolella.
-					Alexa tuli suorittamaan suomen kielen kielikurssia ja oikein hienosti ääntäminen ja
-					puhuminen sujuivatkin. Tiina ja Alexa asuivat kesän Eilan asunnossa Varistossa. Kävimme
-					visiitillä kahvilla ja piirakalla. 
+					Brownit viettivÃ¤t kesÃ¤Ã¤ Suomessa. Tiina ja Alexa tulivat jo kesÃ¤kuun alkupuolella.
+					Alexa tuli suorittamaan suomen kielen kielikurssia ja oikein hienosti Ã¤Ã¤ntÃ¤minen ja
+					puhuminen sujuivatkin. Tiina ja Alexa asuivat kesÃ¤n Eilan asunnossa Varistossa. KÃ¤vimme
+					visiitillÃ¤ kahvilla ja piirakalla. 
 				</teksti>
 			</kappale>
 			<kappale>
 				<teksti>
-					Dave tuli myös pariksi viikoksi heinäkuussa. Häntä näimme mummin ja vaarin luona.
-					 Siellä Browneille tarjottiin pala Suomen lähihistoriaa runsaan puolen vuosisadan takaa.
+					Dave tuli myÃ¶s pariksi viikoksi heinÃ¤kuussa. HÃ¤ntÃ¤ nÃ¤imme mummin ja vaarin luona.
+					 SiellÃ¤ Browneille tarjottiin pala Suomen lÃ¤hihistoriaa runsaan puolen vuosisadan takaa.
 				</teksti>
 			</kappale>	
 		</tapahtuma>
@@ -54,9 +54,9 @@
 			<kappale>
 				<kuva tiedosto="albumi/kuva_30.jpg" muoto="vaaka" kuvaus="Viva Espanja!" />
 				<teksti>
-					Rapuiltaa vietettiin Heikinlaaksossa. Saksiniekkoja oli sekä Espanjasta että Suomesta.
+					Rapuiltaa vietettiin Heikinlaaksossa. Saksiniekkoja oli sekÃ¤ Espanjasta ettÃ¤ Suomesta.
 					Vertailussa kotimaiset voittivat maussa, mutta kovin ne olivat kooltaan vaatimattomia.
-					Espanjalaisissa sentään oli enemmän syötävää ja ihan kelvollisilta nekin maistuivat.
+					Espanjalaisissa sentÃ¤Ã¤n oli enemmÃ¤n syÃ¶tÃ¤vÃ¤Ã¤ ja ihan kelvollisilta nekin maistuivat.
 				</teksti>
 			</kappale>
 		</tapahtuma>
@@ -64,12 +64,12 @@
 	<vakiojutut>
 		<saa>
 			<kuva tiedosto="albumi/kuva_saa.jpg" kuvaus="Munkkikahvit Tikkurilan torilla" />
-			<kuvaus>Heinäkuu ei ollut mikään hellekuukausi. Oli kyllä auringonpaistetta
-			ihan mukavasti, mutta lämpötila pysytteli vaivoin parissakymmenessä.
-			Aamukahvi terassilla piti nauttia lämpimästi pukeutuneena.</kuvaus>
+			<kuvaus>HeinÃ¤kuu ei ollut mikÃ¤Ã¤n hellekuukausi. Oli kyllÃ¤ auringonpaistetta
+			ihan mukavasti, mutta lÃ¤mpÃ¶tila pysytteli vaivoin parissakymmenessÃ¤.
+			Aamukahvi terassilla piti nauttia lÃ¤mpimÃ¤sti pukeutuneena.</kuvaus>
 		</saa>
 		<ajatus>
-			<sitaatti>Epäonnistumisen pelkoa pahempaa on vain katumus.</sitaatti>
+			<sitaatti>EpÃ¤onnistumisen pelkoa pahempaa on vain katumus.</sitaatti>
 			<lahde>Elokuvasta Kuumalinja kuuhun</lahde>
 		</ajatus>
 		<valokuva>

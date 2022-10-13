@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../muunnokset/kuvasivu_v2.xsl"?>
 
-<kuvaesitys otsikko="Mailan 80-vuotispäivät">
+<kuvaesitys otsikko="Mailan 80-vuotispÃ¤ivÃ¤t">
 	<kuva osoite="IMG_0009.jpg">Aila, Sirkka ja Tuula</kuva>
 	<kuva osoite="IMG_0010.jpg">Maila ja Kauko</kuva>
 	<kuva osoite="IMG_0013.jpg">Tanja, Petri ja Kille</kuva>
-	<kuva osoite="IMG_0033.jpg">Keittiöhenkilökunta: Mirja ja Sami</kuva>
+	<kuva osoite="IMG_0033.jpg">KeittiÃ¶henkilÃ¶kunta: Mirja ja Sami</kuva>
 	<kuva osoite="IMG_0018.jpg">Hirvo, Markus ja Irma</kuva>
 	<kuva osoite="IMG_0020.jpg">Kasper, Taija ja Laura</kuva>
 	<kuva osoite="IMG_0021.jpg">Jukka ja Eija-Liisa</kuva>
@@ -13,7 +13,7 @@
 	<kuva osoite="IMG_0024.jpg">Tiia ja Eeva</kuva>
 	<kuva osoite="IMG_0034.jpg">Mette</kuva>
 	<kuva osoite="IMG_0026.jpg">Jaska</kuva>
-	<kuva osoite="IMG_0028.jpg">Eeva pitää puhetta</kuva>
+	<kuva osoite="IMG_0028.jpg">Eeva pitÃ¤Ã¤ puhetta</kuva>
 	<kuva osoite="IMG_0031.jpg">Sisarukset</kuva>
 </kuvaesitys>
 

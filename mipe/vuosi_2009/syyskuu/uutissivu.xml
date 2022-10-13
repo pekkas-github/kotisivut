@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../muunnokset/uutissivu_v2.1.xsl"?>
 
 <uutissivu otsikko="Syyskuu 2009">
@@ -10,76 +10,76 @@
 	<tapahtumat>
 		<tapahtuma otsikko="Sami seikkailijoihin">
 				<teksti>
-					Sami aloitti toiminnan partiossa Koutien lippukunnassa seikkailijoiden ryhmässä.
-					Ryhmässä oli jo aikaisemmin pari Samin kaveria. Seikkailijat kokoontuvat kerran
+					Sami aloitti toiminnan partiossa Koutien lippukunnassa seikkailijoiden ryhmÃ¤ssÃ¤.
+					RyhmÃ¤ssÃ¤ oli jo aikaisemmin pari Samin kaveria. Seikkailijat kokoontuvat kerran
 					viikossa pari tuntia kerrallaan Koutien kerholla.
 				</teksti>
 				<teksti>
-					Kerholla on leikkimisen ja pienimuotoisen suunnistamisen lisäksi opeteltu solmuja
-					ja puukon käyttöä. Kotiväen tehtäväksi annettiin partioliinan tekeminen. Siinä
+					Kerholla on leikkimisen ja pienimuotoisen suunnistamisen lisÃ¤ksi opeteltu solmuja
+					ja puukon kÃ¤yttÃ¶Ã¤. KotivÃ¤en tehtÃ¤vÃ¤ksi annettiin partioliinan tekeminen. SiinÃ¤
 					piti turvautua mummin ompelutaitoihin.
 				</teksti>
 				<teksti>
-					Partioaitasta käytiin ostamassa Samille rinkka ja makuualusta sekä juomapullo ja
-					ruokailuastia. Makuupussi löytyi omasta takaa Niitä tarvitaan lokakuussa, kun Koudat
-					tekevät "riihityksen" eli lähtevät viikonlopuksi luontoon Nuuksioon. Yhden yön, tai 
-					ainakin osan siitä, Sami harjoitteli makuupussissa nukkumista. Hyvin se menikin, 
-					mutta aamuyöstä tuli kuuma ja piti siirtyä omaan sänkyyn.
+					Partioaitasta kÃ¤ytiin ostamassa Samille rinkka ja makuualusta sekÃ¤ juomapullo ja
+					ruokailuastia. Makuupussi lÃ¶ytyi omasta takaa NiitÃ¤ tarvitaan lokakuussa, kun Koudat
+					tekevÃ¤t "riihityksen" eli lÃ¤htevÃ¤t viikonlopuksi luontoon Nuuksioon. Yhden yÃ¶n, tai 
+					ainakin osan siitÃ¤, Sami harjoitteli makuupussissa nukkumista. Hyvin se menikin, 
+					mutta aamuyÃ¶stÃ¤ tuli kuuma ja piti siirtyÃ¤ omaan sÃ¤nkyyn.
 				</teksti>
 			</tapahtuma>
-		<tapahtuma otsikko="Mummin synttärit">
-				<kuva osoite="albumi/maila.jpg" muoto="pysty" kuvaus="Päivänsankari" />
+		<tapahtuma otsikko="Mummin synttÃ¤rit">
+				<kuva osoite="albumi/maila.jpg" muoto="pysty" kuvaus="PÃ¤ivÃ¤nsankari" />
 				<teksti>
-					Mummin 80-vuotispäiviä vietettiin Malmilla, vaikka aluksi hän vähän epäröi niiden 
-					järjestämistä. Jälkeen päin voi sanoa, että kyllä kannatti järjestää! Juhlat olivat oikein
-					onnistuneet ja mukavat. Vieraitakin oli kahdelta eri vuosisadalta. Myös parveketerassi
-					oli saatu kuntoon monen vuoden odotuksen jälkeen ja siellä oli vieraiden hyvä käydä
+					Mummin 80-vuotispÃ¤iviÃ¤ vietettiin Malmilla, vaikka aluksi hÃ¤n vÃ¤hÃ¤n epÃ¤rÃ¶i niiden 
+					jÃ¤rjestÃ¤mistÃ¤. JÃ¤lkeen pÃ¤in voi sanoa, ettÃ¤ kyllÃ¤ kannatti jÃ¤rjestÃ¤Ã¤! Juhlat olivat oikein
+					onnistuneet ja mukavat. Vieraitakin oli kahdelta eri vuosisadalta. MyÃ¶s parveketerassi
+					oli saatu kuntoon monen vuoden odotuksen jÃ¤lkeen ja siellÃ¤ oli vieraiden hyvÃ¤ kÃ¤ydÃ¤
 					vilvoittelemassa.
 				</teksti>
-				<nappi teksti="Mailan syntymäpäivät" osoite="albumi/maila.xml" />
+				<nappi teksti="Mailan syntymÃ¤pÃ¤ivÃ¤t" osoite="albumi/maila.xml" />
 		</tapahtuma>
-		<tapahtuma otsikko="Helsinkiä kuvissa">
+		<tapahtuma otsikko="HelsinkiÃ¤ kuvissa">
 			<kuva osoite="albumi/snellu1.jpg" muoto="vaaka" kuvaus="Snellmaninkatua I.K. Inhan kuvaamana" />
 			<teksti>
-					Vuonna 1908 WSOY oli tekemässä opaskirjaa Helsingistä ja pyysi I.K. Inhaa ottamaan
-					opasta varten valokuvia pääkaupungin rakennuksista ja paikoista. Nyt, sadan vuoden 
-					kuluttua, alkuperäiset valokuvauslevyt ovat löytyneet WSOY:n arkistosta ja kuvat on 
+					Vuonna 1908 WSOY oli tekemÃ¤ssÃ¤ opaskirjaa HelsingistÃ¤ ja pyysi I.K. Inhaa ottamaan
+					opasta varten valokuvia pÃ¤Ã¤kaupungin rakennuksista ja paikoista. Nyt, sadan vuoden 
+					kuluttua, alkuperÃ¤iset valokuvauslevyt ovat lÃ¶ytyneet WSOY:n arkistosta ja kuvat on 
 					julkaistu kirjana "Helsinki: valon kaupunki".
 			</teksti>
 			<teksti>
-					Elämä ei sata vuotta sitten varmasti ollut helpompaa kuin tänä päivänä, mutta jollakin
-					tavalla kuvia katsellessa mieleen nousee kaihoisa kaipaus menneeseen. Kaikki näyttää
-					niin kiireettömältä, yksinkertaiselta ja viattomalta. Kaduilla ja toreilla on tilaa ja avaruutta.
-					Missään ei näy autoja, vain muutamia hevoskärryjä ja raitiovaunuja. Ei asfalttia, ei
-					liikennemerkkejä. Ei liikenteen meteliä - sen suorastaan aisti. 
+					ElÃ¤mÃ¤ ei sata vuotta sitten varmasti ollut helpompaa kuin tÃ¤nÃ¤ pÃ¤ivÃ¤nÃ¤, mutta jollakin
+					tavalla kuvia katsellessa mieleen nousee kaihoisa kaipaus menneeseen. Kaikki nÃ¤yttÃ¤Ã¤
+					niin kiireettÃ¶mÃ¤ltÃ¤, yksinkertaiselta ja viattomalta. Kaduilla ja toreilla on tilaa ja avaruutta.
+					MissÃ¤Ã¤n ei nÃ¤y autoja, vain muutamia hevoskÃ¤rryjÃ¤ ja raitiovaunuja. Ei asfalttia, ei
+					liikennemerkkejÃ¤. Ei liikenteen meteliÃ¤ - sen suorastaan aisti. 
 			</teksti>
-			<kuva osoite="albumi/snellu3.jpg" muoto="vaaka" kuvaus="Snellmaninkatu 100 vuotta myöhemmin, P.Salonen" />
+			<kuva osoite="albumi/snellu3.jpg" muoto="vaaka" kuvaus="Snellmaninkatu 100 vuotta myÃ¶hemmin, P.Salonen" />
 			<teksti>
-					Keskustan monet kivitalot erottuivat selkeästi ympäristön matalista puurakennuksista. Piti
-					oikein tämän päivän kuvista tarkistaa, että samat rakennukset ovat edelleenkin olemassa,
-					mutta ne eivät enää ole samalla tavalla hallitsevia, vaan katoavat tasaisen harmaaseen
-					rivistöön. Kaikki ei kuitenkaan ole säilynyt. Suurinta ahdistusta aiheutti kuvat Kasarmintorin
-					upeasta kauppahallista, joka purettiin syntymävuonnani 1958, nykyisen mielikuvituksettoman,
-					ruman laatikon tieltä.
+					Keskustan monet kivitalot erottuivat selkeÃ¤sti ympÃ¤ristÃ¶n matalista puurakennuksista. Piti
+					oikein tÃ¤mÃ¤n pÃ¤ivÃ¤n kuvista tarkistaa, ettÃ¤ samat rakennukset ovat edelleenkin olemassa,
+					mutta ne eivÃ¤t enÃ¤Ã¤ ole samalla tavalla hallitsevia, vaan katoavat tasaisen harmaaseen
+					rivistÃ¶Ã¶n. Kaikki ei kuitenkaan ole sÃ¤ilynyt. Suurinta ahdistusta aiheutti kuvat Kasarmintorin
+					upeasta kauppahallista, joka purettiin syntymÃ¤vuonnani 1958, nykyisen mielikuvituksettoman,
+					ruman laatikon tieltÃ¤.
 			</teksti>
 			<teksti>
-					Läntisen kaupungin maisemassa näkyi, että alkuperäinen Helsinki oli karua ja
-					kallioista saaristoluontoa. Töölöstä alkoi maaseutu. Ihmiset elelivät puisissa
-					mökeissä ja hoitivat viljelmiään. Valitettavasti ei ole olemassa aikakonetta, jolla voisi
-					piipahtaa katsomaan vanhaa Helsinkiä, mutta onneksi meillä on valokuvat.
+					LÃ¤ntisen kaupungin maisemassa nÃ¤kyi, ettÃ¤ alkuperÃ¤inen Helsinki oli karua ja
+					kallioista saaristoluontoa. TÃ¶Ã¶lÃ¶stÃ¤ alkoi maaseutu. Ihmiset elelivÃ¤t puisissa
+					mÃ¶keissÃ¤ ja hoitivat viljelmiÃ¤Ã¤n. Valitettavasti ei ole olemassa aikakonetta, jolla voisi
+					piipahtaa katsomaan vanhaa HelsinkiÃ¤, mutta onneksi meillÃ¤ on valokuvat.
 			</teksti>
 		</tapahtuma>
 	</tapahtumat>
 
 	<vakiojutut>
 		<saa>
-			<teksti>Syyskuussa oli lämpimiä ilmoja ja lyhyen aikaa hienoa syksyn väriloistoa. Sen verran
-					olin saamaton, että en tullut ottaneeksi siitä yhtään kuvaa.
+			<teksti>Syyskuussa oli lÃ¤mpimiÃ¤ ilmoja ja lyhyen aikaa hienoa syksyn vÃ¤riloistoa. Sen verran
+					olin saamaton, ettÃ¤ en tullut ottaneeksi siitÃ¤ yhtÃ¤Ã¤n kuvaa.
 			</teksti>
 		</saa>
 		<ajatus>
-			<sitaatti>Ihminen ensin. Taloutta, yhteiskunnan järjestelmiä ja teknologiaa tarvitaan,
-			mutta niiden on palveltava ihmistä.</sitaatti>
+			<sitaatti>Ihminen ensin. Taloutta, yhteiskunnan jÃ¤rjestelmiÃ¤ ja teknologiaa tarvitaan,
+			mutta niiden on palveltava ihmistÃ¤.</sitaatti>
 			<lahde>Eero Voutilainen</lahde>
 		</ajatus>
 		<valokuva>
