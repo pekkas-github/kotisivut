@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+    * {
+      margin: 0px;
+      padding: 0px;
+      border: 0px;
+    }
+
+    body {
+      height: 100vh;
+    }
+
+    #canvas {
+      height: 100%;
+      display: grid;
+      grid-template-columns: 150px auto;
+    }
+
+    #left-frame {
+     display: grid;
+     grid-template-rows: auto 35px; 
+    }
+
+  </style>
+</head>
+
+<body>
+  <div id="canvas">
+    
+    <div id="left-frame">
+      <div id="nav-frame">
+        <iframe src="uutissivut_lista.xml" height="100%" width="100%"></iframe>
+      </div>
+      <div id="email-frame">
+        <iframe src="postilinkki.htm" height="100%" width="100%"></iframe>
+      </div>
+    </div>
+
+    <div id="content-frame">
+      <iframe src="etusivu.xml" name="uutisruutu" height="100%" width="100%"></iframe>
+    </div>
+  </div>
+</body>
+
+</html>
